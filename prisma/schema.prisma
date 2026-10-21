@@ -1,0 +1,96 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id        String    @id @default(cuid())
+  email     String    @unique
+  name      String?
+  role      String    @default("STUDENT") // STUDENT | ADMIN
+  createdAt DateTime  @default(now())
+  sessions  Session[]
+  attempts  Attempt[]
+}
+
+// Server-side sessions: the cookie holds a random token, only its hash is stored.
+model Session {
+  id        String   @id @default(cuid())
+  tokenHash String   @unique
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+model OtpCode {
+  id        String   @id @default(cuid())
+  email     String
+  codeHash  String
+  attempts  Int      @default(0)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  @@index([email, createdAt])
+}
+
+model Test {
+  id          String     @id @default(cuid())
+  title       String
+  exam        String // JEE_MAIN | JEE_ADV | NEET
+  durationMin Int
+  published   Boolean    @default(false)
+  createdAt   DateTime   @default(now())
+  questions   Question[]
+  attempts    Attempt[]
+}
+
+model Question {
+  id            String     @id @default(cuid())
+  testId        String
+  test          Test       @relation(fields: [testId], references: [id], onDelete: Cascade)
+  order         Int
+  subject       String // PHYSICS | CHEMISTRY | MATHS | BIOLOGY
+  type          String // MCQ | NUMERICAL
+  text          String
+  options       String // JSON string[] (MCQ only)
+  correctAnswer String // option index "0".."3" or numeric string. NEVER send to client before submit.
+  explanation   String?
+  marks         Int        @default(4)
+  negative      Int        @default(1)
+  responses     Response[]
+
+  @@index([testId, order])
+}
+
+model Attempt {
+  id          String     @id @default(cuid())
+  userId      String
+  user        User       @relation(fields: [userId], references: [id])
+  testId      String
+  test        Test       @relation(fields: [testId], references: [id])
+  startedAt   DateTime   @default(now())
+  deadline    DateTime // startedAt + duration, computed on the server
+  submittedAt DateTime?
+  score       Int?
+  responses   Response[]
+
+  @@unique([userId, testId]) // one attempt per test (MVP)
+}
+
+model Response {
+  attemptId  String
+  attempt    Attempt  @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id])
+  answer     String?
+  updatedAt  DateTime @updatedAt
+
+  @@id([attemptId, questionId])
+}
