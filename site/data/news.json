@@ -1,5 +1,255 @@
 [
  {
+  "id": "864a753b84",
+  "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-22T16:20:37+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-22",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "a54d1aa6de",
+  "title": "Faster to Science: A Letter to the Science Community",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-22T00:00:16+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-22",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "39e81c82ca",
+  "title": "Model Capacity Frontier: A Development Framework for LLM-Supported Social Simulation",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.24168",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language model (LLM) agents are increasingly incorporated into agent-based models (ABMs) on the premise that richer, context-sensitive human behavior can improve empirical fidelity. However, LLM-supported ABMs introduce an open-ended design space in which subtle modeling and configuration choices, such as prompt ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "f7b4fca7db",
+  "title": "Local Clifford equivalence to CSS codes: Polynomial-time classification and conversion",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.28737",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Calderbank--Shor--Steane (CSS) codes support decoding and fault-tolerant logical operations through separate pure $X$ and pure $Z$ stabilizer checks. Generator choices and single-qubit Clifford transformations can obscure this structure.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "8c2c9f2087",
+  "title": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.28810",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "The widespread adoption of generative artificial intelligence in recent years has brought a parallel rise in prompt injection and jailbreak attacks. By embedding malicious instructions, these exploits manipulate language models to bypass intended behavior and operational boundaries.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "99cb62c888",
+  "title": "From Qubit Tensorization to Gaussian Optimizers in Bosonic Systems",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.28902",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "We develop a method for deriving Gaussian optimality results for bosonic quantum systems from inequalities for qubit systems. Inspired by Gross's derivation of the Gaussian logarithmic Sobolev inequality from an inequality on the two-point space, we use qubits as quantum two-point spaces and lift bosonic Weyl operators",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "217a5f6b1f",
+  "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.28905",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems usually discard those states and make agents communicate only after decoding text. We ask whether one independent diffusion trajectory can pass a compact hidden message into another and, crucially, whether ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "5d26b822de",
+  "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.28909",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use. Almost all production systems are built on autoregressive (AR) language models and inherit left-to-right decoding in planning and long-form writing.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
   "id": "c3da4b0cef",
   "title": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
   "category": "artificial-intelligence",
@@ -641,6 +891,186 @@
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "relevance": 8.0,
   "added": "2026-10-22T17:44:36.205504+00:00",
+  "sample": false
+ },
+ {
+  "id": "cf37dcb56b",
+  "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-21T20:51:50+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "NASA tested RS-25 engine No. 10001 on Oct.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-21",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 8.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "5a5a808935",
+  "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-21T18:35:56+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Interstellar probes. Lunar drones.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-21",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 8.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "2f4faef021",
+  "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-21T16:31:11+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-21",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "e2800801f1",
+  "title": "Tracks Along the Longest Drive on Another World",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-21T15:50:44+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-21",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "ec019517f3",
+  "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-21T15:05:08+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module&#8217;s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-21",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
+  "sample": false
+ },
+ {
+  "id": "072358b442",
+  "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-21T12:17:58+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-21",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-10-22T17:57:32.747225+00:00",
   "sample": false
  },
  {
