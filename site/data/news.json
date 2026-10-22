@@ -60,6 +60,195 @@
   "sample": false
  },
  {
+  "id": "804aa603dd",
+  "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29023",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language model (LLM) agents are often improved by iterating until a fixed verifier is done. Once that verifier saturates, the loop has nothing left to climb.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
+  "id": "eeaf64c608",
+  "title": "PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29030",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Currently, dexterous humanoid robot hands are widely considered the final hardware bottleneck that hampers generalist robots from physically assisting people at home and work. As conventional tendon-driven designs suffer from high cost, demanding maintenance, poor reliability, and short durability, alternative linkage-",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
+  "id": "0421feee0e",
+  "title": "StochIKM: Automated High-Fidelity Reconstruction of Individual Patient Data from Published Kaplan-Meier Curves",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29122",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Individual patient data are the gold standard for secondary analysis of time-to-event evidence, but they are rarely released, and reconstruction from a published Kaplan-Meier figure could help. Existing methods all claim high fidelity, each judged by whichever agreements it happens to achieve, and each returns a single",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
+  "id": "b5485bad6e",
+  "title": "Readout Dependent Parameter Identifiability of Quantum Kernels",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29186",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "A circuit parameter can change measured features without changing their projected Gaussian kernel. We characterize this lost dependence and distinguish recovery by metric design from nonlinear feature expansion.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
+  "id": "ac0829ae63",
+  "title": "LLM-Based Exogenous World Modeling for Dynamic Scheduling",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29308",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Dynamic scheduling requires dispatching online arrivals while anticipating future jobs, as poor decisions can compound downstream costs under nonlinear tardiness objectives. We show that a pretrained large language model (LLM) can serve as the exogenous component of a structured world model, forecasting uncertain futur",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
+  "id": "a902f93d14",
+  "title": "Convergence Analysis of the Quantum Blahut-Arimoto Algorithm and the Contraction Coefficient of Qubit Amplitude-Damping Channels",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29373",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "In this work, we investigate the convergence rate of the quantum Blahut-Arimoto (BA) algorithm proposed for computing the coherent information of less noisy quantum channels. Previous work established exponential convergence under certain restrictive assumptions on the channel.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
   "id": "39e81c82ca",
   "title": "Model Capacity Frontier: A Development Framework for LLM-Supported Social Simulation",
   "category": "artificial-intelligence",
@@ -894,6 +1083,37 @@
   "sample": false
  },
  {
+  "id": "eaed7b6a72",
+  "title": "There isn't an easy exploit for this PHP vulnerability",
+  "category": "cybersecurity",
+  "category_label": "Cybersecurity",
+  "published": "2026-10-21T23:13:27+00:00",
+  "publisher": "eliastaylor.com",
+  "url": "https://eliastaylor.com/noexploit/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by eliastaylor.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: eliastaylor.com",
+   "Published: 2026-10-21",
+   "Topic: Cybersecurity",
+   "Found via Hacker News (community score 597)"
+  ],
+  "context": "Cybersecurity is about protecting systems and data from misuse.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "cybersecurity-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Cybersecurity'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 6,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
   "id": "cf37dcb56b",
   "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
   "category": "space",
@@ -1044,6 +1264,37 @@
   "sample": false
  },
  {
+  "id": "daa5082a90",
+  "title": "Cloudflare deploys protections against php2shell vulnerability",
+  "category": "cybersecurity",
+  "category_label": "Cybersecurity",
+  "published": "2026-10-21T14:11:14+00:00",
+  "publisher": "blog.cloudflare.com",
+  "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by blog.cloudflare.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: blog.cloudflare.com",
+   "Published: 2026-10-21",
+   "Topic: Cybersecurity",
+   "Found via Hacker News (community score 124)"
+  ],
+  "context": "Cybersecurity is about protecting systems and data from misuse.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "cybersecurity-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Cybersecurity'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.24,
+  "added": "2026-10-22T18:10:31.280826+00:00",
+  "sample": false
+ },
+ {
   "id": "072358b442",
   "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
   "category": "space",
@@ -1134,6 +1385,37 @@
   "kind": "news",
   "relevance": 2.12,
   "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
+  "id": "b657bbd1f7",
+  "title": "The Robot I Didn't Expect to Build",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-19T17:57:18+00:00",
+  "publisher": "spectrum.ieee.org",
+  "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by spectrum.ieee.org. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: spectrum.ieee.org",
+   "Published: 2026-10-19",
+   "Topic: Robotics",
+   "Found via Hacker News (community score 63)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.63,
+  "added": "2026-10-22T18:10:31.280826+00:00",
   "sample": false
  }
 ]
