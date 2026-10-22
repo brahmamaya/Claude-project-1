@@ -49,6 +49,11 @@ class T(unittest.TestCase):
         self.assertIsNone(collect.parse_rss(mk("https://evil.example/x.jpg"), src)[0]["image"])
         self.assertIsNone(collect.parse_rss(mk("http://images.nasa.gov/x.jpg"), src)[0]["image"])
 
+    def test_image_in_html(self):
+        x = b"<rss xmlns:content='http://purl.org/rss/1.0/modules/content/'><channel><item><title>NASA tests new rocket engine</title><link>https://www.nasa.gov/a</link><content:encoded><![CDATA[<p><img src='https://www.nasa.gov/wp-content/a.jpg'></p>]]></content:encoded></item></channel></rss>"
+        src = {"id": "nasa", "name": "NASA", "image_hosts": ["nasa.gov"], "image_credit": "NASA"}
+        self.assertEqual(collect.parse_rss(x, src)[0]["image"], "https://www.nasa.gov/wp-content/a.jpg")
+
     def test_hn_min_points(self):
         it = {"title": "SpaceX rocket reaches orbit again", "url": "https://a.com/x", "abstract": "", "kind": "news", "via": "Hacker News", "score_hint": 5}
         self.assertEqual(rank.rank([it], CFG, 3, 2, 50), [])

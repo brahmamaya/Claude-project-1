@@ -1,5 +1,5 @@
 """Fetch raw items from approved sources. Returns normalized dicts; never raises for a single source."""
-import json, urllib.request, xml.etree.ElementTree as ET
+import json, re, urllib.request, xml.etree.ElementTree as ET
 from urllib.parse import urlparse
 from .validate import clean_text, safe_url
 
@@ -27,17 +27,28 @@ def parse_arxiv(xml_bytes, source):
     return out
 
 
+MEDIA, CONTENT = "{http://search.yahoo.com/mrss/}", "{http://purl.org/rss/1.0/modules/content/}"
+
+
+def find_image(it):
+    """First image URL from enclosure, media:content/thumbnail, or an <img> in the item HTML."""
+    enc = it.find("enclosure")
+    if enc is not None and (enc.get("type") or "").startswith("image/"):
+        return enc.get("url")
+    for tag in ("content", "thumbnail"):
+        m = it.find(MEDIA + tag)
+        if m is not None and m.get("url"):
+            return m.get("url")
+    html = (it.findtext(CONTENT + "encoded") or "") + (it.findtext("description") or "")
+    m = re.search(r"<img[^>]+src=[\"']([^\"']+)", html)
+    return m.group(1) if m else None
+
+
 def parse_rss(xml_bytes, source):
     """Generic RSS 2.0 parser: title, link, date, short excerpt only."""
     out = []
     for it in ET.fromstring(xml_bytes).iter("item"):
-        img = None
-        enc = it.find("enclosure")
-        if enc is not None and (enc.get("type") or "").startswith("image/"):
-            img = enc.get("url")
-        else:
-            mc = it.find("{http://search.yahoo.com/mrss/}content")
-            img = mc.get("url") if mc is not None else None
+        img = find_image(it)
         host = (urlparse(img or "").hostname or "").lower()
         ok_img = safe_url(img) and any(host == h or host.endswith("." + h) for h in source.get("image_hosts", []))
         out.append({"image": img if ok_img else None, "image_credit": source.get("image_credit") if ok_img else None,"source_id": source["id"], "title": clean_text(it.findtext("title"), 200),
