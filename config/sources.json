@@ -11,7 +11,7 @@
    "commercial_use": "unconfirmed - needs_legal_review",
    "attribution": "Link to original publisher and 'via Hacker News'",
    "image_rights": "none - no images used",
-   "rate_limit": "Be polite: <=40 requests/run",
+   "rate_limit": "Polite: <=90 requests per run, once a day",
    "last_reviewed": "2026-10-22",
    "approved": true,
    "mode": "metadata_only"
@@ -41,12 +41,16 @@
    "permitted_usage": "NASA states its content is generally in the public domain unless marked otherwise. We use only title, short excerpt and link. Images and third-party material are NOT reused.",
    "commercial_use": "generally allowed for NASA-created content (third-party material excluded)",
    "attribution": "Credit NASA and link to the original page",
-   "image_rights": "none - images not reused (some are third-party)",
+   "image_rights": "Only images hosted on nasa.gov, shown with credit. NASA says its content is generally not copyrighted, but some images carry third-party credits. Takedown process applies.",
    "rate_limit": "One fetch per run",
    "last_reviewed": "2026-10-22",
    "approved": true,
    "mode": "metadata_and_abstract",
-   "review_note": "Confirm against NASA media usage guidelines before adding images."
+   "review_note": "Re-check NASA media usage guidelines periodically; remove an image on any rights-holder request.",
+   "image_hosts": [
+    "nasa.gov"
+   ],
+   "image_credit": "NASA"
   },
   {
    "id": "tech-rss-placeholder",

@@ -42,6 +42,18 @@ class T(unittest.TestCase):
         r = collect.parse_rss(x, {"id": "nasa", "name": "NASA", "publisher": "NASA"})[0]
         self.assertEqual((r["publisher"], r["abstract"], r["kind"]), ("NASA", "Engine test.", "news"))
 
+    def test_image_host_allowlist(self):
+        mk = lambda u: ("<rss><channel><item><title>NASA tests new rocket engine</title><link>https://www.nasa.gov/a</link><enclosure url='%s' type='image/jpeg'/></item></channel></rss>" % u).encode()
+        src = {"id": "nasa", "name": "NASA", "image_hosts": ["nasa.gov"], "image_credit": "NASA"}
+        self.assertEqual(collect.parse_rss(mk("https://images.nasa.gov/x.jpg"), src)[0]["image"], "https://images.nasa.gov/x.jpg")
+        self.assertIsNone(collect.parse_rss(mk("https://evil.example/x.jpg"), src)[0]["image"])
+        self.assertIsNone(collect.parse_rss(mk("http://images.nasa.gov/x.jpg"), src)[0]["image"])
+
+    def test_hn_min_points(self):
+        it = {"title": "SpaceX rocket reaches orbit again", "url": "https://a.com/x", "abstract": "", "kind": "news", "via": "Hacker News", "score_hint": 5}
+        self.assertEqual(rank.rank([it], CFG, 3, 2, 50), [])
+        self.assertEqual(len(rank.rank([{**it, "score_hint": 300}], CFG, 3, 2, 50)), 1)
+
     def test_rights_gate(self):
         src = json.loads((ROOT / "config/sources.json").read_text())["sources"]
         self.assertEqual({s["id"] for s in src if validate.source_approved(s)}, {"hn", "arxiv", "nasa"})

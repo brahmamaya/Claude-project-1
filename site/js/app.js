@@ -53,7 +53,7 @@ const R = {
     return `<section class="hero"><p class="eyebrow">The future starts here</p><h1>Understand Tomorrow. Today.</h1><p class="mute">Technologies, skills and ideas shaping our future, in simple language.</p></section>
 ${sampleNote(news)}<div class="row"><h2>Today's Future News</h2><a href="#/news">See All ›</a></div>
 ${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual(f)}</div><div class="t">${esc(T(f.title))}</div><div class="mute">${esc(f.category_label)} · ${ago(f.published)}</div></a>${news.slice(1, 4).map(newsCard).join("")}` : `<p class="empty">No stories yet.</p>`}
-<div class="row"><h2>Future Skills</h2><a href="#/skills">See All ›</a></div>${skills.slice(0, 3).map(skillRow).join("")}
+<div class="row"><h2>Learn something today</h2></div>${await spark()}<div class="row"><h2>Future Skills</h2><a href="#/skills">See All ›</a></div>${skills.slice(0, 3).map(skillRow).join("")}
 <div class="row"><h2>Business Cases</h2><a href="#/cases">See All ›</a></div>${cases.slice(0, 2).map(caseCard).join("")}
 <p class="mute" style="margin-top:20px">Last updated: ${meta.last_updated ? new Date(meta.last_updated).toLocaleString() : "—"}</p>${foot()}`;
   },
@@ -74,7 +74,7 @@ ${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual
 <h2>What happened</h2><p>${esc(n.summary)}</p>
 <div class="box"><h2>Key facts</h2><ul class="plain">${(n.key_facts || []).map((k) => `<li>${esc(k)}</li>`).join("")}</ul></div>
 ${n.context ? `<div class="box"><h2>Why it could matter</h2><p>${esc(n.context)}</p><p class="mute">${esc(n.context_label || "")}</p></div>` : ""}
-${sk.length ? `<h2>Related skills</h2>${sk.map(skillRow).join("")}` : ""}
+${await words(n)}${sk.length ? `<h2>Related skills</h2>${sk.map(skillRow).join("")}` : ""}
 ${src ? `<a class="btn" href="${esc(src)}" target="_blank" rel="noopener noreferrer">Read Original Source ${ic("ext")}</a>` : ""}
 ${rel.length ? `<div class="row"><h2>Related stories</h2></div>${rel.map(newsCard).join("")}` : ""}`;
   },
@@ -154,6 +154,18 @@ function savedList(saved, news, skills, cases) {
   return out.join("") || `<p class="mute">Nothing saved yet. Use the bookmark icon on any page.</p>`;
 }
 const lead = (a) => [...a.filter((n) => n.kind !== "research"), ...a.filter((n) => n.kind === "research")]; // plain-language news first, papers after
+async function spark() {
+  const L = await load("learn"); const keys = Object.keys(L); if (!keys.length) return "";
+  const day = Math.floor(Date.now() / 864e5), k = keys[day % keys.length], c = L[k], t = c.terms[day % c.terms.length];
+  return `<div class="box"><p class="eyebrow">Today's spark · ${esc(CATS[k] || k)}</p><h2 style="margin:6px 0 2px">Word: ${esc(t[0])}</h2><p>${esc(t[1])}</p>
+<p style="margin-top:10px"><b>Did you know?</b> ${esc(c.facts[0])}</p><p style="margin-top:10px"><b>Try this today:</b> ${esc(c.challenge)}</p></div>`;
+}
+async function words(n) {
+  const L = (await load("learn"))[n.category]; if (!L) return "";
+  const text = (n.title + " " + n.summary).toLowerCase();
+  let hit = L.terms.filter((t) => text.includes(t[0].toLowerCase())); if (!hit.length) hit = L.terms.slice(0, 2);
+  return `<div class="box"><h2>Words to know</h2>${hit.slice(0, 3).map((t) => `<p style="margin:6px 0"><b>${esc(t[0])}</b>: ${esc(t[1])}</p>`).join("")}</div><div class="box"><h2>Try this</h2><p>${esc(L.challenge)}</p></div>`;
+}
 const notFound = () => `${bar("")}<div class="empty"><h1>Not found</h1><p>This page does not exist.</p><a class="btn" href="#/">Go home</a></div>`;
 const hashParts = () => { const [p, q = ""] = (location.hash.slice(1) || "/").split("?"); return [p.split("/").filter(Boolean), new URLSearchParams(q)]; };
 const qs = () => hashParts()[1];

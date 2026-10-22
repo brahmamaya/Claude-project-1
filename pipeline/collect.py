@@ -31,7 +31,16 @@ def parse_rss(xml_bytes, source):
     """Generic RSS 2.0 parser: title, link, date, short excerpt only."""
     out = []
     for it in ET.fromstring(xml_bytes).iter("item"):
-        out.append({"source_id": source["id"], "title": clean_text(it.findtext("title"), 200),
+        img = None
+        enc = it.find("enclosure")
+        if enc is not None and (enc.get("type") or "").startswith("image/"):
+            img = enc.get("url")
+        else:
+            mc = it.find("{http://search.yahoo.com/mrss/}content")
+            img = mc.get("url") if mc is not None else None
+        host = (urlparse(img or "").hostname or "").lower()
+        ok_img = safe_url(img) and any(host == h or host.endswith("." + h) for h in source.get("image_hosts", []))
+        out.append({"image": img if ok_img else None, "image_credit": source.get("image_credit") if ok_img else None,"source_id": source["id"], "title": clean_text(it.findtext("title"), 200),
                     "url": (it.findtext("link") or "").strip(), "published": it.findtext("pubDate"),
                     "publisher": source.get("publisher", source["name"]),
                     "abstract": clean_text(it.findtext("description"), 600), "kind": "news", "score_hint": 0})
@@ -47,7 +56,7 @@ def parse_hn_item(d, source):
             "score_hint": int(d.get("score", 0)), "via": "Hacker News"}
 
 
-def fetch_hn(source, limit=40):
+def fetch_hn(source, limit=90):
     base = source["endpoint"]
     ids = json.loads(get(base + "topstories.json"))[:limit]
     items = []

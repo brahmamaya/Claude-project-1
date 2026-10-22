@@ -1,0 +1,222 @@
+{
+ "artificial-intelligence": {
+  "terms": [
+   [
+    "Machine learning",
+    "Software that learns patterns from examples instead of following fixed rules."
+   ],
+   [
+    "Model",
+    "The learned program that makes predictions or answers."
+   ],
+   [
+    "Training data",
+    "The examples used to teach a model."
+   ],
+   [
+    "LLM",
+    "A large language model: an AI trained on lots of text to predict and write text."
+   ],
+   [
+    "Agent",
+    "An AI system that can take steps, like using tools, to finish a task."
+   ]
+  ],
+  "facts": [
+   "The term 'artificial intelligence' was introduced for a 1956 summer workshop at Dartmouth College."
+  ],
+  "challenge": "Ask an AI tool the same question in two different ways. Which answer was clearer, and why?"
+ },
+ "robotics": {
+  "terms": [
+   [
+    "Sensor",
+    "A part that lets a robot sense things like light, touch or distance."
+   ],
+   [
+    "Actuator",
+    "A part, like a motor, that makes a robot move."
+   ],
+   [
+    "Autonomous",
+    "Able to act without a person controlling every move."
+   ],
+   [
+    "Humanoid",
+    "A robot shaped roughly like a human."
+   ]
+  ],
+  "facts": [
+   "The word 'robot' comes from a 1920 play by Karel Čapek. It comes from a Czech word for forced labour."
+  ],
+  "challenge": "Find 3 machines at home that sense something and then react. What do they sense?"
+ },
+ "space": {
+  "terms": [
+   [
+    "Orbit",
+    "The curved path an object follows around a planet or star."
+   ],
+   [
+    "Satellite",
+    "An object that circles another. The Moon is natural; many others are human-made."
+   ],
+   [
+    "Payload",
+    "What a rocket carries, such as a satellite."
+   ],
+   [
+    "Telescope",
+    "A tool that collects light so we can see faraway objects."
+   ]
+  ],
+  "facts": [
+   "Sputnik 1, launched in 1957, was the first human-made satellite."
+  ],
+  "challenge": "Find out how many people are in space right now, using a trusted space agency website."
+ },
+ "energy": {
+  "terms": [
+   [
+    "Battery",
+    "Stores energy in chemical form and releases it as electricity."
+   ],
+   [
+    "Grid",
+    "The network that carries electricity from where it is made to where it is used."
+   ],
+   [
+    "Renewable",
+    "Energy from sources that do not run out, like sun and wind."
+   ],
+   [
+    "Fusion",
+    "Joining small atoms to release energy, the process that powers the Sun."
+   ]
+  ],
+  "facts": [
+   "Edmond Becquerel observed the effect behind solar cells in 1839."
+  ],
+  "challenge": "Look at an electricity bill and find how many units (kWh) your home used last month."
+ },
+ "biotechnology": {
+  "terms": [
+   [
+    "DNA",
+    "The molecule that carries instructions for building living things."
+   ],
+   [
+    "Gene",
+    "A section of DNA with instructions for one job, like making a protein."
+   ],
+   [
+    "CRISPR",
+    "A tool that can edit DNA at chosen spots."
+   ],
+   [
+    "Protein",
+    "A molecule that does most of the work in cells."
+   ]
+  ],
+  "facts": [
+   "The Human Genome Project finished its work in 2003."
+  ],
+  "challenge": "Find one medicine or food that is made using biotechnology."
+ },
+ "semiconductors": {
+  "terms": [
+   [
+    "Semiconductor",
+    "A material that can switch between carrying and blocking electricity. Chips are built from it."
+   ],
+   [
+    "Transistor",
+    "A tiny switch inside a chip. Modern chips hold billions."
+   ],
+   [
+    "Nanometre",
+    "One billionth of a metre, used to describe tiny chip features."
+   ],
+   [
+    "GPU",
+    "A chip that does many simple calculations at once, useful for graphics and AI."
+   ]
+  ],
+  "facts": [
+   "The first transistor was demonstrated at Bell Labs in 1947."
+  ],
+  "challenge": "Count how many devices around you contain a chip."
+ },
+ "quantum-computing": {
+  "terms": [
+   [
+    "Qubit",
+    "The quantum version of a bit. It can be in a mix of 0 and 1."
+   ],
+   [
+    "Superposition",
+    "Being in a mix of states until measured."
+   ],
+   [
+    "Entanglement",
+    "A link between particles: measuring one tells you about the other."
+   ],
+   [
+    "Error correction",
+    "Methods to protect fragile quantum information from mistakes."
+   ]
+  ],
+  "facts": [
+   "Quantum computers are not just faster normal computers. They are expected to help only with certain kinds of problems."
+  ],
+  "challenge": "In your own words, explain why a spinning coin is a rough (not exact) picture of superposition."
+ },
+ "cybersecurity": {
+  "terms": [
+   [
+    "Encryption",
+    "Scrambling data so only someone with the key can read it."
+   ],
+   [
+    "Phishing",
+    "Fake messages that trick you into giving away passwords or money."
+   ],
+   [
+    "Two-factor login",
+    "A second proof of identity, on top of your password."
+   ],
+   [
+    "Vulnerability",
+    "A weakness in software that attackers might use."
+   ]
+  ],
+  "facts": [
+   "The Morris worm, in 1988, was one of the first computer worms to spread widely on the internet."
+  ],
+  "challenge": "Turn on two-factor login for one important account today."
+ },
+ "advanced-manufacturing": {
+  "terms": [
+   [
+    "3D printing",
+    "Building an object layer by layer from a digital design."
+   ],
+   [
+    "Automation",
+    "Machines doing tasks with little human input."
+   ],
+   [
+    "Prototype",
+    "A first test version of a product."
+   ],
+   [
+    "Materials science",
+    "Studying and designing the stuff things are made of."
+   ]
+  ],
+  "facts": [
+   "Chuck Hull patented stereolithography, an early 3D printing method, in 1986."
+  ],
+  "challenge": "Pick an everyday object and guess how many steps it takes to make it."
+ }
+}

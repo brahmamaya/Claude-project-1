@@ -38,15 +38,17 @@ def classify(it, cfg):
     return best, best_s
 
 
-def rank(items, cfg, min_score, news_min_score=None):
+def rank(items, cfg, min_score, news_min_score=None, min_hn_points=0):
     """News-kind items may use a lower bar than research (their titles are short)."""
     keep = []
     for it in items:
+        if it.get("via") and it.get("score_hint", 0) < min_hn_points:
+            continue  # only stories people actually upvoted
         cat, s = classify(it, cfg)
         bar = news_min_score if (news_min_score and it.get("kind") == "news") else min_score
         if not cat or s < bar:
             continue
-        s += min(it.get("score_hint", 0) / 200, 2)  # popularity is a small tiebreaker
+        s += min(it.get("score_hint", 0) / 100, 4)  # bigger stories rank higher
         keep.append({**it, "category": cat, "relevance": round(s, 2)})
     return sorted(keep, key=lambda x: -x["relevance"])
 

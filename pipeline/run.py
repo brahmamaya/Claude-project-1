@@ -25,7 +25,7 @@ def atomic_write(path, text):
 
 def process(raw, cfg, site, existing, now):
     ok = [i for i in raw if not validate.validate_item(i, now, site["max_age_days"])]
-    ranked = rank.rank(ok, cfg, site["min_score"], site.get("news_min_score"))
+    ranked = rank.rank(ok, cfg, site["min_score"], site.get("news_min_score"), site.get("min_hn_points", 0))
     fresh = rank.dedupe(ranked, existing)
     fresh = rank.cap_per_kind(fresh, site.get("max_per_kind", {}))[: site["max_new_per_run"]]
     return [content.build_story(i, cfg["categories"], cfg["skills_hint"], now) for i in fresh]
