@@ -2,58 +2,83 @@
  "about": {
   "title": "About",
   "body": [
-   "Think Orbit helps ordinary people understand emerging technology, future skills and new business ideas.",
-   "We link to original sources and never copy full articles.",
-   "Some text is written from fixed templates. We say so where it applies."
+   "think-orbit is an independent learning and discovery site. Our tagline is: Understand Tomorrow. Today.",
+   "We help ordinary readers understand new technology, useful skills and business ideas that may matter in the future.",
+   "We are not a news agency. For news and research items we show a headline, a short summary or excerpt, and a link to the original publisher. We do not copy full articles.",
+   "Some text on this site is produced by fixed templates and automatic filters, not by human reporters. Where text is background written by us (not from the source), it is labelled.",
+   "Skills and case studies are written by us from public information, with references. They are for learning only.",
+   "Contact: pehlawalagmail@gmail.com"
   ]
  },
  "contact": {
   "title": "Contact",
   "body": [
-   "For questions, corrections or takedown requests, email the address set in config/site.json (contact_email).",
-   "TODO(owner): put a real email before launch."
+   "Email: pehlawalagmail@gmail.com",
+   "Use this address for questions, corrections, copyright or takedown requests, and privacy requests.",
+   "Please include the page link and a short description of the issue. We aim to reply within 7 days."
   ]
  },
  "privacy": {
   "title": "Privacy Policy",
   "body": [
-   "No login. No tracking scripts. No cookies set by us.",
-   "Saved items are stored only in your browser (localStorage) and never sent to us.",
-   "GitHub Pages may log visits under GitHub's own policy.",
-   "TODO(legal review): confirm wording for your jurisdiction (e.g. India DPDP Act)."
+   "Last updated: 22 October 2026.",
+   "No account and no login. We do not ask for your name, email or phone number to use this site.",
+   "We do not run advertising or analytics trackers, and we do not set cookies ourselves.",
+   "Saved items: when you tap the bookmark icon, the list is stored only in your own browser (local storage). It is not sent to us. You can clear it in your browser settings.",
+   "Hosting: this site is hosted on GitHub Pages. GitHub may collect technical data such as IP address and browser type when you visit, under GitHub's own privacy statement. We do not receive that data as personal profiles.",
+   "Links to other websites: when you open a source or learning link, that website's own privacy policy applies.",
+   "If you email us, we use your email only to reply to you and keep it only as long as needed.",
+   "Children: the site is general educational content and is not directed at collecting data from children.",
+   "Your rights: you may ask us to correct or delete any personal data we hold (for example, an email you sent us) by writing to pehlawalagmail@gmail.com.",
+   "Changes: if this policy changes, we will update the date above.",
+   "This policy is written in plain language to follow common privacy principles, including those of India's Digital Personal Data Protection Act, 2023. It is not a substitute for advice from a lawyer."
   ]
  },
  "terms": {
   "title": "Terms of Use",
   "body": [
-   "Content is for information and learning only. It is not financial, legal or career advice.",
-   "Skills and courses do not guarantee jobs.",
-   "Third-party links are not under our control.",
-   "TODO(legal review)."
+   "Last updated: 22 October 2026. By using this site you agree to these terms.",
+   "Information only: content is for general learning. It is not financial, investment, legal, medical or career advice. Please check with a qualified person before making important decisions.",
+   "No guarantees: we try to be accurate but cannot promise that everything is complete or current. Information about companies, skills and technology can change. Learning a skill does not guarantee a job or income.",
+   "Third-party content: headlines, excerpts and links belong to their original publishers and are shown to point you to the source. Their views are not ours. We are not responsible for other websites.",
+   "No partnership: names and logos of companies appear only to describe them. This does not mean the company supports, sponsors or is partnered with think-orbit.",
+   "Our content: you may share links to our pages. Please do not copy our original text or drawings in bulk or present them as your own without written permission.",
+   "Acceptable use: do not misuse the site, try to break it, or send automated bulk requests that harm it.",
+   "Availability: the site is provided as is and may change or stop at any time.",
+   "Limit of liability: to the extent allowed by law, we are not liable for losses from using the site or relying on its content.",
+   "Governing law: these terms are governed by the laws of India. Questions: pehlawalagmail@gmail.com."
   ]
  },
  "copyright": {
   "title": "Copyright and Takedown",
   "body": [
-   "We respect rights holders. If you believe content here infringes your rights, email the contact address with the page link and proof of ownership.",
-   "We aim to review requests promptly and remove content where appropriate.",
-   "TODO(legal review): add designated agent details if needed."
+   "We respect the rights of creators and publishers. For news we show only a headline, a short excerpt and a link. We do not copy full articles. We do not use third-party photos unless the licence clearly allows it.",
+   "If you think something here infringes your copyright or other rights, email pehlawalagmail@gmail.com with: (1) the page link, (2) what you own and proof of ownership, (3) which part you object to, (4) your name and contact details, and (5) a statement that you are acting in good faith.",
+   "We will review the request and, where appropriate, remove or change the content quickly. We may contact you for more details.",
+   "If you believe a removal was a mistake, write to us with your reasons.",
+   "For arXiv items we use only metadata (title, abstract, link). Each paper keeps its own licence. Visit the original page for the paper."
   ]
  },
  "corrections": {
   "title": "Editorial and Corrections",
   "body": [
-   "We separate source facts from editorial context.",
-   "Speculation is labelled as uncertain.",
-   "To report an error, use the Contact page. Corrections are noted on the page."
+   "What we aim for: accurate, simple, balanced explanations for everyday readers.",
+   "Facts and background are kept separate. Text from a source is shown as the source's information. Text written by us is labelled as background.",
+   "We do not present guesses as facts. Where the future is uncertain, we say so.",
+   "Stories are chosen automatically using topic and keyword rules. This is not human research or a ranking of importance.",
+   "Case studies are written from public information and list their references. We do not publish company revenue, valuation or private details unless a reliable source is cited.",
+   "Corrections: if you find a mistake, email pehlawalagmail@gmail.com with the page link. We correct errors promptly and note significant corrections on the page.",
+   "Sponsorship: the site currently has no advertising or paid placements. If this ever changes, sponsored content will be clearly labelled and kept separate from editorial content."
   ]
  },
  "sources": {
   "title": "Sources and Attribution",
   "body": [
-   "Only sources approved in our public rights registry (config/sources.json) are published automatically.",
-   "Each story shows its publisher and links to the original.",
-   "Currently approved: Hacker News API (links and titles) and arXiv (metadata, CC0)."
+   "Only sources we have reviewed and approved are published automatically. Our review notes are public in the file config/sources.json in our code repository.",
+   "Currently approved sources: Hacker News (headline and link, via its public API); arXiv (metadata and abstracts, which arXiv states are CC0; papers keep their own licences); NASA news feed (headline, short excerpt and link; NASA-created content is generally public domain, third-party material excluded).",
+   "Each story names its publisher and links to the original page.",
+   "We do not use photos from these sources. Pictures on this site are our own original drawings.",
+   "Learning links point to free resources owned by their respective providers. We check that they work, but we do not control them."
   ]
  }
 }

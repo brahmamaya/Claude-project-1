@@ -6,6 +6,7 @@ const D = {}, ICON = {
   back: "M15 5l-7 7 7 7", save: "M6 3h12v18l-6-4-6 4z", share: "M12 3v12M8 7l4-4 4 4M5 13v8h14v-8", ext: "M14 4h6v6M20 4l-9 9M18 14v6H4V6h6", chev: "M9 5l7 7-7 7"
 };
 const ic = (n) => `<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="${ICON[n]}"/></svg>`;
+const T = (t) => String(t ?? "").replace(/[$\\]/g, "");
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const safe = (u) => { try { const x = new URL(u); return x.protocol === "https:" ? x.href : ""; } catch { return ""; } };
 const CATS = { "artificial-intelligence": "Artificial Intelligence", robotics: "Robotics", space: "Space", energy: "Energy", biotechnology: "Biotechnology", semiconductors: "Semiconductors", "quantum-computing": "Quantum Computing", cybersecurity: "Cybersecurity", "advanced-manufacturing": "Advanced Manufacturing" };
@@ -35,9 +36,9 @@ const ALIAS = { AI: "artificial-intelligence", "Artificial Intelligence": "artif
 const art = (k) => { const body = A[k] || A[ALIAS[k]]; return body ? `<svg viewBox="0 0 320 180" role="img" aria-label="Illustration"><rect width="320" height="180" fill="#0b0b0b"/><g fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>` : orbit; };
 const visual = (n) => n.image && safe(n.image) ? `<img src="${esc(safe(n.image))}" alt="" loading="lazy" decoding="async">` : art(n.category);
 
-const newsCard = (n) => `<a class="card" href="#/news/${esc(n.id)}"><div class="thumb">${visual(n)}</div><div><div class="t">${esc(n.title)}</div><div class="mute">${esc(n.category_label)}${n.kind === "research" ? " · Research" : ""} · ${ago(n.published)}</div></div></a>`;
+const newsCard = (n) => `<a class="card" href="#/news/${esc(n.id)}"><div class="thumb">${visual(n)}</div><div><div class="t">${esc(T(n.title))}</div><div class="mute">${esc(n.category_label)}${n.kind === "research" ? " · Research" : ""} · ${ago(n.published)}</div></div></a>`;
 const skillRow = (s) => `<a class="link" href="#/skills/${esc(s.id)}"><div><div class="t">${esc(s.title)}</div><div class="mute">${esc(s.summary)}</div></div>${ic("chev")}</a>`;
-const caseCard = (c) => `<a class="card" href="#/cases/${esc(c.id)}"><div class="thumb">${art(c.industry)}</div><div><div class="t">${esc(c.company)}: ${esc(c.title)}</div><div class="mute">${esc(c.industry)} · ${esc(c.status === "draft" ? "Draft" : "Verified")}</div></div></a>`;
+const caseCard = (c) => `<a class="card" href="#/cases/${esc(c.id)}"><div class="thumb">${art(c.industry)}</div><div><div class="t">${esc(c.company)}: ${esc(c.title)}</div><div class="mute">${esc(c.industry)} · ${esc(c.status === "draft" ? "Reviewed" : "Verified")}</div></div></a>`;
 const chips = (list, cur, attr) => `<div class="chips" role="group">${list.map(([v, l]) => `<button class="chip" ${attr}="${esc(v)}" aria-pressed="${v === cur}">${esc(l)}</button>`).join("")}</div>`;
 const sampleNote = (items) => items.some((n) => n.sample) ? `<p class="notice">Sample content for layout. Real stories appear after the first automated update.</p>` : "";
 const bar = (id, extra = "") => `<div class="bar"><a class="icon-btn" href="javascript:history.length>1?history.back():location.hash='#/'" aria-label="Back">${ic("back")}</a><span>${extra}</span></div>`;
@@ -47,11 +48,11 @@ const shareBtn = (t) => `<button class="icon-btn" data-share="${esc(t)}" aria-la
 
 const R = {
   async home() {
-    const [news, skills, cases, meta] = await Promise.all([load("news"), load("skills"), load("cases"), load("meta")]);
+    const [rawNews, skills, cases, meta] = await Promise.all([load("news"), load("skills"), load("cases"), load("meta")]); const news = lead(rawNews);
     const f = news[0];
     return `<section class="hero"><p class="eyebrow">The future starts here</p><h1>Understand Tomorrow. Today.</h1><p class="mute">Technologies, skills and ideas shaping our future, in simple language.</p></section>
 ${sampleNote(news)}<div class="row"><h2>Today's Future News</h2><a href="#/news">See All ›</a></div>
-${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual(f)}</div><div class="t">${esc(f.title)}</div><div class="mute">${esc(f.category_label)} · ${ago(f.published)}</div></a>${news.slice(1, 4).map(newsCard).join("")}` : `<p class="empty">No stories yet.</p>`}
+${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual(f)}</div><div class="t">${esc(T(f.title))}</div><div class="mute">${esc(f.category_label)} · ${ago(f.published)}</div></a>${news.slice(1, 4).map(newsCard).join("")}` : `<p class="empty">No stories yet.</p>`}
 <div class="row"><h2>Future Skills</h2><a href="#/skills">See All ›</a></div>${skills.slice(0, 3).map(skillRow).join("")}
 <div class="row"><h2>Business Cases</h2><a href="#/cases">See All ›</a></div>${cases.slice(0, 2).map(caseCard).join("")}
 <p class="mute" style="margin-top:20px">Last updated: ${meta.last_updated ? new Date(meta.last_updated).toLocaleString() : "—"}</p>${foot()}`;
@@ -67,7 +68,7 @@ ${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual
     const rel = news.filter((x) => x.category === n.category && x.id !== n.id).slice(0, 3);
     const sk = (n.skills || []).map((s) => skills.find((k) => k.id === s)).filter(Boolean);
     const src = safe(n.url);
-    return `${bar(id, saveBtn("news:" + id) + shareBtn(n.title))}<h1>${esc(n.title)}</h1>
+    return `${bar(id, saveBtn("news:" + id) + shareBtn(n.title))}<h1>${esc(T(n.title))}</h1>
 <p class="mute"><span class="tag">${esc(n.category_label)}</span>${esc(n.publisher)} · ${new Date(n.published).toLocaleDateString()}${n.via ? " · via " + esc(n.via) : ""}</p>
 <div class="hero-img">${visual(n)}</div>${n.image_credit ? `<p class="mute">Image: ${esc(n.image_credit)}</p>` : ""}${n.sample ? `<p class="notice">Sample content. Not a real story.</p>` : ""}
 <h2>What happened</h2><p>${esc(n.summary)}</p>
@@ -78,15 +79,15 @@ ${src ? `<a class="btn" href="${esc(src)}" target="_blank" rel="noopener norefer
 ${rel.length ? `<div class="row"><h2>Related stories</h2></div>${rel.map(newsCard).join("")}` : ""}`;
   },
   async future(cat) {
-    const news = await load("news"); const list = !cat || cat === "all" ? news : news.filter((n) => n.category === cat); const f = list[0];
+    const news = lead(await load("news")); const list = !cat || cat === "all" ? news : news.filter((n) => n.category === cat); const f = list[0];
     return `<h1>Future</h1><p class="mute">Explore the technologies that will shape our world.</p>${chips([["all", "All"], ...Object.entries(CATS)], cat || "all", "data-fc")}${sampleNote(list)}
-${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual(f)}</div><div class="t">${esc(f.title)}</div><div class="mute">${esc(f.category_label)} · ${ago(f.published)}</div></a>${list.slice(1).map(newsCard).join("")}` : `<p class="empty">No verified developments in this topic yet.</p>`}`;
+${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual(f)}</div><div class="t">${esc(T(f.title))}</div><div class="mute">${esc(f.category_label)} · ${ago(f.published)}</div></a>${list.slice(1).map(newsCard).join("")}` : `<p class="empty">No verified developments in this topic yet.</p>`}`;
   },
   async skills() {
     const skills = await load("skills"); const cat = qs().get("c") || "all";
     const cs = [...new Set(skills.map((s) => s.category))]; const list = cat === "all" ? skills : skills.filter((s) => s.category === cat); const f = list[0];
     return `<h1>Skills</h1><p class="mute">Skills that may be useful in the future. None guarantees a job.</p>${chips([["all", "All"], ...cs.map((c) => [c, c])], cat, "data-sc")}
-${f ? `<div class="box"><span class="tag">${esc(f.category)}</span><h2 style="margin:8px 0 4px">Learn ${esc(f.title)}</h2><p class="mute">${esc(f.summary)}</p><a class="btn" href="#/skills/${esc(f.id)}">View Learning Resources</a></div>` : ""}
+${f ? `<div class="box"><span class="tag">${esc(f.category)}</span><h2 style="margin:8px 0 4px">Learn ${esc(T(f.title))}</h2><p class="mute">${esc(f.summary)}</p><a class="btn" href="#/skills/${esc(f.id)}">View Learning Resources</a></div>` : ""}
 <div class="row"><h2>More Skills</h2></div>${list.slice(1).map(skillRow).join("") || (list.length ? "" : `<p class="empty">No skills here yet.</p>`)}`;
   },
   async skillDetail(id) {
@@ -112,7 +113,7 @@ ${list.map(caseCard).join("") || `<p class="empty">No case studies match.</p>`}`
   async caseDetail(id) {
     const cases = await load("cases"); const c = cases.find((x) => x.id === id); if (!c) return notFound();
     const ul = (a) => `<ul class="plain">${(a || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
-    return `${bar(id, saveBtn("cases:" + id) + shareBtn(c.company))}<div class="hero-img">${art(c.industry)}</div><span class="tag">${esc(c.industry)}</span>${c.status === "draft" ? `<span class="tag">Draft: verify before launch</span>` : ""}
+    return `${bar(id, saveBtn("cases:" + id) + shareBtn(c.company))}<div class="hero-img">${art(c.industry)}</div><span class="tag">${esc(c.industry)}</span>${c.status === "draft" ? `<span class="tag">Draft</span>` : `<span class="tag">Reviewed ${esc(c.last_reviewed || "")}</span>`}
 <h1>${esc(c.company)}: ${esc(c.title)}</h1>
 <h2>1. Company overview</h2><p>${esc(c.overview)}</p><h2 style="margin-top:16px">2. Problem solved</h2><p>${esc(c.problem)}</p>
 <h2 style="margin-top:16px">3. Innovation</h2><p>${esc(c.innovation)}</p><h2 style="margin-top:16px">4. Business model</h2><p>${esc(c.model)}</p><h2 style="margin-top:16px">5. Technology</h2><p>${esc(c.technology)}</p>
@@ -152,6 +153,7 @@ function savedList(saved, news, skills, cases) {
   const out = saved.map((k) => { const [t, id] = k.split(":"); if (t === "news") { const n = news.find((x) => x.id === id); return n && newsCard(n); } if (t === "skills") { const s = skills.find((x) => x.id === id); return s && skillRow(s); } const c = cases.find((x) => x.id === id); return c && caseCard(c); }).filter(Boolean);
   return out.join("") || `<p class="mute">Nothing saved yet. Use the bookmark icon on any page.</p>`;
 }
+const lead = (a) => [...a.filter((n) => n.kind !== "research"), ...a.filter((n) => n.kind === "research")]; // plain-language news first, papers after
 const notFound = () => `${bar("")}<div class="empty"><h1>Not found</h1><p>This page does not exist.</p><a class="btn" href="#/">Go home</a></div>`;
 const hashParts = () => { const [p, q = ""] = (location.hash.slice(1) || "/").split("?"); return [p.split("/").filter(Boolean), new URLSearchParams(q)]; };
 const qs = () => hashParts()[1];

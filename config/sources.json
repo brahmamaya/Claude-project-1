@@ -1,6 +1,82 @@
-{"_note":"Only approved:true sources are fetched/published. Re-review terms before enabling. Items marked needs_legal_review must not be enabled until a qualified professional confirms.",
-"sources":[
-{"id":"hn","name":"Hacker News (official API)","url":"https://github.com/HackerNews/API","access":"api","endpoint":"https://hacker-news.firebaseio.com/v0/","permitted_usage":"Public API; store title, link, score, time. Link to original; no article text copied.","commercial_use":"unconfirmed - needs_legal_review","attribution":"Link to original publisher and 'via Hacker News'","image_rights":"none - no images used","rate_limit":"Be polite: <=40 requests/run","last_reviewed":"2026-10-22","approved":true,"mode":"metadata_only"},
-{"id":"arxiv","name":"arXiv (RSS)","url":"https://info.arxiv.org/help/rss.html","access":"rss","endpoint":"https://rss.arxiv.org/rss/cs.AI+cs.RO+cs.CR+quant-ph","permitted_usage":"arXiv states metadata (title, abstract, authors) is CC0; papers themselves carry per-paper licenses - link only, never copy PDFs/figures.","commercial_use":"metadata CC0; papers per-paper license","attribution":"Credit arXiv and link to abstract page","image_rights":"none - paper figures not reused","rate_limit":"RSS updates once daily; fetch once per run","last_reviewed":"2026-10-22","approved":true,"mode":"metadata_and_abstract"},
-{"id":"tech-rss-placeholder","name":"Permitted tech news RSS (to be chosen)","url":"","access":"rss","endpoint":"","permitted_usage":"UNREVIEWED","commercial_use":"UNREVIEWED","attribution":"","image_rights":"none until verified","rate_limit":"","last_reviewed":"","approved":false,"mode":"link_only"},
-{"id":"company-announcements-placeholder","name":"Official company/research feeds (to be chosen)","url":"","access":"rss","endpoint":"","permitted_usage":"UNREVIEWED","commercial_use":"UNREVIEWED","attribution":"","image_rights":"none until verified","rate_limit":"","last_reviewed":"","approved":false,"mode":"link_only"}]}
+{
+ "_note": "Only approved:true sources are fetched/published. Re-review terms before enabling. Items marked needs_legal_review must not be enabled until a qualified professional confirms.",
+ "sources": [
+  {
+   "id": "hn",
+   "name": "Hacker News (official API)",
+   "url": "https://github.com/HackerNews/API",
+   "access": "api",
+   "endpoint": "https://hacker-news.firebaseio.com/v0/",
+   "permitted_usage": "Public API; store title, link, score, time. Link to original; no article text copied.",
+   "commercial_use": "unconfirmed - needs_legal_review",
+   "attribution": "Link to original publisher and 'via Hacker News'",
+   "image_rights": "none - no images used",
+   "rate_limit": "Be polite: <=40 requests/run",
+   "last_reviewed": "2026-10-22",
+   "approved": true,
+   "mode": "metadata_only"
+  },
+  {
+   "id": "arxiv",
+   "name": "arXiv (RSS)",
+   "url": "https://info.arxiv.org/help/rss.html",
+   "access": "rss",
+   "endpoint": "https://rss.arxiv.org/rss/cs.AI+cs.RO+cs.CR+quant-ph",
+   "permitted_usage": "arXiv states metadata (title, abstract, authors) is CC0; papers themselves carry per-paper licenses - link only, never copy PDFs/figures.",
+   "commercial_use": "metadata CC0; papers per-paper license",
+   "attribution": "Credit arXiv and link to abstract page",
+   "image_rights": "none - paper figures not reused",
+   "rate_limit": "RSS updates once daily; fetch once per run",
+   "last_reviewed": "2026-10-22",
+   "approved": true,
+   "mode": "metadata_and_abstract"
+  },
+  {
+   "id": "nasa",
+   "name": "NASA News (RSS)",
+   "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "access": "rss",
+   "endpoint": "https://www.nasa.gov/feed/",
+   "publisher": "NASA",
+   "permitted_usage": "NASA states its content is generally in the public domain unless marked otherwise. We use only title, short excerpt and link. Images and third-party material are NOT reused.",
+   "commercial_use": "generally allowed for NASA-created content (third-party material excluded)",
+   "attribution": "Credit NASA and link to the original page",
+   "image_rights": "none - images not reused (some are third-party)",
+   "rate_limit": "One fetch per run",
+   "last_reviewed": "2026-10-22",
+   "approved": true,
+   "mode": "metadata_and_abstract",
+   "review_note": "Confirm against NASA media usage guidelines before adding images."
+  },
+  {
+   "id": "tech-rss-placeholder",
+   "name": "Permitted tech news RSS (to be chosen)",
+   "url": "",
+   "access": "rss",
+   "endpoint": "",
+   "permitted_usage": "UNREVIEWED",
+   "commercial_use": "UNREVIEWED",
+   "attribution": "",
+   "image_rights": "none until verified",
+   "rate_limit": "",
+   "last_reviewed": "",
+   "approved": false,
+   "mode": "link_only"
+  },
+  {
+   "id": "company-announcements-placeholder",
+   "name": "Official company/research feeds (to be chosen)",
+   "url": "",
+   "access": "rss",
+   "endpoint": "",
+   "permitted_usage": "UNREVIEWED",
+   "commercial_use": "UNREVIEWED",
+   "attribution": "",
+   "image_rights": "none until verified",
+   "rate_limit": "",
+   "last_reviewed": "",
+   "approved": false,
+   "mode": "link_only"
+  }
+ ]
+}

@@ -6,4 +6,4 @@
 - Takedown: remove the item from `site/data/*.json` (or set source `approved:false`), run the pipeline, push.
 - Local: `python -m unittest discover -s tests -t .`; `python -m pipeline.run`; `cd site && python -m http.server`.
 - Failure safety: pipeline writes atomically and keeps old data if no new items qualify or a feed fails.
-- Open legal items (need a professional): commercial use of HN data, privacy/terms wording, copyright agent, image licensing before any images are added.
+- Legal: pages drafted in plain, conservative language (India-focused). Independent lawyer review still recommended, esp. HN commercial use, NASA image use, and DPDP wording. Add images only after rights are verified.

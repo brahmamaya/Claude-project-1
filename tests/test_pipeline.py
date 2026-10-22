@@ -37,9 +37,14 @@ class T(unittest.TestCase):
         x = b"<rss><channel><item><title>T paper</title><link>https://arxiv.org/abs/1</link><pubDate>Wed, 22 Oct 2026 00:00:00 GMT</pubDate><description>arXiv:1 Announce Type: new Abstract: We do things.</description></item></channel></rss>"
         self.assertEqual(collect.parse_arxiv(x, {"id": "arxiv"})[0]["abstract"], "We do things.")
 
+    def test_generic_rss(self):
+        x = b"<rss><channel><item><title>NASA tests new rocket engine</title><link>https://www.nasa.gov/a</link><pubDate>Wed, 22 Oct 2026 00:00:00 GMT</pubDate><description>&lt;p&gt;Engine test.&lt;/p&gt;</description></item></channel></rss>"
+        r = collect.parse_rss(x, {"id": "nasa", "name": "NASA", "publisher": "NASA"})[0]
+        self.assertEqual((r["publisher"], r["abstract"], r["kind"]), ("NASA", "Engine test.", "news"))
+
     def test_rights_gate(self):
         src = json.loads((ROOT / "config/sources.json").read_text())["sources"]
-        self.assertEqual({s["id"] for s in src if validate.source_approved(s)}, {"hn", "arxiv"})
+        self.assertEqual({s["id"] for s in src if validate.source_approved(s)}, {"hn", "arxiv", "nasa"})
 
     def test_failed_run_keeps_data(self):
         self.assertEqual(run.process([], CFG, {"max_age_days": 14, "min_score": 3, "max_new_per_run": 5}, [], NOW), [])
