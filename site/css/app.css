@@ -54,3 +54,7 @@ footer a{text-decoration:underline;margin-right:10px;display:inline-block;paddin
 @media(min-width:720px){.hero h1{font-size:44px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important}}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+main:focus,main:focus-visible{outline:0}
+@media(min-width:900px){.top,main,.tabs-in{max-width:860px}}
+.hero-img{max-height:300px}
