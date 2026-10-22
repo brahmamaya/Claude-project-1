@@ -25,8 +25,9 @@ def atomic_write(path, text):
 
 def process(raw, cfg, site, existing, now):
     ok = [i for i in raw if not validate.validate_item(i, now, site["max_age_days"])]
-    ranked = rank.rank(ok, cfg, site["min_score"])
-    fresh = rank.dedupe(ranked, existing)[: site["max_new_per_run"]]
+    ranked = rank.rank(ok, cfg, site["min_score"], site.get("news_min_score"))
+    fresh = rank.dedupe(ranked, existing)
+    fresh = rank.cap_per_kind(fresh, site.get("max_per_kind", {}))[: site["max_new_per_run"]]
     return [content.build_story(i, cfg["categories"], cfg["skills_hint"], now) for i in fresh]
 
 
@@ -49,7 +50,7 @@ def main():
             print(f"{s['id']}: FAILED {type(e).__name__}", file=sys.stderr)
     real = [n for n in news if not n.get("sample")]
     new = process(raw, cfg, site, real, now)
-    print(f"new qualifying: {len(new)}")
+    print(f"raw {len(raw)}, new qualifying: {len(new)} ({sum(n['source_id']=='hn' for n in new)} from HN)")
     if new:
         merged = sorted(new + real, key=lambda n: n["published"], reverse=True)[: site["max_news"]]
         atomic_write(DATA / "news.json", json.dumps(merged, ensure_ascii=False, indent=1))
