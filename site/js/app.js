@@ -18,11 +18,26 @@ async function load(name) {
 }
 const ago = (iso) => { const m = (Date.now() - new Date(iso)) / 6e4; if (isNaN(m)) return ""; if (m < 60) return `${Math.max(1, m | 0)} min ago`; if (m < 1440) return `${(m / 60) | 0} hours ago`; return new Date(iso).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" }); };
 const orbit = `<svg viewBox="0 0 320 180" role="img" aria-label="Orbit diagram"><rect width="320" height="180" fill="#0b0b0b"/><circle cx="160" cy="90" r="42" fill="none" stroke="#fff" stroke-width="1.5"/><ellipse cx="160" cy="90" rx="78" ry="24" fill="none" stroke="#888" transform="rotate(-20 160 90)"/><circle cx="222" cy="72" r="5" fill="#fff"/></svg>`;
-const visual = (n) => n.image && safe(n.image) ? `<img src="${esc(safe(n.image))}" alt="" loading="lazy" decoding="async">` : (n.diagram && n.diagram.startsWith("<svg") ? n.diagram : orbit);
+const A = { // original line illustrations, one per topic (no third-party images)
+  "artificial-intelligence": '<circle cx="90" cy="60" r="9"/><circle cx="90" cy="120" r="9"/><circle cx="160" cy="40" r="9"/><circle cx="160" cy="90" r="9"/><circle cx="160" cy="140" r="9"/><circle cx="230" cy="90" r="11"/><path d="M99 60L151 40M99 60L151 90M99 120L151 90M99 120L151 140M99 60L151 140M169 40L219 90M169 90L219 90M169 140L219 90"/>',
+  robotics: '<rect x="105" y="55" width="110" height="80" rx="14"/><circle cx="140" cy="90" r="8"/><circle cx="180" cy="90" r="8"/><path d="M135 118h50M160 55V35M160 35m-5 0a5 5 0 1 0 10 0a5 5 0 1 0-10 0M105 85H90M215 85h15"/>',
+  space: '<circle cx="160" cy="90" r="40"/><ellipse cx="160" cy="90" rx="85" ry="22" transform="rotate(-20 160 90)"/><circle cx="60" cy="40" r="2"/><circle cx="265" cy="45" r="2"/><circle cx="250" cy="140" r="2"/><circle cx="55" cy="140" r="2"/>',
+  energy: '<path d="M175 25L110 100h45l-10 55 65-80h-45z"/><circle cx="160" cy="90" r="70" stroke-dasharray="3 6"/>',
+  biotechnology: '<path d="M100 20C100 60 220 70 220 110S100 150 100 160M220 20C220 60 100 70 100 110S220 150 220 160"/><path d="M122 45h76M118 90h84M122 135h76"/>',
+  semiconductors: '<rect x="110" y="50" width="100" height="80" rx="6"/><rect x="135" y="72" width="50" height="36"/><path d="M125 50V35M160 50V35M195 50V35M125 130v15M160 130v15M195 130v15M110 70H95M110 110H95M210 70h15M210 110h15"/>',
+  "quantum-computing": '<ellipse cx="160" cy="90" rx="80" ry="26"/><ellipse cx="160" cy="90" rx="80" ry="26" transform="rotate(60 160 90)"/><ellipse cx="160" cy="90" rx="80" ry="26" transform="rotate(120 160 90)"/><circle cx="160" cy="90" r="6" fill="#fff"/>',
+  cybersecurity: '<path d="M160 25l60 22v40c0 32-26 55-60 68-34-13-60-36-60-68V47z"/><rect x="143" y="88" width="34" height="28" rx="4"/><path d="M150 88v-8a10 10 0 0 1 20 0v8"/>',
+  "advanced-manufacturing": '<circle cx="160" cy="90" r="30"/><circle cx="160" cy="90" r="12"/><path d="M160 40v14M160 126v14M110 90h14M196 90h14M125 55l10 10M185 115l10 10M195 55l-10 10M135 115l-10 10"/>',
+  business: '<path d="M80 140V90M120 140V60M160 140V100M200 140V40M240 140V70M70 145h180"/>',
+  creative: '<path d="M160 30a42 42 0 0 0-20 79v14h40v-14a42 42 0 0 0-20-79zM148 135h24M152 148h16"/>'
+};
+const ALIAS = { AI: "artificial-intelligence", "Artificial Intelligence": "artificial-intelligence", Robotics: "robotics", Space: "space", Energy: "energy", Semiconductors: "semiconductors", Tech: "semiconductors", Business: "business", Creative: "creative", Biotechnology: "biotechnology", Cybersecurity: "cybersecurity" };
+const art = (k) => { const body = A[k] || A[ALIAS[k]]; return body ? `<svg viewBox="0 0 320 180" role="img" aria-label="Illustration"><rect width="320" height="180" fill="#0b0b0b"/><g fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>` : orbit; };
+const visual = (n) => n.image && safe(n.image) ? `<img src="${esc(safe(n.image))}" alt="" loading="lazy" decoding="async">` : art(n.category);
 
 const newsCard = (n) => `<a class="card" href="#/news/${esc(n.id)}"><div class="thumb">${visual(n)}</div><div><div class="t">${esc(n.title)}</div><div class="mute">${esc(n.category_label)}${n.kind === "research" ? " · Research" : ""} · ${ago(n.published)}</div></div></a>`;
 const skillRow = (s) => `<a class="link" href="#/skills/${esc(s.id)}"><div><div class="t">${esc(s.title)}</div><div class="mute">${esc(s.summary)}</div></div>${ic("chev")}</a>`;
-const caseCard = (c) => `<a class="card" href="#/cases/${esc(c.id)}"><div class="thumb">${orbit}</div><div><div class="t">${esc(c.company)}: ${esc(c.title)}</div><div class="mute">${esc(c.industry)} · ${esc(c.status === "draft" ? "Draft" : "Verified")}</div></div></a>`;
+const caseCard = (c) => `<a class="card" href="#/cases/${esc(c.id)}"><div class="thumb">${art(c.industry)}</div><div><div class="t">${esc(c.company)}: ${esc(c.title)}</div><div class="mute">${esc(c.industry)} · ${esc(c.status === "draft" ? "Draft" : "Verified")}</div></div></a>`;
 const chips = (list, cur, attr) => `<div class="chips" role="group">${list.map(([v, l]) => `<button class="chip" ${attr}="${esc(v)}" aria-pressed="${v === cur}">${esc(l)}</button>`).join("")}</div>`;
 const sampleNote = (items) => items.some((n) => n.sample) ? `<p class="notice">Sample content for layout. Real stories appear after the first automated update.</p>` : "";
 const bar = (id, extra = "") => `<div class="bar"><a class="icon-btn" href="javascript:history.length>1?history.back():location.hash='#/'" aria-label="Back">${ic("back")}</a><span>${extra}</span></div>`;
@@ -97,7 +112,7 @@ ${list.map(caseCard).join("") || `<p class="empty">No case studies match.</p>`}`
   async caseDetail(id) {
     const cases = await load("cases"); const c = cases.find((x) => x.id === id); if (!c) return notFound();
     const ul = (a) => `<ul class="plain">${(a || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
-    return `${bar(id, saveBtn("cases:" + id) + shareBtn(c.company))}<div class="hero-img">${orbit}</div><span class="tag">${esc(c.industry)}</span>${c.status === "draft" ? `<span class="tag">Draft: verify before launch</span>` : ""}
+    return `${bar(id, saveBtn("cases:" + id) + shareBtn(c.company))}<div class="hero-img">${art(c.industry)}</div><span class="tag">${esc(c.industry)}</span>${c.status === "draft" ? `<span class="tag">Draft: verify before launch</span>` : ""}
 <h1>${esc(c.company)}: ${esc(c.title)}</h1>
 <h2>1. Company overview</h2><p>${esc(c.overview)}</p><h2 style="margin-top:16px">2. Problem solved</h2><p>${esc(c.problem)}</p>
 <h2 style="margin-top:16px">3. Innovation</h2><p>${esc(c.innovation)}</p><h2 style="margin-top:16px">4. Business model</h2><p>${esc(c.model)}</p><h2 style="margin-top:16px">5. Technology</h2><p>${esc(c.technology)}</p>
