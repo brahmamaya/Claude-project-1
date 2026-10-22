@@ -23,6 +23,9 @@ def atomic_write(path, text):
     os.replace(tmp, path)
 
 
+safe_ok = validate.safe_url
+
+
 def process(raw, cfg, site, existing, now):
     ok = [i for i in raw if not validate.validate_item(i, now, site["max_age_days"])]
     ranked = rank.rank(ok, cfg, site["min_score"], site.get("news_min_score"), site.get("min_hn_points", 0))
@@ -44,14 +47,19 @@ def main():
             continue
         try:
             got = collect.fetch_source(s)
-            print(f"{s['id']}: fetched {len(got)}")
+            print(f"{s['id']}: fetched {len(got)}, with image {sum(bool(g.get('image')) for g in got)}")
             raw += got
         except Exception as e:  # one bad feed must not stop the run
             print(f"{s['id']}: FAILED {type(e).__name__}", file=sys.stderr)
     real = [n for n in news if not n.get("sample")]
+    imgs = {rank.norm_url(r["url"]): r for r in raw if r.get("image") and safe_ok(r["url"])}
+    for n in real:  # backfill images for stories saved before image support
+        r = imgs.get(rank.norm_url(n["url"]))
+        if r and not n.get("image"):
+            n["image"], n["image_credit"] = r["image"], "Image: " + r["image_credit"]
     new = process(raw, cfg, site, real, now)
     print(f"raw {len(raw)}, new qualifying: {len(new)} ({sum(n['source_id']=='hn' for n in new)} from HN)")
-    if new:
+    if new or any(n.get("image") for n in real):
         merged = sorted(new + real, key=lambda n: n["published"], reverse=True)[: site["max_news"]]
         atomic_write(DATA / "news.json", json.dumps(merged, ensure_ascii=False, indent=1))
         news = merged
