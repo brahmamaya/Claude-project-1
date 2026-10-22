@@ -1,0 +1,269 @@
+[
+ {
+  "id": "ai-basics",
+  "title": "AI Basics",
+  "category": "Artificial Intelligence",
+  "summary": "Understand how AI works and how to use it in real life.",
+  "prereq_skills": [],
+  "prerequisites": [
+   "Python basics help but are not required"
+  ],
+  "learn": [
+   "What AI and machine learning are",
+   "Real-world uses",
+   "Tools you can try today",
+   "Limits and risks"
+  ],
+  "roadmap": [
+   "Beginner: learn the vocabulary (data, model, training)",
+   "Intermediate: try a small project with a public dataset",
+   "Advanced: study how models are evaluated and deployed"
+  ],
+  "resources": [
+   {
+    "title": "Google Machine Learning Crash Course",
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "type": "Course",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   },
+   {
+    "title": "Kaggle Learn",
+    "url": "https://www.kaggle.com/learn",
+    "type": "Interactive lessons",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   },
+   {
+    "title": "Harvard CS50 AI",
+    "url": "https://cs50.harvard.edu/ai/",
+    "type": "University course",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   }
+  ],
+  "practice": [
+   "Classify photos of two objects with a no-code tool",
+   "Summarise a public dataset in a notebook"
+  ],
+  "careers": [
+   "Data analyst",
+   "Product manager working with AI teams",
+   "Software developer"
+  ],
+  "related_skills": [
+   "Python Basics",
+   "Data Analysis"
+  ],
+  "technologies": [
+   "AI",
+   "Machine learning"
+  ],
+  "note": "Skills help you build options; none guarantees a job."
+ },
+ {
+  "id": "python-basics",
+  "title": "Python Basics",
+  "category": "Tech",
+  "summary": "Learn the most common beginner programming language.",
+  "prereq_skills": [],
+  "prerequisites": [
+   "None"
+  ],
+  "learn": [
+   "Variables, loops, functions",
+   "Reading files and data",
+   "Small automation scripts"
+  ],
+  "roadmap": [
+   "Beginner: syntax and simple programs",
+   "Intermediate: libraries and files",
+   "Advanced: testing and packaging"
+  ],
+  "resources": [
+   {
+    "title": "Official Python Tutorial",
+    "url": "https://docs.python.org/3/tutorial/",
+    "type": "Documentation",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   },
+   {
+    "title": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/",
+    "type": "Interactive course",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   },
+   {
+    "title": "Harvard CS50",
+    "url": "https://cs50.harvard.edu/x/",
+    "type": "University course",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   }
+  ],
+  "practice": [
+   "Write a script that renames files",
+   "Build a tiny quiz game"
+  ],
+  "careers": [
+   "Software developer",
+   "Data analyst",
+   "Automation engineer"
+  ],
+  "related_skills": [
+   "Data Analysis",
+   "AI Basics"
+  ],
+  "technologies": [
+   "Automation",
+   "AI"
+  ],
+  "note": "Skills help you build options; none guarantees a job."
+ },
+ {
+  "id": "data-analysis",
+  "title": "Data Analysis",
+  "category": "Business",
+  "summary": "Work with data to find useful insights.",
+  "prereq_skills": [
+   "Basic spreadsheets"
+  ],
+  "prerequisites": [
+   "Basic maths"
+  ],
+  "learn": [
+   "Cleaning data",
+   "Charts that answer questions",
+   "Simple statistics"
+  ],
+  "roadmap": [
+   "Beginner: spreadsheets",
+   "Intermediate: SQL or Python",
+   "Advanced: statistics and experiments"
+  ],
+  "resources": [
+   {
+    "title": "Kaggle Learn: Data Cleaning",
+    "url": "https://www.kaggle.com/learn",
+    "type": "Interactive lessons",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   },
+   {
+    "title": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/",
+    "type": "Interactive course",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   }
+  ],
+  "practice": [
+   "Analyse your own monthly spending",
+   "Chart a public dataset"
+  ],
+  "careers": [
+   "Business analyst",
+   "Data analyst",
+   "Researcher"
+  ],
+  "related_skills": [
+   "Python Basics",
+   "AI Basics"
+  ],
+  "technologies": [
+   "Data",
+   "Analytics"
+  ],
+  "note": "Skills help you build options; none guarantees a job."
+ },
+ {
+  "id": "cybersecurity-basics",
+  "title": "Cybersecurity Basics",
+  "category": "Tech",
+  "summary": "Learn how systems get attacked and how to protect them.",
+  "prereq_skills": [],
+  "prerequisites": [
+   "Basic computer use"
+  ],
+  "learn": [
+   "Common attack types",
+   "Passwords and encryption basics",
+   "Safe habits"
+  ],
+  "roadmap": [
+   "Beginner: threats and safe habits",
+   "Intermediate: web security basics",
+   "Advanced: testing in legal practice labs"
+  ],
+  "resources": [
+   {
+    "title": "OWASP Top Ten",
+    "url": "https://owasp.org/www-project-top-ten/",
+    "type": "Reference",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   }
+  ],
+  "practice": [
+   "Review your own accounts for two-factor login"
+  ],
+  "careers": [
+   "Security analyst",
+   "IT administrator"
+  ],
+  "related_skills": [
+   "Python Basics"
+  ],
+  "technologies": [
+   "Security",
+   "Encryption"
+  ],
+  "note": "Skills help you build options; none guarantees a job."
+ },
+ {
+  "id": "critical-thinking",
+  "title": "Creative Thinking",
+  "category": "Creative",
+  "summary": "Solve problems in new situations.",
+  "prereq_skills": [],
+  "prerequisites": [
+   "None"
+  ],
+  "learn": [
+   "Framing problems",
+   "Generating options",
+   "Testing ideas cheaply"
+  ],
+  "roadmap": [
+   "Beginner: ask better questions",
+   "Intermediate: structured brainstorming",
+   "Advanced: run small experiments"
+  ],
+  "resources": [
+   {
+    "title": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu/",
+    "type": "University courses",
+    "meta": "Free",
+    "reviewed": "2026-10-22"
+   }
+  ],
+  "practice": [
+   "Redesign one daily routine and test it for a week"
+  ],
+  "careers": [
+   "Entrepreneur",
+   "Designer",
+   "Educator"
+  ],
+  "related_skills": [
+   "Data Analysis"
+  ],
+  "technologies": [
+   "Innovation"
+  ],
+  "note": "Skills help you build options; none guarantees a job."
+ }
+]

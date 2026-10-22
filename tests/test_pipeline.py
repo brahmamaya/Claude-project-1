@@ -1,0 +1,59 @@
+import json, unittest
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+from pipeline import validate, rank, collect, content, index, run
+
+ROOT = Path(__file__).resolve().parent.parent
+NOW = datetime(2026, 10, 22, tzinfo=timezone.utc)
+CFG = json.loads((ROOT / "config/categories.json").read_text())
+
+
+class T(unittest.TestCase):
+    def test_safe_url(self):
+        self.assertTrue(validate.safe_url("https://example.com/a"))
+        for u in ("http://example.com", "https://127.0.0.1/x", "https://localhost/", "javascript:alert(1)", "https://u:p@example.com", ""):
+            self.assertIsNone(validate.safe_url(u), u)
+
+    def test_dates(self):
+        self.assertIsNotNone(validate.parse_date(1760000000))
+        self.assertIsNotNone(validate.parse_date("Wed, 22 Oct 2026 00:00:00 GMT"))
+        self.assertIsNone(validate.parse_date("garbage"))
+
+    def test_validate_item(self):
+        good = {"url": "https://e.com/x", "title": "Quantum computer hits milestone", "published": (NOW - timedelta(days=1)).timestamp(), "publisher": "e.com"}
+        self.assertEqual(validate.validate_item(good, NOW, 14), [])
+        self.assertIn("age", validate.validate_item({**good, "published": (NOW - timedelta(days=90)).timestamp()}, NOW, 14))
+
+    def test_dedupe_and_rank(self):
+        a = {"title": "New quantum computing qubit error correction result", "url": "https://x.com/a?utm_source=z", "abstract": "", "score_hint": 0}
+        b = {**a, "url": "https://www.x.com/a"}
+        c = {**a, "url": "https://y.com/b", "title": "New quantum computing qubit error correction result!"}
+        self.assertEqual(len(rank.dedupe([a, b, c])), 1)
+        r = rank.rank([a, {"title": "Celebrity gossip about AI machine learning", "url": "https://z.com", "abstract": "", "score_hint": 0}], CFG, 3)
+        self.assertEqual([x["category"] for x in r], ["quantum-computing"])
+
+    def test_hn_and_arxiv_parse(self):
+        self.assertIsNone(collect.parse_hn_item({"type": "story", "title": "Ask HN"}, {"id": "hn"}))
+        x = b"<rss><channel><item><title>T paper</title><link>https://arxiv.org/abs/1</link><pubDate>Wed, 22 Oct 2026 00:00:00 GMT</pubDate><description>arXiv:1 Announce Type: new Abstract: We do things.</description></item></channel></rss>"
+        self.assertEqual(collect.parse_arxiv(x, {"id": "arxiv"})[0]["abstract"], "We do things.")
+
+    def test_rights_gate(self):
+        src = json.loads((ROOT / "config/sources.json").read_text())["sources"]
+        self.assertEqual({s["id"] for s in src if validate.source_approved(s)}, {"hn", "arxiv"})
+
+    def test_failed_run_keeps_data(self):
+        self.assertEqual(run.process([], CFG, {"max_age_days": 14, "min_score": 3, "max_new_per_run": 5}, [], NOW), [])
+
+    def test_clean_text(self):
+        self.assertNotIn("<", validate.clean_text("<script>x</script>hi"))
+
+    def test_data_files(self):
+        for f in ("news", "skills", "cases", "pages", "meta", "search-index"):
+            self.assertTrue(json.loads((ROOT / f"site/data/{f}.json").read_text()) is not None)
+        for s in json.loads((ROOT / "site/data/skills.json").read_text()):
+            for r in s["resources"]:
+                self.assertTrue(validate.safe_url(r["url"]))
+
+
+if __name__ == "__main__":
+    unittest.main()

@@ -1,0 +1,12 @@
+{"categories":{
+"artificial-intelligence":{"label":"Artificial Intelligence","kw":{"artificial intelligence":3,"machine learning":3,"neural network":3,"llm":3,"language model":3,"deep learning":3,"reinforcement learning":2,"transformer":2,"diffusion":2,"agent":1,"ai":1}},
+"robotics":{"label":"Robotics","kw":{"robot":3,"robotics":3,"humanoid":3,"drone":2,"autonomous":2,"manipulation":2}},
+"space":{"label":"Space","kw":{"space":2,"satellite":3,"rocket":3,"orbit":2,"nasa":3,"esa":2,"moon":2,"mars":2,"telescope":2}},
+"energy":{"label":"Energy","kw":{"battery":3,"solar":3,"fusion":3,"nuclear":2,"hydrogen":3,"grid":2,"renewable":3,"energy storage":3}},
+"biotechnology":{"label":"Biotechnology","kw":{"crispr":3,"gene":2,"genome":3,"protein":2,"biotech":3,"vaccine":2,"synthetic biology":3,"drug discovery":3}},
+"semiconductors":{"label":"Semiconductors","kw":{"semiconductor":3,"chip":2,"gpu":2,"lithography":3,"transistor":3,"tsmc":3,"fpga":2,"risc-v":3}},
+"quantum-computing":{"label":"Quantum Computing","kw":{"quantum":3,"qubit":3,"quantum computing":3,"error correction":2}},
+"cybersecurity":{"label":"Cybersecurity","kw":{"cybersecurity":3,"vulnerability":2,"encryption":2,"zero-day":3,"malware":2,"post-quantum":3,"cryptography":2}},
+"advanced-manufacturing":{"label":"Advanced Manufacturing","kw":{"3d printing":3,"additive manufacturing":3,"manufacturing":2,"automation":2,"factory":2,"materials":2}}},
+"reject":["celebrity","gossip","election","trump","biden","sponsored","coupon","giveaway","horoscope","lawsuit gossip"],
+"skills_hint":{"artificial-intelligence":["python-basics","machine-learning-basics"],"robotics":["python-basics"],"cybersecurity":["cybersecurity-basics"],"semiconductors":[],"quantum-computing":["python-basics"],"energy":["data-analysis"],"biotechnology":["data-analysis"],"space":["python-basics"],"advanced-manufacturing":["data-analysis"]}}
