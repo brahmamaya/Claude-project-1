@@ -51,5 +51,5 @@ def build_story(it, cats, skills_hint, now):
             "source_id": it["source_id"], "via": it.get("via"), "summary": summary,
             "key_facts": facts, "context": CONTEXT[cat], "context_label": "Background (editorial, not from the source)",
             "why_matters": None, "skills": skills_hint.get(cat, []),
-            "image": None, "image_credit": None, "diagram": diagram_svg(label),
+            "image": it.get("image"), "image_credit": ("Image: " + it["image_credit"]) if it.get("image") else None, "diagram": diagram_svg(label),
             "kind": it["kind"], "relevance": it["relevance"], "added": now.isoformat(), "sample": False}
