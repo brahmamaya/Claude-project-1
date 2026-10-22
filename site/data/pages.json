@@ -1,0 +1,59 @@
+{
+ "about": {
+  "title": "About",
+  "body": [
+   "Think Orbit helps ordinary people understand emerging technology, future skills and new business ideas.",
+   "We link to original sources and never copy full articles.",
+   "Some text is written from fixed templates. We say so where it applies."
+  ]
+ },
+ "contact": {
+  "title": "Contact",
+  "body": [
+   "For questions, corrections or takedown requests, email the address set in config/site.json (contact_email).",
+   "TODO(owner): put a real email before launch."
+  ]
+ },
+ "privacy": {
+  "title": "Privacy Policy",
+  "body": [
+   "No login. No tracking scripts. No cookies set by us.",
+   "Saved items are stored only in your browser (localStorage) and never sent to us.",
+   "GitHub Pages may log visits under GitHub's own policy.",
+   "TODO(legal review): confirm wording for your jurisdiction (e.g. India DPDP Act)."
+  ]
+ },
+ "terms": {
+  "title": "Terms of Use",
+  "body": [
+   "Content is for information and learning only. It is not financial, legal or career advice.",
+   "Skills and courses do not guarantee jobs.",
+   "Third-party links are not under our control.",
+   "TODO(legal review)."
+  ]
+ },
+ "copyright": {
+  "title": "Copyright and Takedown",
+  "body": [
+   "We respect rights holders. If you believe content here infringes your rights, email the contact address with the page link and proof of ownership.",
+   "We aim to review requests promptly and remove content where appropriate.",
+   "TODO(legal review): add designated agent details if needed."
+  ]
+ },
+ "corrections": {
+  "title": "Editorial and Corrections",
+  "body": [
+   "We separate source facts from editorial context.",
+   "Speculation is labelled as uncertain.",
+   "To report an error, use the Contact page. Corrections are noted on the page."
+  ]
+ },
+ "sources": {
+  "title": "Sources and Attribution",
+  "body": [
+   "Only sources approved in our public rights registry (config/sources.json) are published automatically.",
+   "Each story shows its publisher and links to the original.",
+   "Currently approved: Hacker News API (links and titles) and arXiv (metadata, CC0)."
+  ]
+ }
+}

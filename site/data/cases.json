@@ -1,0 +1,134 @@
+[
+ {
+  "id": "tesla",
+  "company": "Tesla",
+  "title": "Betting on electric cars before it was popular",
+  "industry": "Energy",
+  "status": "draft",
+  "problem": "Electric cars were seen as slow, costly niche products.",
+  "innovation": "Build premium electric cars first, then move to cheaper models.",
+  "overview": "Tesla is an electric vehicle and energy company founded in 2003.",
+  "model": "Sells vehicles directly to customers and also sells energy products.",
+  "technology": "Batteries, electric motors and vehicle software.",
+  "milestones": [
+   [
+    "2003",
+    "Company founded"
+   ],
+   [
+    "2008",
+    "First car, the Roadster, begins deliveries"
+   ],
+   [
+    "2012",
+    "Model S launched"
+   ]
+  ],
+  "advantages": [
+   "Early focus on batteries and software"
+  ],
+  "challenges": [
+   "Building cars at scale is hard and capital-intensive"
+  ],
+  "lesson": "Start with a small premium market, learn, then expand to a larger one.",
+  "lessons": [
+   "Start narrow, then scale",
+   "Own the key technology"
+  ],
+  "future": "Cheaper batteries could affect transport and energy storage. This is an open question, not a prediction.",
+  "references": [
+   {
+    "title": "Tesla official site",
+    "url": "https://www.tesla.com/"
+   }
+  ]
+ },
+ {
+  "id": "nvidia",
+  "company": "NVIDIA",
+  "title": "From graphics chips to AI computing",
+  "industry": "Semiconductors",
+  "status": "draft",
+  "problem": "Graphics chips were used mainly for games.",
+  "innovation": "Make GPUs programmable for general computing with CUDA.",
+  "overview": "NVIDIA designs chips and software. It was founded in 1993.",
+  "model": "Designs chips and sells chips, systems and software.",
+  "technology": "GPUs and the CUDA programming platform.",
+  "milestones": [
+   [
+    "1993",
+    "Company founded"
+   ],
+   [
+    "1999",
+    "GeForce 256 marketed as the first GPU"
+   ],
+   [
+    "2006",
+    "CUDA announced"
+   ]
+  ],
+  "advantages": [
+   "Software ecosystem around its chips"
+  ],
+  "challenges": [
+   "Depends on outside manufacturers; competition and export rules"
+  ],
+  "lesson": "Software tools can make hardware much more valuable.",
+  "lessons": [
+   "Build an ecosystem",
+   "Prepare for new uses early"
+  ],
+  "future": "Demand for AI computing may shape chip design. This is uncertain.",
+  "references": [
+   {
+    "title": "NVIDIA official site",
+    "url": "https://www.nvidia.com/"
+   }
+  ]
+ },
+ {
+  "id": "spacex",
+  "company": "SpaceX",
+  "title": "Making rockets reusable",
+  "industry": "Space",
+  "status": "draft",
+  "problem": "Rockets were thrown away after one launch, which is costly.",
+  "innovation": "Land and reuse rocket boosters.",
+  "overview": "SpaceX is a space launch company founded in 2002.",
+  "model": "Sells launch services and runs a satellite internet service.",
+  "technology": "Reusable boosters and in-house engines.",
+  "milestones": [
+   [
+    "2002",
+    "Company founded"
+   ],
+   [
+    "2008",
+    "Falcon 1 reaches orbit"
+   ],
+   [
+    "2015",
+    "First Falcon 9 booster landing"
+   ]
+  ],
+  "advantages": [
+   "Reuse can lower the cost of launches"
+  ],
+  "challenges": [
+   "Early launches failed before success"
+  ],
+  "lesson": "Repeated testing and learning from failures can solve hard problems.",
+  "lessons": [
+   "Iterate quickly",
+   "Attack the biggest cost"
+  ],
+  "future": "Cheaper launch could make more space projects practical. This is uncertain.",
+  "references": [
+   {
+    "title": "SpaceX official site",
+    "url": "https://www.spacex.com/"
+   }
+  ]
+ }
+]
