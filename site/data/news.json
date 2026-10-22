@@ -1,5 +1,194 @@
 [
  {
+  "id": "c3da4b0cef",
+  "title": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2606.08168",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Leading commercial endpoint detection and response (EDR) products have shifted from operator-configured rule sets to multi-component systems where autonomous AI components operate alongside, and increasingly in place of, operator-deployed policies. Autonomous defense agents using commercial EDR as their hardening tool ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
+  "id": "8bc33e3d24",
+  "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2607.00272",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Traditional robot programming is notoriously challenging: it requires orchestrating multimodal perception, managing physical contact dynamics, and handling diverse environment configurations and execution failures. We introduce ASPIRE (Agentic Skill Programming through Iterative Robot Exploration), a continual learning",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
+  "id": "1000cef301",
+  "title": "Energetic Costs of Subspace Quantum Error Correction",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2609.03825",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum error correction acts as an entropy pump, transferring noise-induced uncertainty from a protected quantum system into syndrome information stored in an auxiliary memory. Repeated operation requires this memory to be cleared which unavoidably contributes to the energetic cost of error correction.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
+  "id": "89a80ec03a",
+  "title": "$\\lambda_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.18950",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Humanoid loco-manipulation requires coordinated whole-body interaction with the physical world, yet collecting robot demonstrations at scale remains costly. Human demonstrations offer a scalable alternative, but existing egocentric human supervision often omits locomotion and posture, while embodiment differences and c",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
+  "id": "a040d6c7fd",
+  "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.29139",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Frontier black-box Large Language Model (LLM) agents are proficient at long-horizon reasoning and precise action generation. However, when it comes to a specific agentic task, they have no internalized knowledge of how that particular environment unfolds.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
+  "id": "6e65939854",
+  "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-22T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2608.14590",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large Language Model (LLM) agents take irreversible real-world actions, yet no system gives formally grounded, task-level safety guarantees for their plans. In a PRISMA 2020 systematic review, we searched six databases (20-29 May 2026) for work on LLM agent specification, verification, and enforcement published in 2022",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-22",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
   "id": "991c761c71",
   "title": "High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout",
   "category": "quantum-computing",
@@ -452,6 +641,69 @@
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "relevance": 8.0,
   "added": "2026-10-22T17:44:36.205504+00:00",
+  "sample": false
+ },
+ {
+  "id": "0ef7b7288d",
+  "title": "Using LLM for confidence scoring is a bad idea",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-21T04:27:51+00:00",
+  "publisher": "rumple.github.io",
+  "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by rumple.github.io. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: rumple.github.io",
+   "Published: 2026-10-21",
+   "Topic: Artificial Intelligence",
+   "Found via Hacker News (community score 185)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.92,
+  "added": "2026-10-22T17:48:40.683355+00:00",
+  "sample": false
+ },
+ {
+  "id": "97b3bd18bf",
+  "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-19T19:21:56+00:00",
+  "publisher": "dovepass.com",
+  "url": "https://dovepass.com",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by dovepass.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: dovepass.com",
+   "Published: 2026-10-19",
+   "Topic: Robotics",
+   "Found via Hacker News (community score 23)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.12,
+  "added": "2026-10-22T17:48:40.683355+00:00",
   "sample": false
  }
 ]
