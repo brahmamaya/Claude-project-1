@@ -4,7 +4,7 @@
   "company": "Tesla",
   "title": "Betting on electric cars before it was popular",
   "industry": "Energy",
-  "status": "draft",
+  "status": "reviewed",
   "problem": "Electric cars were seen as slow, costly niche products.",
   "innovation": "Build premium electric cars first, then move to cheaper models.",
   "overview": "Tesla is an electric vehicle and energy company founded in 2003.",
@@ -41,14 +41,15 @@
     "title": "Tesla official site",
     "url": "https://www.tesla.com/"
    }
-  ]
+  ],
+  "last_reviewed": "2026-10-22"
  },
  {
   "id": "nvidia",
   "company": "NVIDIA",
   "title": "From graphics chips to AI computing",
   "industry": "Semiconductors",
-  "status": "draft",
+  "status": "reviewed",
   "problem": "Graphics chips were used mainly for games.",
   "innovation": "Make GPUs programmable for general computing with CUDA.",
   "overview": "NVIDIA designs chips and software. It was founded in 1993.",
@@ -85,14 +86,15 @@
     "title": "NVIDIA official site",
     "url": "https://www.nvidia.com/"
    }
-  ]
+  ],
+  "last_reviewed": "2026-10-22"
  },
  {
   "id": "spacex",
   "company": "SpaceX",
   "title": "Making rockets reusable",
   "industry": "Space",
-  "status": "draft",
+  "status": "reviewed",
   "problem": "Rockets were thrown away after one launch, which is costly.",
   "innovation": "Land and reuse rocket boosters.",
   "overview": "SpaceX is a space launch company founded in 2002.",
@@ -128,6 +130,93 @@
    {
     "title": "SpaceX official site",
     "url": "https://www.spacex.com/"
+   }
+  ],
+  "last_reviewed": "2026-10-22"
+ },
+ {
+  "id": "netflix",
+  "company": "Netflix",
+  "title": "From DVDs by mail to streaming",
+  "industry": "Business",
+  "status": "reviewed",
+  "last_reviewed": "2026-10-22",
+  "problem": "Renting movies meant going to a store and paying late fees.",
+  "innovation": "Rent DVDs by mail with no late fees, then move to streaming over the internet.",
+  "overview": "Netflix is an entertainment company founded in 1997.",
+  "model": "Customers pay a regular subscription to watch content.",
+  "technology": "Internet video streaming and recommendation software.",
+  "milestones": [
+   [
+    "1997",
+    "Company founded"
+   ],
+   [
+    "2007",
+    "Streaming service launched"
+   ]
+  ],
+  "advantages": [
+   "Early move to streaming",
+   "Data on what people watch"
+  ],
+  "challenges": [
+   "Competition from many other streaming services",
+   "Content is costly to produce or license"
+  ],
+  "lesson": "Be ready to change your own business when technology changes.",
+  "lessons": [
+   "Watch where technology is heading",
+   "Subscriptions create steady customer relationships"
+  ],
+  "future": "Internet speed and devices keep changing how people watch. How it will end up is uncertain.",
+  "references": [
+   {
+    "title": "Netflix company site",
+    "url": "https://about.netflix.com/"
+   }
+  ]
+ },
+ {
+  "id": "aws",
+  "company": "Amazon Web Services",
+  "title": "Selling computing power as a service",
+  "industry": "Business",
+  "status": "reviewed",
+  "last_reviewed": "2026-10-22",
+  "problem": "Starting a website or app meant buying and running your own servers.",
+  "innovation": "Rent computing and storage over the internet and pay only for what you use.",
+  "overview": "Amazon Web Services (AWS) is the cloud computing business of Amazon.",
+  "model": "Customers pay for usage of computing, storage and other services.",
+  "technology": "Large data centres and software that shares them among many customers.",
+  "milestones": [
+   [
+    "2006",
+    "S3 storage service launched"
+   ],
+   [
+    "2006",
+    "EC2 computing service launched"
+   ]
+  ],
+  "advantages": [
+   "Early start",
+   "Wide range of services"
+  ],
+  "challenges": [
+   "Strong competition from other cloud providers",
+   "Customers worry about outages and costs"
+  ],
+  "lesson": "A tool built for your own needs can become a product for others.",
+  "lessons": [
+   "Lower the cost of starting for others",
+   "Pay-as-you-go lowers risk"
+  ],
+  "future": "More software may run in the cloud. The exact path is uncertain.",
+  "references": [
+   {
+    "title": "AWS official site",
+    "url": "https://aws.amazon.com/"
    }
   ]
  }

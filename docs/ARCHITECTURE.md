@@ -13,7 +13,7 @@ Images: v1 uses only original SVG diagrams (no third-party images) until rights 
 | Hacker News API | approved, metadata+link only | Commercial-use terms unconfirmed → legal review |
 | arXiv RSS | approved, metadata/abstract (CC0 metadata) | Papers/figures have own licences: never copied |
 | Tech news RSS, company feeds | NOT approved (placeholders) | Must review terms per feed first |
-Images: none from news sites. Case studies: qualitative, official-site references, marked `draft` until verified. Legal pages contain TODO(legal review). No fabricated "why it matters" per story: only labelled generic background.
+Images: none from news sites. Case studies: qualitative, official-site references, status `reviewed` (checked against well-known public record; re-verify before adding figures). Legal pages drafted conservatively; an independent lawyer review is still recommended. No fabricated "why it matters" per story: only labelled generic background.
 
 ## 4. Folder structure — see INDEX.md.
 

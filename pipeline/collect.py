@@ -21,9 +21,20 @@ def parse_arxiv(xml_bytes, source):
         desc = clean_text(t("description"), 1500)
         if "Abstract:" in desc:
             desc = desc.split("Abstract:", 1)[1].strip()
-        out.append({"source_id": source["id"], "title": clean_text(t("title"), 200),
+        out.append({"source_id": source["id"], "title": clean_text(t("title"), 200).replace("$", "").replace("\\", ""),
                     "url": link, "published": t("pubDate") or None,
                     "publisher": "arXiv", "abstract": desc, "kind": "research", "score_hint": 0})
+    return out
+
+
+def parse_rss(xml_bytes, source):
+    """Generic RSS 2.0 parser: title, link, date, short excerpt only."""
+    out = []
+    for it in ET.fromstring(xml_bytes).iter("item"):
+        out.append({"source_id": source["id"], "title": clean_text(it.findtext("title"), 200),
+                    "url": (it.findtext("link") or "").strip(), "published": it.findtext("pubDate"),
+                    "publisher": source.get("publisher", source["name"]),
+                    "abstract": clean_text(it.findtext("description"), 600), "kind": "news", "score_hint": 0})
     return out
 
 
@@ -55,6 +66,8 @@ def fetch_source(source):
         return []
     if source["id"] == "hn":
         return fetch_hn(source)
-    if source["access"] == "rss" and source["id"] == "arxiv":
+    if source["id"] == "arxiv":
         return parse_arxiv(get(source["endpoint"]), source)
+    if source["access"] == "rss":
+        return parse_rss(get(source["endpoint"]), source)
     return []  # unknown source type: do nothing
