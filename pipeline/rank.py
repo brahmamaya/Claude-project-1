@@ -38,12 +38,25 @@ def classify(it, cfg):
     return best, best_s
 
 
-def rank(items, cfg, min_score):
+def rank(items, cfg, min_score, news_min_score=None):
+    """News-kind items may use a lower bar than research (their titles are short)."""
     keep = []
     for it in items:
         cat, s = classify(it, cfg)
-        if not cat or s < min_score:
+        bar = news_min_score if (news_min_score and it.get("kind") == "news") else min_score
+        if not cat or s < bar:
             continue
         s += min(it.get("score_hint", 0) / 200, 2)  # popularity is a small tiebreaker
         keep.append({**it, "category": cat, "relevance": round(s, 2)})
     return sorted(keep, key=lambda x: -x["relevance"])
+
+
+def cap_per_kind(items, caps):
+    """Keep list order but limit how many of each kind (e.g. research) are taken, so the feed stays mixed."""
+    n, out = {}, []
+    for it in items:
+        k = it.get("kind")
+        n[k] = n.get(k, 0) + 1
+        if n[k] <= caps.get(k, 10**9):
+            out.append(it)
+    return out

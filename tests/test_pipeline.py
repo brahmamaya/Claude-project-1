@@ -44,6 +44,12 @@ class T(unittest.TestCase):
     def test_failed_run_keeps_data(self):
         self.assertEqual(run.process([], CFG, {"max_age_days": 14, "min_score": 3, "max_new_per_run": 5}, [], NOW), [])
 
+    def test_cap_per_kind(self):
+        items = [{"kind": "research"}] * 8 + [{"kind": "news"}] * 3
+        out = rank.cap_per_kind(items, {"research": 6})
+        self.assertEqual(sum(i["kind"] == "research" for i in out), 6)
+        self.assertEqual(sum(i["kind"] == "news" for i in out), 3)
+
     def test_clean_text(self):
         self.assertNotIn("<", validate.clean_text("<script>x</script>hi"))
 

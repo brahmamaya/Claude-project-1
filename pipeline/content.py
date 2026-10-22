@@ -52,4 +52,4 @@ def build_story(it, cats, skills_hint, now):
             "key_facts": facts, "context": CONTEXT[cat], "context_label": "Background (editorial, not from the source)",
             "why_matters": None, "skills": skills_hint.get(cat, []),
             "image": None, "image_credit": None, "diagram": diagram_svg(label),
-            "relevance": it["relevance"], "added": now.isoformat(), "sample": False}
+            "kind": it["kind"], "relevance": it["relevance"], "added": now.isoformat(), "sample": False}
