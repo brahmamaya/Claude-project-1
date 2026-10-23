@@ -77,7 +77,7 @@
    "Only sources we have reviewed and approved are published automatically. Our review notes are public in the file config/sources.json in our code repository.",
    "Currently approved sources: Hacker News (headline and link, via its public API); arXiv (metadata and abstracts, which arXiv states are CC0; papers keep their own licences); NASA news feed (headline, short excerpt and link; NASA-created content is generally public domain, third-party material excluded).",
    "Each story names its publisher and links to the original page.",
-   "We do not use photos from these sources. Pictures on this site are our own original drawings.",
+   "Photos: NASA stories may show NASA's own image. Other stories may show an illustrative photo from Wikimedia Commons (not a photo of that exact event). Only files under CC0, public domain, CC BY or CC BY-SA are used, and the author, licence and file page are shown on the story page. Otherwise we show our own drawings.",
    "Learning links point to free resources owned by their respective providers. We check that they work, but we do not control them."
   ]
  }

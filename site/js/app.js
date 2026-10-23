@@ -70,7 +70,7 @@ ${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual
     const src = safe(n.url);
     return `${bar(id, saveBtn("news:" + id) + shareBtn(n.title))}<h1>${esc(T(n.title))}</h1>
 <p class="mute"><span class="tag">${esc(n.category_label)}</span>${esc(n.publisher)} · ${new Date(n.published).toLocaleDateString()}${n.via ? " · via " + esc(n.via) : ""}</p>
-<div class="hero-img">${visual(n)}</div>${n.image_credit ? `<p class="mute">${esc(n.image_credit)}</p>` : ""}${n.sample ? `<p class="notice">Sample content. Not a real story.</p>` : ""}
+<div class="hero-img">${visual(n)}</div>${n.image_credit ? `<p class="mute">${esc(n.image_credit)}${safe(n.image_page) ? ` · <a href="${esc(safe(n.image_page))}" target="_blank" rel="noopener noreferrer" style="text-decoration:underline">File page</a>` : ""}</p>` : ""}${n.sample ? `<p class="notice">Sample content. Not a real story.</p>` : ""}
 <h2>In short</h2>${pts(n.summary)}
 ${n.context ? `<div class="box"><h2>Why it matters</h2><p>${esc(n.context)}</p><p class="mute">${esc(n.context_label || "")}</p></div>` : ""}
 ${await impact(n)}

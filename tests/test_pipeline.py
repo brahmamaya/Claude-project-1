@@ -1,7 +1,7 @@
 import json, unittest
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from pipeline import validate, rank, collect, content, index, run
+from pipeline import validate, rank, collect, content, index, run, images
 
 ROOT = Path(__file__).resolve().parent.parent
 NOW = datetime(2026, 10, 22, tzinfo=timezone.utc)
@@ -54,6 +54,21 @@ class T(unittest.TestCase):
         src = {"id": "nasa", "name": "NASA", "image_hosts": ["nasa.gov"], "image_credit": "NASA"}
         self.assertEqual(collect.parse_rss(x, src)[0]["image"], "https://www.nasa.gov/wp-content/a.jpg")
 
+    def test_commons_license_filter(self):
+        def page(lic, host="upload.wikimedia.org", restr=""):
+            return {"title": "File:Rocket.jpg", "imageinfo": [{"thumburl": f"https://{host}/a.jpg", "mime": "image/jpeg", "width": 800, "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rocket.jpg",
+                    "extmetadata": {"LicenseShortName": {"value": lic}, "Artist": {"value": "<a>Jane Doe</a>"}, "Restrictions": {"value": restr}}}]}
+        r = {"query": {"pages": {"1": page("CC BY-SA 4.0"), "2": page("CC BY-NC 4.0"), "3": page("CC BY 2.0", host="evil.example"), "4": page("Public domain", restr="personality"), "5": page("CC0")}}}
+        got = images.parse(r, "rocket")
+        self.assertEqual(len(got), 2)
+        self.assertIn("Jane Doe, CC BY-SA 4.0, via Wikimedia Commons", got[0]["image_credit"])
+
+    def test_fill_is_stable_and_skips_existing(self):
+        pool = {"space": [{"image": "https://upload.wikimedia.org/a.jpg", "image_credit": "c", "image_page": None}]}
+        st = [{"id": "00000001", "category": "space"}, {"id": "00000002", "category": "space", "image": "https://x"}]
+        self.assertEqual(images.fill(st, pool), 1)
+        self.assertEqual(st[1]["image"], "https://x")
+
     def test_hn_min_points(self):
         it = {"title": "SpaceX rocket reaches orbit again", "url": "https://a.com/x", "abstract": "", "kind": "news", "via": "Hacker News", "score_hint": 5}
         self.assertEqual(rank.rank([it], CFG, 3, 2, 50), [])
@@ -61,7 +76,7 @@ class T(unittest.TestCase):
 
     def test_rights_gate(self):
         src = json.loads((ROOT / "config/sources.json").read_text())["sources"]
-        self.assertEqual({s["id"] for s in src if validate.source_approved(s)}, {"hn", "arxiv", "nasa"})
+        self.assertEqual({s["id"] for s in src if validate.source_approved(s)}, {"hn", "arxiv", "nasa", "wikimedia-commons"})
 
     def test_failed_run_keeps_data(self):
         self.assertEqual(run.process([], CFG, {"max_age_days": 14, "min_score": 3, "max_new_per_run": 5}, [], NOW), [])
