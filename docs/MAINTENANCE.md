@@ -8,3 +8,5 @@
 - Schedule: 3 runs/day (03:17, 06:34, 12:41 UTC = 8:47 AM, 12:04 PM, 6:11 PM IST) because GitHub may delay or skip a scheduled run. Duplicates are filtered, so extra runs are harmless.
 - Failure safety: pipeline writes atomically and keeps old data if no new items qualify or a feed fails.
 - Legal: pages drafted in plain, conservative language (India-focused). Independent lawyer review still recommended, esp. HN commercial use, NASA image use, and DPDP wording. Add images only after rights are verified.
+
+- Custom domain: set it once in Settings → Pages (and DNS at the registrar). The daily run reads the public URL from GitHub Pages, so the sitemap, RSS and robots.txt follow automatically. No code change needed.
