@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brahmamaya.github.io/Claude-project-1/sitemap.xml
