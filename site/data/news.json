@@ -30,6 +30,200 @@
   "sample": false
  },
  {
+  "id": "a94385d0c4",
+  "title": "On the Structure of Quantum Finite-Level Systems: Decoherence-Free Subsystems, Quantum Nondemolition Variables, and Back-Action-Evading Measurements",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30616",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "The purpose of this paper is to conduct a comprehensive structural analysis of quantum finite-level systems in the Heisenberg picture, where the evolution of system observables is modeled by bilinear quantum stochastic differential equations (QSDEs). Firstly, real coordinate transformations that preserve commutation an",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Laser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Tom Trower, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-23T17:25:27.541970+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Laser.jpg"
+ },
+ {
+  "id": "3a2bbc4255",
+  "title": "Coherence and imaginarity of qubit states under vanishing Bargmann invariants",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30618",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Set coherence and set imaginarity are two important quantum resources defined by sets of states. We investigate tuples of qubit states under vanishing higher-order Bargmann invariants and show that their set coherence and set imaginarity are each related to whether they contain a pair of orthogonal states.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-23T17:25:27.541970+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
+ },
+ {
+  "id": "314e9c73cd",
+  "title": "A Topology-Guided GeoAI Agentic Framework for Urban Flood Screening",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30660",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Open-world geographic artificial intelligence (GeoAI) agents can transform public geospatial data into accessible decision support for real-world challenges, but must balance autonomous reasoning with reliable spatial analysis and human oversight. We present a topology-guided GeoAI agentic framework for urban flood scr",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-23T17:25:27.541970+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+ },
+ {
+  "id": "b1374d2549",
+  "title": "A simple proof of unitary parallelization via port-based teleportation",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30761",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Port-based teleportation (PBT) is a variant of quantum teleportation that does not require corrections on the teleported state: starting with $N$ shared EPR states, Alice can teleport a qudit to Bob by performing a measurement on her system and informing Bob which of his $N$ `ports' to retrieve the state, up to infidel",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ogs-1_Optical_Ground_Station_1_in_Table_Mountain%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: NASA, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-23T17:25:27.541970+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ogs-1_Optical_Ground_Station_1_in_Table_Mountain,_California.jpg"
+ },
+ {
+  "id": "e03e0a7072",
+  "title": "Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30810",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Loco-manipulation extends the workspace of conventional manipulation by combining mobility with physical interaction, while aerial loco-manipulation further expands this capability into three-dimensional space, enabling robots to reach environments inaccessible to ground-based systems. Moving to an aerial platform, how",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-23T17:25:27.541970+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
+ },
+ {
+  "id": "8ab823f5ec",
+  "title": "Robot Motion Transition with Human Motion Prior",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30817",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Humanoid motion-tracking policies can reproduce diverse behaviors, yet connecting independently acquired motions into a continuous sequence remains challenging. Interpolation connects boundary poses without considering whether their relative position, heading, and timing provide suitable conditions for a transition.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Blueblack_preview_featured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Phenoptix, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 6.0,
+  "added": "2026-10-23T17:25:27.541970+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Blueblack_preview_featured.jpg"
+ },
+ {
   "id": "3a8594c530",
   "title": "Normal-Form Characterization of Adaptivity and Entanglement in Pauli-Based Computation",
   "category": "quantum-computing",
@@ -1353,6 +1547,38 @@
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Daytime_Dynamo_Rocket_Launch_(9218456144).jpg"
+ },
+ {
+  "id": "48e99f4fba",
+  "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-22T07:41:29+00:00",
+  "publisher": "sciencealert.com",
+  "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by sciencealert.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: sciencealert.com",
+   "Published: 2026-10-22",
+   "Topic: Quantum Computing",
+   "Found via Hacker News (community score 69)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.69,
+  "added": "2026-10-23T17:25:27.541970+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
  },
  {
   "id": "a54d1aa6de",
