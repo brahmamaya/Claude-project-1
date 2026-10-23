@@ -33,7 +33,7 @@ const A = { // original line illustrations, one per topic (no third-party images
   business: '<path d="M80 140V90M120 140V60M160 140V100M200 140V40M240 140V70M70 145h180"/>',
   creative: '<path d="M160 30a42 42 0 0 0-20 79v14h40v-14a42 42 0 0 0-20-79zM148 135h24M152 148h16"/>'
 };
-const ALIAS = { AI: "artificial-intelligence", "Artificial Intelligence": "artificial-intelligence", Robotics: "robotics", Space: "space", Energy: "energy", Semiconductors: "semiconductors", Tech: "semiconductors", Business: "business", AI: "artificial-intelligence", Telecom: "network", Messaging: "network", "Social Media": "network", Technology: "network", Creative: "creative", Biotechnology: "biotechnology", Cybersecurity: "cybersecurity" };
+const ALIAS = { AI: "artificial-intelligence", "Artificial Intelligence": "artificial-intelligence", Robotics: "robotics", Space: "space", Energy: "energy", Semiconductors: "semiconductors", Tech: "semiconductors", Business: "business", Automobile: "advanced-manufacturing", AI: "artificial-intelligence", Telecom: "network", Messaging: "network", "Social Media": "network", Technology: "network", Creative: "creative", Biotechnology: "biotechnology", Cybersecurity: "cybersecurity" };
 const art = (k) => { const body = A[k] || A[ALIAS[k]]; return body ? `<svg viewBox="0 0 320 180" role="img" aria-label="Illustration"><rect width="320" height="180" fill="#0b0b0b"/><g fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>` : orbit; };
 const visual = (n) => n.image && safe(n.image) ? `<img src="${esc(safe(n.image))}" alt="" loading="lazy" decoding="async" data-c="${esc(n.category)}">` : art(n.category);
 
@@ -117,11 +117,18 @@ ${list.map(caseCard).join("") || `<p class="empty">No case studies match.</p>`}`
     const ul = (a) => `<ul class="plain">${(a || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
     return `${bar(id, saveBtn("cases:" + id) + shareBtn(c.company))}<div class="hero-img">${art(c.industry)}</div><span class="tag">${esc(c.industry)}</span>${c.status === "draft" ? `<span class="tag">Draft</span>` : `<span class="tag">Reviewed ${esc(c.last_reviewed || "")}</span>`}
 <h1>${esc(c.company)}: ${esc(c.title)}</h1>
-<h2>1. Company overview</h2><p>${esc(c.overview)}</p><h2 style="margin-top:16px">2. Problem solved</h2><p>${esc(c.problem)}</p>
-<h2 style="margin-top:16px">3. Innovation</h2><p>${esc(c.innovation)}</p><h2 style="margin-top:16px">4. Business model</h2><p>${esc(c.model)}</p><h2 style="margin-top:16px">5. Technology</h2><p>${esc(c.technology)}</p>
-<h2 style="margin-top:16px">6. Key milestones</h2><ol class="tl">${(c.milestones || []).map(([y, t]) => `<li><b>${esc(y)}</b> &nbsp;${esc(t)}</li>`).join("")}</ol>
+<p class="mute">${esc(c.overview)}</p>
+${c.story ? `<div class="box"><h2>At a glance</h2><ul class="plain"><li><b>Problem:</b> ${esc(c.problem)}</li><li><b>Idea:</b> ${esc(c.innovation)}</li><li><b>How it earns:</b> ${esc(c.model)}</li><li><b>Technology:</b> ${esc(c.technology)}</li></ul></div>
+${c.story.map((x, i) => `<h2 style="margin-top:20px">${i + 1}. ${esc(x.h)}</h2>${ul(x.points)}`).join("")}
+<h2 style="margin-top:20px">Key dates</h2><ol class="tl">${(c.milestones || []).map(([y, t]) => `<li><b>${esc(y)}</b> &nbsp;${esc(t)}</li>`).join("")}</ol>
+<div class="box"><h2>Lessons in short</h2>${ul(c.lessons)}</div>
+<div class="box"><h2>Think about it</h2>${ul(c.think)}</div>
+<p class="mute">Written in simple words from the public sources below. Dates and figures come from those sources. The future parts are possibilities, not predictions.</p>`
+: `<h2 style="margin-top:16px">1. Problem solved</h2><p>${esc(c.problem)}</p>
+<h2 style="margin-top:16px">2. Innovation</h2><p>${esc(c.innovation)}</p><h2 style="margin-top:16px">3. Business model</h2><p>${esc(c.model)}</p><h2 style="margin-top:16px">4. Technology</h2><p>${esc(c.technology)}</p>
+<h2 style="margin-top:16px">5. Key milestones</h2><ol class="tl">${(c.milestones || []).map(([y, t]) => `<li><b>${esc(y)}</b> &nbsp;${esc(t)}</li>`).join("")}</ol>
 <div class="box"><h2>Competitive advantages</h2>${ul(c.advantages)}</div><div class="box"><h2>Challenges</h2>${ul(c.challenges)}</div>
-<div class="box"><h2>What we can learn</h2><p>${esc(c.lesson)}</p>${ul(c.lessons)}</div><div class="box"><h2>Possible future implications</h2><p>${esc(c.future)}</p></div>
+<div class="box"><h2>What we can learn</h2><p>${esc(c.lesson)}</p>${ul(c.lessons)}</div><div class="box"><h2>Possible future implications</h2><p>${esc(c.future)}</p></div>`}
 <h2>References</h2>${(c.references || []).map((r) => `<a class="link" href="${esc(safe(r.url))}" target="_blank" rel="noopener noreferrer"><span>${esc(r.title)}</span>${ic("ext")}</a>`).join("")}`;
   },
   async explore() {

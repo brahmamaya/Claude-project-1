@@ -2,30 +2,46 @@
  {
   "id": "tesla",
   "company": "Tesla",
-  "title": "Betting on electric cars before it was popular",
-  "industry": "Energy",
+  "title": "Making electric cars exciting, and then affordable",
+  "industry": "Automobile",
   "status": "reviewed",
-  "problem": "Electric cars were seen as slow, costly niche products.",
-  "innovation": "Build premium electric cars first, then move to cheaper models.",
-  "overview": "Tesla is an electric vehicle and energy company founded in 2003.",
-  "model": "Sells vehicles directly to customers and also sells energy products.",
-  "technology": "Batteries, electric motors and vehicle software.",
+  "problem": "Before Tesla, electric cars were seen as slow, short-range and boring. Big car makers were not betting on them.",
+  "innovation": "Start with an expensive, exciting sports car. Use the money and learning to build cheaper cars, step by step.",
+  "overview": "Tesla builds electric cars, batteries and solar and energy-storage products. It started in 2003 and is now one of the best-known car makers in the world.",
+  "model": "Sells cars directly to customers (not through dealers), plus energy storage and solar products. Cars get new features through software updates over the internet.",
+  "technology": "Battery packs, electric motors, car software, and its own fast-charging network.",
   "milestones": [
    [
     "2003",
     "Company founded"
    ],
    [
+    "2006",
+    "Roadster unveiled; 'Master Plan' published"
+   ],
+   [
     "2008",
-    "First car, the Roadster, begins deliveries"
+    "Roadster production begins; new CEO as funds run low"
    ],
    [
     "2012",
-    "Model S launched"
+    "Model S deliveries begin"
+   ],
+   [
+    "2014",
+    "Patents opened for others to use"
+   ],
+   [
+    "2016",
+    "Model 3 unveiled; battery Gigafactory starts producing"
    ],
    [
     "2017",
-    "Model 3 deliveries began"
+    "Model 3 deliveries begin"
+   ],
+   [
+    "2020",
+    "Joins the S&P 500"
    ]
   ],
   "advantages": [
@@ -37,16 +53,94 @@
   "lesson": "Start with a small premium market, learn, then expand to a larger one.",
   "lessons": [
    "Start narrow, then scale",
-   "Own the key technology"
+   "Own the key technology",
+   "Be ready to survive the hard years"
   ],
   "future": "Cheaper batteries could affect transport and energy storage. This is an open question, not a prediction.",
   "references": [
    {
     "title": "Tesla official site",
     "url": "https://www.tesla.com/"
+   },
+   {
+    "title": "Tesla Annual Report to Shareholders, FY2023 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465924053372/tm2412112d4_ars.pdf"
+   },
+   {
+    "title": "Engadget: Tesla's master plan realised (2016)",
+    "url": "https://www.engadget.com/2016-12-20-tesla-2016.html"
+   },
+   {
+    "title": "CleanTechnica: Tesla history timeline",
+    "url": "https://cleantechnica.com/2022/10/18/tesla-history-timeline-evolution-stock-prices/"
    }
   ],
-  "last_reviewed": "2026-10-22"
+  "last_reviewed": "2026-10-23",
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "Tesla was founded in 2003 by Martin Eberhard and Marc Tarpenning. Elon Musk joined in 2004 as chairman and early investor.",
+     "The first car, the Roadster, was unveiled in 2006 and went into production in 2008.",
+     "Musk became CEO in 2008, when the company was close to running out of money.",
+     "Over the next years Tesla added the Model S (2012) and the Model 3 (2017), aimed at more people."
+    ]
+   },
+   {
+    "h": "The big idea: a 'Master Plan'",
+    "points": [
+     "In 2006 Tesla published a plan: build a low-volume sports car, use that money for a medium-priced car, then an even cheaper one.",
+     "It also planned to offer zero-emission electric power products.",
+     "This step-by-step plan is a key reason people study Tesla: start small, learn, grow."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "Sells cars directly online and in its own stores, so it controls price and the buying experience.",
+     "Sells batteries for homes and power companies, and solar products.",
+     "Builds its own fast-charging stations, so owners can travel far. By 2014 it already ran about 97 stations across the US, according to one report.",
+     "Opened its patents for others to use in 2014, to help the whole electric car market grow."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "2008: the company was close to collapse before new funding arrived.",
+     "Scaling the Model 3 in 2017 was very hard; the CEO himself called it 'production hell'.",
+     "Regulators have investigated safety claims about its driver-assist features."
+    ]
+   },
+   {
+    "h": "What changed because of Tesla",
+    "points": [
+     "Many big car makers now sell electric cars.",
+     "In 2016 it started producing batteries at its Gigafactory near Reno, Nevada, to cut battery costs.",
+     "A factory in Shanghai began operating around 2019, to serve more markets.",
+     "It joined the S&P 500 stock index in December 2020."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "Start with a small market that will pay more, then go bigger.",
+     "Own the parts that matter most (batteries, software).",
+     "Say your plan publicly and keep to it, but be ready to fix problems fast."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "Cheaper batteries could make electric cars normal in more countries.",
+     "Self-driving is promised but not solved. Treat timelines with care.",
+     "More rivals mean prices and profits may be squeezed."
+    ]
+   }
+  ],
+  "think": [
+   "Why did Tesla begin with an expensive car and not a cheap one?",
+   "What parts of your own plan should you control yourself?"
+  ]
  },
  {
   "id": "nvidia",
@@ -96,14 +190,14 @@
  {
   "id": "spacex",
   "company": "SpaceX",
-  "title": "Making rockets reusable",
+  "title": "Making rockets reusable and space cheaper",
   "industry": "Space",
   "status": "reviewed",
-  "problem": "Rockets were thrown away after one launch, which is costly.",
-  "innovation": "Land and reuse rocket boosters.",
-  "overview": "SpaceX is a space launch company founded in 2002.",
-  "model": "Sells launch services and runs a satellite internet service.",
-  "technology": "Reusable boosters and in-house engines.",
+  "problem": "Rockets were thrown away after one flight, like throwing away a jet after one trip. That made space very costly.",
+  "innovation": "Build rockets whose first stage can land and fly again, and build most parts in-house.",
+  "overview": "SpaceX designs, builds and launches rockets and spacecraft, and runs the Starlink satellite internet service. It was founded in 2002.",
+  "model": "Sells launch services to NASA, governments and companies. Also sells satellite internet subscriptions (Starlink).",
+  "technology": "Reusable Falcon 9 boosters, Dragon spacecraft, Starlink satellites and the Starship rocket under test.",
   "milestones": [
    [
     "2002",
@@ -111,19 +205,39 @@
    ],
    [
     "2008",
-    "Falcon 1 reaches orbit"
+    "Falcon 1 reaches orbit on its fourth try"
+   ],
+   [
+    "2010",
+    "First Falcon 9 launch"
+   ],
+   [
+    "2012",
+    "Dragon docks with the space station"
    ],
    [
     "2015",
     "First Falcon 9 booster landing"
    ],
    [
-    "2012",
-    "Dragon docked with the International Space Station"
+    "2017",
+    "First reflight of an orbital-class booster"
+   ],
+   [
+    "2018",
+    "Falcon Heavy first flight"
+   ],
+   [
+    "2019",
+    "First 60 Starlink satellites launched"
    ],
    [
     "2020",
-    "Crewed Dragon flight carried NASA astronauts to the ISS"
+    "Crew Dragon carries astronauts to the station"
+   ],
+   [
+    "2025",
+    "Starship test flights continue, with mixed results"
    ]
   ],
   "advantages": [
@@ -135,16 +249,88 @@
   "lesson": "Repeated testing and learning from failures can solve hard problems.",
   "lessons": [
    "Iterate quickly",
-   "Attack the biggest cost"
+   "Attack the biggest cost",
+   "Failure is data"
   ],
   "future": "Cheaper launch could make more space projects practical. This is uncertain.",
   "references": [
    {
     "title": "SpaceX official site",
     "url": "https://www.spacex.com/"
+   },
+   {
+    "title": "TechRepublic: SpaceX milestones",
+    "url": "https://www.techrepublic.com/article/news-spacex-timeline-major-milestones-elon-musk/"
+   },
+   {
+    "title": "NPR: Starship test flight, March 2025",
+    "url": "https://www.npr.org/2025/03/06/g-s1-52507/spacex-starship-test-flight-boca-chica-texas"
    }
   ],
-  "last_reviewed": "2026-10-22"
+  "last_reviewed": "2026-10-23",
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "SpaceX was founded in 2002 by Elon Musk.",
+     "Its first three Falcon 1 launches failed. The fourth, in September 2008, reached orbit. It was the first privately built liquid-fuel rocket to do so.",
+     "Later rockets, Falcon 9 (first launch in 2010) and Dragon, became NASA's partners for flights to the space station."
+    ]
+   },
+   {
+    "h": "The big idea: land the rocket",
+    "points": [
+     "In December 2015 a Falcon 9 first stage landed upright after reaching orbit.",
+     "In April 2016 a booster landed on a ship at sea.",
+     "On 30 March 2017 SpaceX flew an orbital-class booster for the second time."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "NASA contracts for cargo and astronaut flights gave steady income.",
+     "In May 2012 Dragon became the first commercial spacecraft to deliver cargo to the space station and return.",
+     "In 2020 Crew Dragon carried NASA astronauts to the station.",
+     "Starlink began launching in large batches (60 satellites at once) in May 2019 to sell internet from space."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "Three early launch failures nearly ended the company.",
+     "A Falcon 9 exploded during a 2015 cargo mission, and another rocket was destroyed in a test on the pad in 2016.",
+     "Starship test flights have had explosions and lost spacecraft, for example in March 2025."
+    ]
+   },
+   {
+    "h": "What changed because of SpaceX",
+    "points": [
+     "Reusing rockets became a goal for other launch companies too.",
+     "Falcon Heavy's first flight in February 2018 landed two of three boosters.",
+     "More satellites are launched each year, which also raises worries about crowded orbits."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "Test, fail, learn and fix, then test again.",
+     "Attack the biggest cost, not the small ones.",
+     "Build key parts yourself if buying them blocks your speed."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "Starship is designed to carry much more and to be fully reusable. It is still in testing.",
+     "If launch becomes cheaper, more science and internet projects become possible.",
+     "Rules for space traffic and space junk are still developing."
+    ]
+   }
+  ],
+  "think": [
+   "Why did SpaceX focus on landing the first stage?",
+   "How is learning from failure different from hiding failure?"
+  ]
  },
  {
   "id": "netflix",
@@ -239,15 +425,19 @@
   "industry": "Social Media",
   "status": "reviewed",
   "last_reviewed": "2026-10-23",
-  "problem": "People wanted an easy way to stay in touch with friends and family online.",
-  "innovation": "A social network that grew from one campus to the whole world, then added photo, messaging and VR products.",
-  "overview": "Meta Platforms owns Facebook, Instagram, WhatsApp and VR products. Facebook was started in 2004 by Mark Zuckerberg and others.",
-  "model": "Free apps for users. The company earns mainly by showing ads.",
-  "technology": "Social networking software, large-scale data systems, AI recommendations, and virtual and augmented reality.",
+  "problem": "People wanted an easy, always-on way to stay in touch with friends, family and communities.",
+  "innovation": "A social network that spread from one campus to the world, then added photos, messaging and VR through its own products and acquisitions.",
+  "overview": "Meta Platforms owns Facebook, Instagram, WhatsApp, Threads and virtual-reality products. It began in 2004 as a college website and was renamed Meta in 2021.",
+  "model": "Free apps for users. The company earns almost all its money by showing ads (about 98% of revenue in 2023, according to public data).",
+  "technology": "Large-scale software systems, AI that recommends content and ads, and virtual and augmented reality hardware.",
   "milestones": [
    [
     "2004",
-    "Facebook launched"
+    "Facebook launched at Harvard"
+   ],
+   [
+    "2005",
+    "Renamed Facebook"
    ],
    [
     "2012",
@@ -274,7 +464,7 @@
   "lesson": "Buying or building products that people use daily can make a company strong, but trust and privacy must be earned.",
   "lessons": [
    "Network effects: more users make an app more useful",
-   "Ads can fund free products, but people care about their data",
+   "Ads can fund free products, but people care about data",
    "Do not depend on one product"
   ],
   "future": "VR, AR and AI may change how people connect. Whether people will adopt them widely is uncertain.",
@@ -282,7 +472,74 @@
    {
     "title": "Meta official site",
     "url": "https://about.meta.com/"
+   },
+   {
+    "title": "Statista: Meta revenue by segment",
+    "url": "https://statista.com/statistics/267031/facebooks-annual-revenue-by-segment/"
    }
+  ],
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "Mark Zuckerberg started the site in 2004 from a Harvard dorm. It was first called TheFacebook.",
+     "It was renamed Facebook in 2005 and grew far beyond the campus.",
+     "In 2012 it bought Instagram. In 2014 it bought WhatsApp and Oculus (VR).",
+     "In October 2021 the parent company was renamed Meta Platforms to focus on the 'metaverse'."
+    ]
+   },
+   {
+    "h": "The big idea: the network effect",
+    "points": [
+     "The more of your friends use an app, the more useful it is for you.",
+     "Meta kept buying or building apps people use every day.",
+     "Free apps bring huge numbers of users, and ads pay for it."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "Ads are matched to people's interests using data and AI.",
+     "Advertising was about 97.8% of revenue in 2023 and is around 98 to 99% in the Family of Apps segment in 2025, according to public summaries.",
+     "Reality Labs (VR and AR) has a small revenue (about $2.2 billion in 2025 per one summary) and has run at a loss."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "Privacy: in 2016 the company had to pause data sharing between Facebook and WhatsApp in the European Union.",
+     "Regulators in many countries have questioned how it handles data and harmful content.",
+     "Spending on the metaverse has been very high, and the payoff is uncertain."
+    ]
+   },
+   {
+    "h": "What changed because of Meta",
+    "points": [
+     "Social networks changed how people share news, photos and opinions.",
+     "Small businesses can reach customers cheaply with ads on its apps.",
+     "Ideas of online privacy and responsibility are now part of the public debate."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "Products that connect people can grow very fast.",
+     "Free for users can still be a strong business if someone else (advertisers) pays.",
+     "Trust is hard to win back once it is lost."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "AI assistants inside messaging apps.",
+     "Smart glasses and VR may become everyday devices, but it is not guaranteed.",
+     "Stricter rules on data and teen safety are likely in many countries."
+    ]
+   }
+  ],
+  "think": [
+   "Who is the customer: the user, or the advertiser?",
+   "What would you do to earn trust if you ran a social app?"
   ]
  },
  {
@@ -292,15 +549,19 @@
   "industry": "Technology",
   "status": "reviewed",
   "last_reviewed": "2026-10-23",
-  "problem": "The early web was hard to search; finding useful pages was slow and unreliable.",
-  "innovation": "A search engine that ranked pages by how many other pages linked to them (PageRank), later expanded into many products.",
-  "overview": "Google was founded in 1998 by Larry Page and Sergey Brin while they were students at Stanford. It is now part of Alphabet.",
-  "model": "Most revenue comes from advertising shown on search and other products. It also sells cloud services.",
-  "technology": "Search ranking, large data centres, Android, machine learning and cloud computing.",
+  "problem": "In the 1990s the web was growing fast but finding good pages was slow and the results were often poor.",
+  "innovation": "A search method called PageRank that ranked a page higher when many other trusted pages linked to it.",
+  "overview": "Google runs the world's most used search engine and products like Gmail, YouTube, Android and Chrome. It was founded in 1998 and is part of the company Alphabet.",
+  "model": "Most income comes from ads shown with search results and on partner sites. It also sells cloud services and subscriptions.",
+  "technology": "Search ranking, huge data centres, Android, machine learning and cloud computing.",
   "milestones": [
    [
     "1998",
     "Google founded"
+   ],
+   [
+    "2000",
+    "AdWords launched"
    ],
    [
     "2004",
@@ -312,15 +573,23 @@
    ],
    [
     "2008",
-    "First Android phone released"
+    "Chrome and first Android phone"
    ],
    [
     "2015",
-    "Alphabet created as a parent company"
+    "Alphabet created"
    ],
    [
     "2017",
-    "Google researchers published the Transformer paper, behind many modern AI models"
+    "Transformer paper published by Google researchers"
+   ],
+   [
+    "2024",
+    "US court rules Google illegally holds a search monopoly"
+   ],
+   [
+    "2025",
+    "Court orders data sharing; no forced sale of Chrome"
    ]
   ],
   "advantages": [
@@ -335,14 +604,85 @@
   "lessons": [
    "Better ranking beat bigger lists",
    "Free tools can build large audiences",
-   "Research can spark whole industries"
+   "Research can start whole industries"
   ],
   "future": "AI may change how people search and find answers. How this will play out is uncertain.",
   "references": [
    {
     "title": "Google about page",
     "url": "https://about.google/"
+   },
+   {
+    "title": "Axios: Google's 20-year path",
+    "url": "https://www.axios.com/2020/10/21/googles-20-year-path-from-david-to-goliath"
+   },
+   {
+    "title": "NPR/WAMC: Judge lets Google keep Chrome (Sept 2025)",
+    "url": "https://www.wamc.org/2025-09-02/in-a-major-antitrust-ruling-a-judge-lets-google-keep-chrome-but-levies-other-penalties"
    }
+  ],
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "Larry Page and Sergey Brin, students at Stanford, founded Google in 1998.",
+     "Their ranking idea gave clearly better results than other search sites.",
+     "The company added Gmail (2004), bought YouTube (2006), and released Chrome and Android (2008).",
+     "In 2015 Alphabet was created as a parent company for Google and other bets."
+    ]
+   },
+   {
+    "h": "The big idea: useful and simple",
+    "points": [
+     "A very plain search page that loaded fast.",
+     "Ads were relevant to what you searched. AdWords launched in 2000.",
+     "More users made the ad business stronger."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "Ads on search and other products are the main income.",
+     "Android spread Google services to billions of phones.",
+     "Cloud and YouTube subscriptions add other income."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "In August 2024 a US judge ruled that Google illegally keeps a monopoly in search.",
+     "On 2 September 2025 the judge did not order a sale of Chrome or Android, but ordered Google to share some search data with rivals and to stop exclusive default deals.",
+     "Google said it would appeal, so the story is not over."
+    ]
+   },
+   {
+    "h": "What changed because of Google",
+    "points": [
+     "People expect any answer in seconds.",
+     "Research from Google, such as the 2017 Transformer paper, helped start today's AI language models.",
+     "Online advertising became a large business."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "Do one thing exceptionally well first.",
+     "Better quality can beat bigger budgets.",
+     "Success also attracts rules and scrutiny."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "AI answers may change how people search.",
+     "Rules about default settings and data sharing may reshape competition.",
+     "Both are still developing."
+    ]
+   }
+  ],
+  "think": [
+   "Why did a simple search page beat busier rivals?",
+   "How could AI change the way ads work?"
   ]
  },
  {
@@ -352,31 +692,35 @@
   "industry": "AI",
   "status": "reviewed",
   "last_reviewed": "2026-10-23",
-  "problem": "Powerful AI research was mostly used by experts and hard for ordinary people to try.",
-  "innovation": "A simple chat tool, ChatGPT, that let anyone talk to a large language model in plain language.",
-  "overview": "OpenAI is an AI research and product company. It was founded in December 2015.",
-  "model": "Offers free and paid plans for its AI tools, and sells access to developers and companies.",
-  "technology": "Large language models trained on very large amounts of text, and large-scale computing.",
+  "problem": "Strong AI research stayed mostly with experts. Ordinary people had no easy way to try it.",
+  "innovation": "A simple chat window (ChatGPT) that lets anyone talk to a large language model in plain language.",
+  "overview": "OpenAI is an AI research and product company, best known for ChatGPT. It was founded in December 2015.",
+  "model": "Free and paid plans for users, plus paid access for developers and companies.",
+  "technology": "Large language models trained on very large amounts of text, and very large computing power.",
   "milestones": [
    [
     "2015",
-    "OpenAI founded"
+    "OpenAI founded as a non-profit"
    ],
    [
     "2019",
-    "Created a capped-profit company alongside its non-profit"
+    "Capped-profit company created; Microsoft invests"
    ],
    [
     "2020",
-    "GPT-3 released to developers"
+    "GPT-3 announced"
    ],
    [
     "2022",
-    "ChatGPT released to the public"
+    "ChatGPT released"
    ],
    [
     "2023",
-    "GPT-4 released"
+    "GPT-4 released; CEO briefly removed and returned"
+   ],
+   [
+    "2025",
+    "Restructured into OpenAI Group PBC under the OpenAI Foundation"
    ]
   ],
   "advantages": [
@@ -399,7 +743,78 @@
    {
     "title": "OpenAI official site",
     "url": "https://openai.com/"
+   },
+   {
+    "title": "Fortune: OpenAI for-profit restructuring",
+    "url": "https://www.fortune.com/2025/10/28/openai-for-profit-restructuring-microsoft-stake"
+   },
+   {
+    "title": "AP via Washington Times: OpenAI new structure",
+    "url": "https://www.washingtontimes.com/news/2025/oct/28/openai-says-new-profit-business-structure-adjusts-partnership/"
    }
+  ],
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "OpenAI began in 2015 as a non-profit research lab.",
+     "In 2019 it added a 'capped-profit' company to raise money for expensive computing, and Microsoft invested.",
+     "GPT-3 (June 2020) showed what big language models could do.",
+     "ChatGPT, released in late 2022, reached over a million sign-ups within five days, according to OpenAI."
+    ]
+   },
+   {
+    "h": "The big idea: make it easy to try",
+    "points": [
+     "The technology already existed. The chat interface made it usable for everyone.",
+     "People used it to write, learn, code and brainstorm.",
+     "This brought AI into daily conversation worldwide."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "Subscriptions for individuals and teams.",
+     "Selling access to its models for developers and companies.",
+     "Microsoft became a large partner and investor (reported $10 billion in 2023) and put OpenAI-based tools into its products."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "November 2023: the board briefly removed CEO Sam Altman, then he returned within days.",
+     "Running AI costs a lot of computing money.",
+     "Writers and publishers have sued over how AI is trained, and safety debates continue."
+    ]
+   },
+   {
+    "h": "What changed because of OpenAI",
+    "points": [
+     "Many companies launched their own AI assistants.",
+     "Schools and workplaces are still deciding how to use AI.",
+     "On 28 October 2025 it completed a restructuring: the for-profit became OpenAI Group PBC, controlled by the non-profit OpenAI Foundation. Microsoft holds about 27%, according to reports."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "A simple product can unlock a hard technology.",
+     "Big technology needs big money, and that shapes how a company is organised.",
+     "Early users teach you what the product is really for."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "AI assistants might handle more tasks for people.",
+     "Questions about copyright, jobs, safety and rules are still open.",
+     "No one can say for sure how far the technology will go."
+    ]
+   }
+  ],
+  "think": [
+   "Why did a chat window matter more than a better model?",
+   "What would you never want an AI to do for you?"
   ]
  },
  {
@@ -409,23 +824,23 @@
   "industry": "Telecom",
   "status": "reviewed",
   "last_reviewed": "2026-10-23",
-  "problem": "Mobile data in India was costly and slow for many people.",
-  "innovation": "A 4G-only network with very low data prices and free voice calls, launched at scale.",
-  "overview": "Reliance Jio is an Indian telecom company, part of Reliance Industries. It launched its commercial services in September 2016.",
-  "model": "Sells mobile data and phone plans, plus digital services built on top of the network.",
-  "technology": "A network built on 4G and voice over LTE, with a large investment in towers and fibre.",
+  "problem": "Mobile data in India was costly and slow. Many people could not afford to use the internet much.",
+  "innovation": "A new network built for 4G data from day one, with free voice calls and very low data prices.",
+  "overview": "Reliance Jio is an Indian telecom company, part of Reliance Industries. It launched commercially on 5 September 2016.",
+  "model": "Sells data and phone plans, and builds digital services (apps, devices, fibre) on top of its network.",
+  "technology": "A 4G network using voice over LTE, towers and fibre across the country.",
   "milestones": [
    [
     "2016",
-    "Commercial launch with a free introductory offer"
+    "Commercial launch on 5 September"
    ],
    [
     "2017",
-    "JioPhone announced for people moving from basic phones"
+    "JioPhone announced; free offer ends in March"
    ],
    [
     "2020",
-    "Jio Platforms attracted outside investors, including Facebook and Google"
+    "Facebook and Google invest in Jio Platforms"
    ]
   ],
   "advantages": [
@@ -447,7 +862,81 @@
    {
     "title": "Jio official site",
     "url": "https://www.jio.com/"
+   },
+   {
+    "title": "TeleGeography: The Jio Effect",
+    "url": "https://blog.telegeography.com/the-jio-effect-how-the-newcomer-made-an-impact-in-india"
+   },
+   {
+    "title": "TechRadar: Google to invest in Jio Platforms",
+    "url": "https://www.techradar.com/news/google-to-invest-dollar45-billion-in-jio-platforms"
+   },
+   {
+    "title": "Scroll.in: Jio's cheap data and its cost",
+    "url": "https://scroll.in/article/1004969/reliance-jios-cheap-data-has-helped-crores-of-indians-enter-the-internet-age-but-at-what-cost"
    }
+  ],
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "Jio launched on 5 September 2016 with free services at first, later extended to March 2017.",
+     "It reached 100 million customers in about six months, according to reports.",
+     "In 2017 it announced the JioPhone for people moving up from basic phones."
+    ]
+   },
+   {
+    "h": "The big idea: price as innovation",
+    "points": [
+     "Data was the main product, not voice.",
+     "In 2015 one GB cost about 225 rupees. By March 2017 one analysis put the average price across operators at about $0.33 per GB.",
+     "Rivals Airtel, Vodafone and Idea had to cut data prices."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "Free offers brought millions of first-time users.",
+     "Monthly data use in India rose from about 200 million GB (June 2016) to 1.3 billion GB (March 2017), according to TeleGeography.",
+     "In 2020 Jio Platforms raised money from big investors: Facebook took about 9.99% and Google agreed to invest Rs 33,737 crore for 7.7%."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "Building a country-wide network takes very large investment.",
+     "Industry income per user fell by about one third (from about Rs 120 to Rs 82.7 a month by March 2017), and weaker rivals struggled or merged.",
+     "Critics asked whether very low prices hurt competition in the long run."
+    ]
+   },
+   {
+    "h": "What changed because of Jio",
+    "points": [
+     "Many more people in India use the internet on phones.",
+     "Video, payments and apps grew on top of cheaper data.",
+     "Operators had to rethink their prices and networks."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "Lower the price enough and a whole new group of customers appears.",
+     "Build on the newest technology instead of patching the old one.",
+     "A big move needs deep pockets and patience."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "5G and home broadband may bring faster services.",
+     "How profits and competition develop in telecom is still open.",
+     "Affordable data is useful only if people also have affordable devices and skills."
+    ]
+   }
+  ],
+  "think": [
+   "Who gained and who lost when data prices fell?",
+   "Is a free offer a gift or a strategy?"
   ]
  },
  {
@@ -457,11 +946,11 @@
   "industry": "Messaging",
   "status": "reviewed",
   "last_reviewed": "2026-10-23",
-  "problem": "Texting by SMS was costly and different between countries.",
-  "innovation": "A simple app that sends messages over the internet, on any phone, with no ads.",
-  "overview": "WhatsApp was founded in 2009 by Jan Koum and Brian Acton. Facebook (now Meta) announced it was buying WhatsApp in 2014.",
-  "model": "Early on, a small yearly fee in some countries. Today the app is free and the company is exploring business tools.",
-  "technology": "Messaging over the internet and end-to-end encryption.",
+  "problem": "Texting by SMS cost money and worked differently across countries.",
+  "innovation": "A simple app that sends messages over the internet on almost any phone, without ads.",
+  "overview": "WhatsApp is a messaging app used by more than 2 billion people, according to Meta. It was founded in 2009 and is owned by Meta.",
+  "model": "Early on, a small yearly fee in some countries. Today the app is free and the company grows business tools such as the WhatsApp Business app.",
+  "technology": "Internet messaging and end-to-end encryption (messages are readable only by sender and receiver).",
   "milestones": [
    [
     "2009",
@@ -469,15 +958,15 @@
    ],
    [
     "2014",
-    "Acquisition by Facebook announced"
+    "Facebook announces the acquisition"
    ],
    [
     "2016",
-    "End-to-end encryption rolled out to all chats"
+    "End-to-end encryption for all chats"
    ],
    [
     "2018",
-    "WhatsApp Business app launched"
+    "Forward limits in India; WhatsApp Business app launched"
    ]
   ],
   "advantages": [
@@ -499,7 +988,77 @@
    {
     "title": "WhatsApp official site",
     "url": "https://www.whatsapp.com/"
+   },
+   {
+    "title": "Britannica: WhatsApp",
+    "url": "https://www.britannica.com/topic/WhatsApp"
+   },
+   {
+    "title": "Al Jazeera: WhatsApp limits forwarding in India (2018)",
+    "url": "https://www.aljazeera.com/amp/news/2018/7/20/whatsapp-curbs-india-services-after-spate-of-lynchings"
    }
+  ],
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "Two former Yahoo engineers, Jan Koum and Brian Acton, built WhatsApp in 2009.",
+     "Facebook announced it was buying WhatsApp in early 2014 for about $19 billion, according to reports.",
+     "Koum left in 2018 and Acton in 2017, reportedly over differences with Facebook."
+    ]
+   },
+   {
+    "h": "The big idea: do one thing well",
+    "points": [
+     "Fast, simple messaging that worked on many phones, even with slow internet.",
+     "No games and no ads in the early years.",
+     "The focus on simplicity helped it spread by word of mouth."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "A small fee in some countries in the early years.",
+     "After the sale, Meta focused on business messaging: the WhatsApp Business app launched in 2018.",
+     "Businesses use it to talk to customers."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "In 2016 the company introduced end-to-end encryption for all chats.",
+     "In July 2018, after mob killings in India linked to rumours spread on the app, WhatsApp limited forwarding to five chats at a time in India.",
+     "Privacy-policy changes have caused debates."
+    ]
+   },
+   {
+    "h": "What changed because of WhatsApp",
+    "points": [
+     "Groups of family, friends and neighbours stay in touch free across the world.",
+     "Small shops use it to take orders.",
+     "It also shows how fast false news can spread."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "A simple tool that solves one daily problem can reach billions.",
+     "Privacy can be a feature, not just a rule.",
+     "Big reach brings responsibility."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "Messaging apps could become places for shopping, payments and support.",
+     "How to limit false news without breaking privacy is still debated.",
+     "Rules on data and encryption may change."
+    ]
+   }
+  ],
+  "think": [
+   "How can an app slow false news and keep chats private?",
+   "What small service in your area could use WhatsApp?"
   ]
  }
 ]
