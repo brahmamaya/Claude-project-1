@@ -34,7 +34,7 @@ const A = { // original line illustrations, one per topic (no third-party images
 };
 const ALIAS = { AI: "artificial-intelligence", "Artificial Intelligence": "artificial-intelligence", Robotics: "robotics", Space: "space", Energy: "energy", Semiconductors: "semiconductors", Tech: "semiconductors", Business: "business", Creative: "creative", Biotechnology: "biotechnology", Cybersecurity: "cybersecurity" };
 const art = (k) => { const body = A[k] || A[ALIAS[k]]; return body ? `<svg viewBox="0 0 320 180" role="img" aria-label="Illustration"><rect width="320" height="180" fill="#0b0b0b"/><g fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>` : orbit; };
-const visual = (n) => n.image && safe(n.image) ? `<img src="${esc(safe(n.image))}" alt="" loading="lazy" decoding="async">` : art(n.category);
+const visual = (n) => n.image && safe(n.image) ? `<img src="${esc(safe(n.image))}" alt="" loading="lazy" decoding="async" data-c="${esc(n.category)}">` : art(n.category);
 
 const newsCard = (n) => `<a class="card" href="#/news/${esc(n.id)}"><div class="thumb">${visual(n)}</div><div><div class="t">${esc(T(n.title))}</div><div class="mute">${esc(n.category_label)}${n.kind === "research" ? " · Research" : ""} · ${ago(n.published)}</div></div></a>`;
 const skillRow = (s) => `<a class="link" href="#/skills/${esc(s.id)}"><div><div class="t">${esc(s.title)}</div><div class="mute">${esc(s.summary)}</div></div>${ic("chev")}</a>`;
@@ -70,10 +70,11 @@ ${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual
     const src = safe(n.url);
     return `${bar(id, saveBtn("news:" + id) + shareBtn(n.title))}<h1>${esc(T(n.title))}</h1>
 <p class="mute"><span class="tag">${esc(n.category_label)}</span>${esc(n.publisher)} · ${new Date(n.published).toLocaleDateString()}${n.via ? " · via " + esc(n.via) : ""}</p>
-<div class="hero-img">${visual(n)}</div>${n.image_credit ? `<p class="mute">Image: ${esc(n.image_credit)}</p>` : ""}${n.sample ? `<p class="notice">Sample content. Not a real story.</p>` : ""}
-<h2>What happened</h2><p>${esc(n.summary)}</p>
-<div class="box"><h2>Key facts</h2><ul class="plain">${(n.key_facts || []).map((k) => `<li>${esc(k)}</li>`).join("")}</ul></div>
-${n.context ? `<div class="box"><h2>Why it could matter</h2><p>${esc(n.context)}</p><p class="mute">${esc(n.context_label || "")}</p></div>` : ""}
+<div class="hero-img">${visual(n)}</div>${n.image_credit ? `<p class="mute">${esc(n.image_credit)}</p>` : ""}${n.sample ? `<p class="notice">Sample content. Not a real story.</p>` : ""}
+<h2>In short</h2>${pts(n.summary)}
+${n.context ? `<div class="box"><h2>Why it matters</h2><p>${esc(n.context)}</p><p class="mute">${esc(n.context_label || "")}</p></div>` : ""}
+${await impact(n)}
+<div class="box"><h2>Key takeaways</h2><ul class="plain">${(n.key_facts || []).map((k) => `<li>${esc(k)}</li>`).join("")}</ul></div>
 ${await words(n)}${sk.length ? `<h2>Related skills</h2>${sk.map(skillRow).join("")}` : ""}
 ${src ? `<a class="btn" href="${esc(src)}" target="_blank" rel="noopener noreferrer">Read Original Source ${ic("ext")}</a>` : ""}
 ${rel.length ? `<div class="row"><h2>Related stories</h2></div>${rel.map(newsCard).join("")}` : ""}`;
@@ -166,6 +167,12 @@ async function words(n) {
   let hit = L.terms.filter((t) => text.includes(t[0].toLowerCase())); if (!hit.length) hit = L.terms.slice(0, 2);
   return `<div class="box"><h2>Words to know</h2>${hit.slice(0, 3).map((t) => `<p style="margin:6px 0"><b>${esc(t[0])}</b>: ${esc(t[1])}</p>`).join("")}</div><div class="box"><h2>Try this</h2><p>${esc(L.challenge)}</p></div>`;
 }
+const pts = (t) => { const a = String(t || "").split(/(?<=[.!?])\s+/).filter((x) => x.length > 3).slice(0, 3); return a.length ? `<ul class="plain">${a.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""; };
+async function impact(n) {
+  const L = (await load("learn"))[n.category]; if (!L || !L.change) return "";
+  const ul = (a) => `<ul class="plain">${a.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
+  return `<div class="box"><h2>What could change</h2>${ul(L.change)}</div><div class="box"><h2>Opportunities</h2>${ul(L.opportunity)}</div><div class="box"><h2>Risks and losses</h2>${ul(L.risk)}</div><p class="mute">These points are general background for ${esc(n.category_label)}. They are not claims made by this story. Future effects are uncertain.</p>`;
+}
 const notFound = () => `${bar("")}<div class="empty"><h1>Not found</h1><p>This page does not exist.</p><a class="btn" href="#/">Go home</a></div>`;
 const hashParts = () => { const [p, q = ""] = (location.hash.slice(1) || "/").split("?"); return [p.split("/").filter(Boolean), new URLSearchParams(q)]; };
 const qs = () => hashParts()[1];
@@ -205,4 +212,5 @@ document.addEventListener("submit", (e) => {
 });
 $("#tabs").innerHTML = `<div class="tabs-in">${TABS.map(([k, l, h]) => `<a href="${h}" data-t="${k}">${ic(k)}<span>${l}</span></a>`).join("")}</div>`;
 $("#hsearch").innerHTML = ic("search");
+document.addEventListener("error", (e) => { const i = e.target; if (i.tagName === "IMG" && i.dataset.c !== undefined && i.parentElement) i.parentElement.innerHTML = art(i.dataset.c); }, true); // broken photo -> drawing
 addEventListener("hashchange", route); route();

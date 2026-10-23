@@ -25,7 +25,22 @@
   "facts": [
    "The term 'artificial intelligence' was introduced for a 1956 summer workshop at Dartmouth College."
   ],
-  "challenge": "Ask an AI tool the same question in two different ways. Which answer was clearer, and why?"
+  "challenge": "Ask an AI tool the same question in two different ways. Which answer was clearer, and why?",
+  "change": [
+   "Writing, coding and design tools may get faster",
+   "Routine office tasks may be automated",
+   "Knowing how to use AI tools may become a common work skill"
+  ],
+  "opportunity": [
+   "Do some tasks faster and with less cost",
+   "New products and startups built on AI",
+   "Roles that combine AI skills with your own field"
+  ],
+  "risk": [
+   "Some tasks may be automated, changing jobs",
+   "AI can give wrong answers with confidence",
+   "Rules on data, bias and privacy are still developing"
+  ]
  },
  "robotics": {
   "terms": [
@@ -49,7 +64,21 @@
   "facts": [
    "The word 'robot' comes from a 1920 play by Karel Čapek. It comes from a Czech word for forced labour."
   ],
-  "challenge": "Find 3 machines at home that sense something and then react. What do they sense?"
+  "challenge": "Find 3 machines at home that sense something and then react. What do they sense?",
+  "change": [
+   "Robots may move from factories into warehouses, farms and homes",
+   "Machines may take over dull or dangerous tasks"
+  ],
+  "opportunity": [
+   "Demand for people who build, program and maintain robots",
+   "Safer work in risky jobs",
+   "Help for elderly care and logistics"
+  ],
+  "risk": [
+   "Some repetitive jobs may shrink",
+   "Robots are costly and still limited in messy real places",
+   "Safety and responsibility rules are still being set"
+  ]
  },
  "space": {
   "terms": [
@@ -73,7 +102,21 @@
   "facts": [
    "Sputnik 1, launched in 1957, was the first human-made satellite."
   ],
-  "challenge": "Find out how many people are in space right now, using a trusted space agency website."
+  "challenge": "Find out how many people are in space right now, using a trusted space agency website.",
+  "change": [
+   "Launching things to orbit may get cheaper",
+   "More satellites may mean better internet, maps and weather data"
+  ],
+  "opportunity": [
+   "New jobs in satellites, data and engineering",
+   "Services built on space data, like farming or disaster alerts",
+   "Science discoveries that spark new technology"
+  ],
+  "risk": [
+   "Space projects are expensive and can fail",
+   "More satellites means more space junk",
+   "Rules and ownership in space are not settled"
+  ]
  },
  "energy": {
   "terms": [
@@ -97,7 +140,21 @@
   "facts": [
    "Edmond Becquerel observed the effect behind solar cells in 1839."
   ],
-  "challenge": "Look at an electricity bill and find how many units (kWh) your home used last month."
+  "challenge": "Look at an electricity bill and find how many units (kWh) your home used last month.",
+  "change": [
+   "Cheaper and better batteries may change cars and power grids",
+   "More power may come from sun and wind"
+  ],
+  "opportunity": [
+   "Jobs in clean energy, grid and battery work",
+   "Lower energy bills over time if costs fall",
+   "New business in storage and charging"
+  ],
+  "risk": [
+   "Old energy jobs may change",
+   "Some new technology may not scale or stay costly",
+   "Mining and materials can harm the environment"
+  ]
  },
  "biotechnology": {
   "terms": [
@@ -121,7 +178,21 @@
   "facts": [
    "The Human Genome Project finished its work in 2003."
   ],
-  "challenge": "Find one medicine or food that is made using biotechnology."
+  "challenge": "Find one medicine or food that is made using biotechnology.",
+  "change": [
+   "Medicines may be designed faster",
+   "Gene tools may treat some diseases that are hard to treat today"
+  ],
+  "opportunity": [
+   "Careers in biology, data and medicine",
+   "New treatments and better diagnosis",
+   "Biotech startups and research roles"
+  ],
+  "risk": [
+   "Treatments can be very costly at first",
+   "Ethics questions about editing genes",
+   "Safety testing takes years"
+  ]
  },
  "semiconductors": {
   "terms": [
@@ -145,7 +216,21 @@
   "facts": [
    "The first transistor was demonstrated at Bell Labs in 1947."
   ],
-  "challenge": "Count how many devices around you contain a chip."
+  "challenge": "Count how many devices around you contain a chip.",
+  "change": [
+   "Chips are becoming more important to every industry",
+   "Countries and companies are investing in making chips"
+  ],
+  "opportunity": [
+   "Jobs in chip design and manufacturing",
+   "Faster, cheaper devices",
+   "New products that need special chips"
+  ],
+  "risk": [
+   "Supply can be disrupted by shortages or politics",
+   "Building chip factories is very costly",
+   "Few companies control key steps"
+  ]
  },
  "quantum-computing": {
   "terms": [
@@ -169,7 +254,21 @@
   "facts": [
    "Quantum computers are not just faster normal computers. They are expected to help only with certain kinds of problems."
   ],
-  "challenge": "In your own words, explain why a spinning coin is a rough (not exact) picture of superposition."
+  "challenge": "In your own words, explain why a spinning coin is a rough (not exact) picture of superposition.",
+  "change": [
+   "Quantum computers may help with some chemistry, materials and optimisation problems",
+   "Today's lock-and-key security may need to be upgraded"
+  ],
+  "opportunity": [
+   "Early skills in quantum software and physics",
+   "New research and startup fields",
+   "Better materials and medicines in the long run"
+  ],
+  "risk": [
+   "The technology is still early and may take many years",
+   "Hype can exceed real results",
+   "Future machines may break some current encryption"
+  ]
  },
  "cybersecurity": {
   "terms": [
@@ -193,7 +292,21 @@
   "facts": [
    "The Morris worm, in 1988, was one of the first computer worms to spread widely on the internet."
   ],
-  "challenge": "Turn on two-factor login for one important account today."
+  "challenge": "Turn on two-factor login for one important account today.",
+  "change": [
+   "Attacks and defences are both using automation",
+   "Organisations are asked to protect data more strictly"
+  ],
+  "opportunity": [
+   "Strong demand for security skills",
+   "Safer systems earn customer trust",
+   "Opportunities in training and tools"
+  ],
+  "risk": [
+   "Data theft and fraud can cost money and trust",
+   "One weak password or fake message can cause damage",
+   "Defences must keep up with new tricks"
+  ]
  },
  "advanced-manufacturing": {
   "terms": [
@@ -217,6 +330,20 @@
   "facts": [
    "Chuck Hull patented stereolithography, an early 3D printing method, in 1986."
   ],
-  "challenge": "Pick an everyday object and guess how many steps it takes to make it."
+  "challenge": "Pick an everyday object and guess how many steps it takes to make it.",
+  "change": [
+   "Products may be made closer to customers",
+   "Small batches and custom items may become cheaper"
+  ],
+  "opportunity": [
+   "Jobs in automation, design and repair",
+   "Faster testing of new product ideas",
+   "Small makers can compete with large firms"
+  ],
+  "risk": [
+   "Some factory jobs may change",
+   "Machines and training cost money",
+   "Quality and safety checks are still needed"
+  ]
  }
 }
