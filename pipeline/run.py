@@ -66,9 +66,11 @@ def main():
         news = merged
     try:
         pool = images.build_pool(load(ROOT / "config/images.json", {}).get("queries", {}))
+        if not any(pool.values()):
+            raise RuntimeError("empty photo pool")  # keep current photos if Commons is down
         filled = images.fill(news, pool)
         print(f"commons: pool {sum(len(v) for v in pool.values())}, photos added {filled}")
-        if filled:
+        if True:
             atomic_write(DATA / "news.json", json.dumps(news, ensure_ascii=False, indent=1))
     except Exception as e:
         print(f"commons: FAILED {type(e).__name__}", file=sys.stderr)
