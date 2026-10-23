@@ -1,5 +1,314 @@
 [
  {
+  "id": "e0826a3e6a",
+  "title": "El Niño Then and Now",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-23T04:00:00+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-23",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "d5dfa91ede",
+  "title": "Fault-Tolerant Logical Operations and Efficient State Preparation in Modular Quantum Architectures with Noisy Interfaces",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2607.27204",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Modular quantum computing is a leading paradigm for scaling quantum computation beyond the resource limitations of monolithic devices. In this architecture, multiple quantum processing units (QPUs), employing identical or distinct qubit modalities, are interconnected via shared entanglement.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "98fc2abbb2",
+  "title": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30158",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Artificial intelligence (AI), as a decision-support aid, provides new tools for studying history effectively using multimodal data, including text, images, and audio. We present, to our knowledge, the first digital assistant named Lighthouse--commonly called a chatbot--for exploring the Civil Rights period of the Unite",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "848ad8c0b1",
+  "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2606.06473",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capability. However, existing MLE agents suffer from isolated exploration, inefficient experience reuse, and lack of hierarch",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "494a8bceae",
+  "title": "Continuous-Time Motion Planning and Steering with Global Convergence",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.30607",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Motion planning is central to robotics, and it is increasingly used to correct the motions proposed by learned planners and policies. In both uses, constraints must hold at every instant of the motion, not only at sampled times.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "815067badb",
+  "title": "Multi-FPGA Synchronization and Data Communication for Quantum Control and Measurement",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2506.09856",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum computing has grown from novel physics experiments with a few qubits controlled by a single controller to systems with qubit counts that require multiple controllers working in concert. While a few expensive multi-board commercial solutions exist, most open-source solutions are limited to single-board radio fre",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "3971efe7f3",
+  "title": "Meta-learning of Gibbs states for many-body Hamiltonians with applications to Quantum Boltzmann Machines",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-23T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2507.16373",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "The preparation of quantum Gibbs states is a fundamental challenge in quantum computing, essential for applications ranging from modeling open quantum systems to quantum machine learning. Building on the Meta-Variational Quantum Eigensolver framework proposed by Cervera-Lierta et al.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-23",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "fcb69f1e52",
+  "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-22T21:39:58+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-22",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "ad67f76de1",
+  "title": "Spiral’s Edge",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-22T21:35:38+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/image-article/spirals-edge/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-22",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 10.0,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
+  "id": "4dcdb95578",
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-22T17:44:06+00:00",
+  "publisher": "github.com",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by github.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: github.com",
+   "Published: 2026-10-22",
+   "Topic: Robotics",
+   "Found via Hacker News (community score 384)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": null,
+  "image_credit": null,
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.84,
+  "added": "2026-10-23T08:31:29.828713+00:00",
+  "sample": false
+ },
+ {
   "id": "864a753b84",
   "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
   "category": "space",
