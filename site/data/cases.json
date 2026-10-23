@@ -22,6 +22,10 @@
    [
     "2012",
     "Model S launched"
+   ],
+   [
+    "2017",
+    "Model 3 deliveries began"
    ]
   ],
   "advantages": [
@@ -112,6 +116,14 @@
    [
     "2015",
     "First Falcon 9 booster landing"
+   ],
+   [
+    "2012",
+    "Dragon docked with the International Space Station"
+   ],
+   [
+    "2020",
+    "Crewed Dragon flight carried NASA astronauts to the ISS"
    ]
   ],
   "advantages": [
@@ -217,6 +229,276 @@
    {
     "title": "AWS official site",
     "url": "https://aws.amazon.com/"
+   }
+  ]
+ },
+ {
+  "id": "meta",
+  "company": "Meta",
+  "title": "From a college website to a family of apps",
+  "industry": "Social Media",
+  "status": "reviewed",
+  "last_reviewed": "2026-10-23",
+  "problem": "People wanted an easy way to stay in touch with friends and family online.",
+  "innovation": "A social network that grew from one campus to the whole world, then added photo, messaging and VR products.",
+  "overview": "Meta Platforms owns Facebook, Instagram, WhatsApp and VR products. Facebook was started in 2004 by Mark Zuckerberg and others.",
+  "model": "Free apps for users. The company earns mainly by showing ads.",
+  "technology": "Social networking software, large-scale data systems, AI recommendations, and virtual and augmented reality.",
+  "milestones": [
+   [
+    "2004",
+    "Facebook launched"
+   ],
+   [
+    "2012",
+    "Instagram acquired"
+   ],
+   [
+    "2014",
+    "WhatsApp and Oculus acquired"
+   ],
+   [
+    "2021",
+    "Company renamed Meta Platforms"
+   ]
+  ],
+  "advantages": [
+   "Very large user base across several apps",
+   "Strong ad-targeting and AI systems"
+  ],
+  "challenges": [
+   "Concerns about privacy and harmful content",
+   "Regulators in many countries are watching it closely",
+   "Its VR and metaverse bets are long-term and uncertain"
+  ],
+  "lesson": "Buying or building products that people use daily can make a company strong, but trust and privacy must be earned.",
+  "lessons": [
+   "Network effects: more users make an app more useful",
+   "Ads can fund free products, but people care about their data",
+   "Do not depend on one product"
+  ],
+  "future": "VR, AR and AI may change how people connect. Whether people will adopt them widely is uncertain.",
+  "references": [
+   {
+    "title": "Meta official site",
+    "url": "https://about.meta.com/"
+   }
+  ]
+ },
+ {
+  "id": "google",
+  "company": "Google",
+  "title": "Organising the world's information",
+  "industry": "Technology",
+  "status": "reviewed",
+  "last_reviewed": "2026-10-23",
+  "problem": "The early web was hard to search; finding useful pages was slow and unreliable.",
+  "innovation": "A search engine that ranked pages by how many other pages linked to them (PageRank), later expanded into many products.",
+  "overview": "Google was founded in 1998 by Larry Page and Sergey Brin while they were students at Stanford. It is now part of Alphabet.",
+  "model": "Most revenue comes from advertising shown on search and other products. It also sells cloud services.",
+  "technology": "Search ranking, large data centres, Android, machine learning and cloud computing.",
+  "milestones": [
+   [
+    "1998",
+    "Google founded"
+   ],
+   [
+    "2004",
+    "Gmail launched"
+   ],
+   [
+    "2006",
+    "YouTube acquired"
+   ],
+   [
+    "2008",
+    "First Android phone released"
+   ],
+   [
+    "2015",
+    "Alphabet created as a parent company"
+   ],
+   [
+    "2017",
+    "Google researchers published the Transformer paper, behind many modern AI models"
+   ]
+  ],
+  "advantages": [
+   "Huge amounts of data and computing power",
+   "Products used by billions of people"
+  ],
+  "challenges": [
+   "Antitrust and regulatory cases in several countries",
+   "New AI products compete with search"
+  ],
+  "lesson": "Solve one clear problem very well, then use that trust to build many products.",
+  "lessons": [
+   "Better ranking beat bigger lists",
+   "Free tools can build large audiences",
+   "Research can spark whole industries"
+  ],
+  "future": "AI may change how people search and find answers. How this will play out is uncertain.",
+  "references": [
+   {
+    "title": "Google about page",
+    "url": "https://about.google/"
+   }
+  ]
+ },
+ {
+  "id": "openai",
+  "company": "OpenAI",
+  "title": "Bringing AI chat to everyone",
+  "industry": "AI",
+  "status": "reviewed",
+  "last_reviewed": "2026-10-23",
+  "problem": "Powerful AI research was mostly used by experts and hard for ordinary people to try.",
+  "innovation": "A simple chat tool, ChatGPT, that let anyone talk to a large language model in plain language.",
+  "overview": "OpenAI is an AI research and product company. It was founded in December 2015.",
+  "model": "Offers free and paid plans for its AI tools, and sells access to developers and companies.",
+  "technology": "Large language models trained on very large amounts of text, and large-scale computing.",
+  "milestones": [
+   [
+    "2015",
+    "OpenAI founded"
+   ],
+   [
+    "2019",
+    "Created a capped-profit company alongside its non-profit"
+   ],
+   [
+    "2020",
+    "GPT-3 released to developers"
+   ],
+   [
+    "2022",
+    "ChatGPT released to the public"
+   ],
+   [
+    "2023",
+    "GPT-4 released"
+   ]
+  ],
+  "advantages": [
+   "Early lead in popular AI chat products",
+   "Close ties to large computing partners"
+  ],
+  "challenges": [
+   "Training and running AI costs a lot",
+   "Competition from other AI labs",
+   "Debates over safety, copyright and how the company is governed"
+  ],
+  "lesson": "A simple interface can bring a hard technology to millions of people.",
+  "lessons": [
+   "Make the product easy to try",
+   "Research and product need each other",
+   "New technology brings new rules and debates"
+  ],
+  "future": "AI assistants may become part of many jobs and tools. Their limits and rules are still being worked out.",
+  "references": [
+   {
+    "title": "OpenAI official site",
+    "url": "https://openai.com/"
+   }
+  ]
+ },
+ {
+  "id": "jio",
+  "company": "Reliance Jio",
+  "title": "Making mobile internet cheap in India",
+  "industry": "Telecom",
+  "status": "reviewed",
+  "last_reviewed": "2026-10-23",
+  "problem": "Mobile data in India was costly and slow for many people.",
+  "innovation": "A 4G-only network with very low data prices and free voice calls, launched at scale.",
+  "overview": "Reliance Jio is an Indian telecom company, part of Reliance Industries. It launched its commercial services in September 2016.",
+  "model": "Sells mobile data and phone plans, plus digital services built on top of the network.",
+  "technology": "A network built on 4G and voice over LTE, with a large investment in towers and fibre.",
+  "milestones": [
+   [
+    "2016",
+    "Commercial launch with a free introductory offer"
+   ],
+   [
+    "2017",
+    "JioPhone announced for people moving from basic phones"
+   ],
+   [
+    "2020",
+    "Jio Platforms attracted outside investors, including Facebook and Google"
+   ]
+  ],
+  "advantages": [
+   "Built on new technology from day one",
+   "Low prices attracted many first-time internet users"
+  ],
+  "challenges": [
+   "Building a network needs very large investment",
+   "Price competition with other telecom firms"
+  ],
+  "lesson": "A big drop in price can unlock a whole new group of users.",
+  "lessons": [
+   "Price can be an innovation",
+   "Build for the market's biggest gap",
+   "Use the network to launch other services"
+  ],
+  "future": "Cheap data helped digital payments, video and apps grow in India. What comes next with 5G is uncertain.",
+  "references": [
+   {
+    "title": "Jio official site",
+    "url": "https://www.jio.com/"
+   }
+  ]
+ },
+ {
+  "id": "whatsapp",
+  "company": "WhatsApp",
+  "title": "Simple messaging for everyone",
+  "industry": "Messaging",
+  "status": "reviewed",
+  "last_reviewed": "2026-10-23",
+  "problem": "Texting by SMS was costly and different between countries.",
+  "innovation": "A simple app that sends messages over the internet, on any phone, with no ads.",
+  "overview": "WhatsApp was founded in 2009 by Jan Koum and Brian Acton. Facebook (now Meta) announced it was buying WhatsApp in 2014.",
+  "model": "Early on, a small yearly fee in some countries. Today the app is free and the company is exploring business tools.",
+  "technology": "Messaging over the internet and end-to-end encryption.",
+  "milestones": [
+   [
+    "2009",
+    "WhatsApp founded"
+   ],
+   [
+    "2014",
+    "Acquisition by Facebook announced"
+   ],
+   [
+    "2016",
+    "End-to-end encryption rolled out to all chats"
+   ],
+   [
+    "2018",
+    "WhatsApp Business app launched"
+   ]
+  ],
+  "advantages": [
+   "Simple to use",
+   "Works on many phones and in low-bandwidth places"
+  ],
+  "challenges": [
+   "Fake news and misinformation can spread fast",
+   "Debates about privacy policy changes"
+  ],
+  "lesson": "Doing one simple job very well can win billions of users.",
+  "lessons": [
+   "Keep the product simple",
+   "Privacy can be a feature",
+   "Small team, big reach"
+  ],
+  "future": "Messaging apps may become places for shopping, payments and customer service. This is still developing.",
+  "references": [
+   {
+    "title": "WhatsApp official site",
+    "url": "https://www.whatsapp.com/"
    }
   ]
  }

@@ -29,10 +29,11 @@ const A = { // original line illustrations, one per topic (no third-party images
   "quantum-computing": '<ellipse cx="160" cy="90" rx="80" ry="26"/><ellipse cx="160" cy="90" rx="80" ry="26" transform="rotate(60 160 90)"/><ellipse cx="160" cy="90" rx="80" ry="26" transform="rotate(120 160 90)"/><circle cx="160" cy="90" r="6" fill="#fff"/>',
   cybersecurity: '<path d="M160 25l60 22v40c0 32-26 55-60 68-34-13-60-36-60-68V47z"/><rect x="143" y="88" width="34" height="28" rx="4"/><path d="M150 88v-8a10 10 0 0 1 20 0v8"/>',
   "advanced-manufacturing": '<circle cx="160" cy="90" r="30"/><circle cx="160" cy="90" r="12"/><path d="M160 40v14M160 126v14M110 90h14M196 90h14M125 55l10 10M185 115l10 10M195 55l-10 10M135 115l-10 10"/>',
+  network: '<circle cx="160" cy="90" r="8" fill="#fff"/><path d="M130 62a42 42 0 0 1 60 0M114 46a64 64 0 0 1 92 0M130 118a42 42 0 0 0 60 0M114 134a64 64 0 0 0 92 0"/>',
   business: '<path d="M80 140V90M120 140V60M160 140V100M200 140V40M240 140V70M70 145h180"/>',
   creative: '<path d="M160 30a42 42 0 0 0-20 79v14h40v-14a42 42 0 0 0-20-79zM148 135h24M152 148h16"/>'
 };
-const ALIAS = { AI: "artificial-intelligence", "Artificial Intelligence": "artificial-intelligence", Robotics: "robotics", Space: "space", Energy: "energy", Semiconductors: "semiconductors", Tech: "semiconductors", Business: "business", Creative: "creative", Biotechnology: "biotechnology", Cybersecurity: "cybersecurity" };
+const ALIAS = { AI: "artificial-intelligence", "Artificial Intelligence": "artificial-intelligence", Robotics: "robotics", Space: "space", Energy: "energy", Semiconductors: "semiconductors", Tech: "semiconductors", Business: "business", AI: "artificial-intelligence", Telecom: "network", Messaging: "network", "Social Media": "network", Technology: "network", Creative: "creative", Biotechnology: "biotechnology", Cybersecurity: "cybersecurity" };
 const art = (k) => { const body = A[k] || A[ALIAS[k]]; return body ? `<svg viewBox="0 0 320 180" role="img" aria-label="Illustration"><rect width="320" height="180" fill="#0b0b0b"/><g fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">${body}</g></svg>` : orbit; };
 const visual = (n) => n.image && safe(n.image) ? `<img src="${esc(safe(n.image))}" alt="" loading="lazy" decoding="async" data-c="${esc(n.category)}">` : art(n.category);
 
