@@ -8,7 +8,7 @@ permissions: {contents: read}
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions: {contents: write}
+    permissions: {contents: write, actions: write}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -16,8 +16,7 @@ jobs:
       - run: python -m unittest discover -s tests -t .
       - name: Run pipeline (a failure keeps existing data)
         run: python -m pipeline.run
-      - name: Link check (warning only)
-        continue-on-error: true
+      - name: Link check (marks dead links; never fails the run)
         run: python -m pipeline.linkcheck
       - run: python -m unittest discover -s tests -t .
       - name: Commit data
@@ -25,6 +24,10 @@ jobs:
         run: |
           git config user.name "think-orbit-bot"; git config user.email "bot@users.noreply.github.com"
           git add site && (git diff --cached --quiet || git commit -m "Daily data update") && git push
+      - name: Keep schedule alive (GitHub pauses idle schedules)
+        continue-on-error: true
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/daily.yml/enable"
       - uses: actions/upload-pages-artifact@v3
         with: {path: site}
   deploy:

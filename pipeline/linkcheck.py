@@ -26,8 +26,15 @@ def ok(u):
 
 
 if __name__ == "__main__":
-    bad = [u for u in sorted(set(urls())) if not ok(u)]
-    for u in bad:
-        print("BROKEN:", u)
-    print(f"checked, {len(bad)} broken")
-    sys.exit(1 if bad else 0)
+    status_file = DATA / "linkstatus.json"
+    try:
+        prev = json.loads(status_file.read_text("utf-8"))
+    except (OSError, ValueError):
+        prev = {}
+    now = {}
+    for u in sorted(set(urls())):
+        now[u] = 0 if ok(u) else prev.get(u, 0) + 1  # consecutive failures; site hides a link at 3
+        if now[u]:
+            print("BROKEN:", u, now[u])
+    status_file.write_text(json.dumps(now, indent=1), "utf-8")
+    print(f"checked {len(now)} links")  # never fails the run

@@ -51,7 +51,7 @@ const R = {
     const [rawNews, skills, cases, meta] = await Promise.all([load("news"), load("skills"), load("cases"), load("meta")]); const news = lead(rawNews);
     const f = news[0];
     return `<section class="hero"><p class="eyebrow">The future starts here</p><h1>Understand Tomorrow. Today.</h1><p class="mute">Technologies, skills and ideas shaping our future, in simple language.</p></section>
-${sampleNote(news)}<div class="row"><h2>Today's Future News</h2><a href="#/news">See All ›</a></div>
+${sampleNote(news)}${stale(meta)}<div class="row"><h2>Today's Future News</h2><a href="#/news">See All ›</a></div>
 ${f ? `<a class="feat" href="#/news/${esc(f.id)}"><div class="hero-img">${visual(f)}</div><div class="t">${esc(T(f.title))}</div><div class="mute">${esc(f.category_label)} · ${ago(f.published)}</div></a>${news.slice(1, 4).map(newsCard).join("")}` : `<p class="empty">No stories yet.</p>`}
 <div class="row"><h2>Learn something today</h2></div>${await spark()}<div class="row"><h2>Future Skills</h2><a href="#/skills">See All ›</a></div>${skills.slice(0, 3).map(skillRow).join("")}
 <div class="row"><h2>Business Cases</h2><a href="#/cases">See All ›</a></div>${cases.slice(0, 2).map(caseCard).join("")}
@@ -92,13 +92,13 @@ ${f ? `<div class="box"><span class="tag">${esc(f.category)}</span><h2 style="ma
 <div class="row"><h2>More Skills</h2></div>${list.slice(1).map(skillRow).join("") || (list.length ? "" : `<p class="empty">No skills here yet.</p>`)}`;
   },
   async skillDetail(id) {
-    const skills = await load("skills"); const s = skills.find((x) => x.id === id); if (!s) return notFound();
+    const skills = await load("skills"); await load("linkstatus"); const s = skills.find((x) => x.id === id); if (!s) return notFound();
     const rel = (s.related_skills || []).map((t) => skills.find((k) => k.title === t)).filter(Boolean);
     const ul = (a) => `<ul class="plain">${(a || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
     return `${bar(id, saveBtn("skills:" + id) + shareBtn(s.title))}<span class="tag">${esc(s.category)}</span><h1>${esc(s.title)}</h1><p>${esc(s.summary)}</p>
 <div class="box"><h2>What you will learn</h2>${ul(s.learn)}</div><div class="box"><h2>Prerequisites</h2>${ul(s.prerequisites)}</div>
 <div class="box"><h2>Roadmap</h2><ol class="tl">${(s.roadmap || []).map((r) => `<li>${esc(r)}</li>`).join("")}</ol></div>
-<h2>Learning resources</h2>${(s.resources || []).map((r) => `<a class="link" href="${esc(safe(r.url))}" target="_blank" rel="noopener noreferrer"><div><div class="t">${esc(r.title)}</div><div class="mute">${esc(r.type)} · ${esc(r.meta)} · checked ${esc(r.reviewed)}</div></div>${ic("ext")}</a>`).join("")}
+<h2>Learning resources</h2>${(s.resources || []).filter((r) => !((D.linkstatus || {})[r.url] >= 3)).map((r) => `<a class="link" href="${esc(safe(r.url))}" target="_blank" rel="noopener noreferrer"><div><div class="t">${esc(r.title)}</div><div class="mute">${esc(r.type)} · ${esc(r.meta)} · checked ${esc(r.reviewed)}</div></div>${ic("ext")}</a>`).join("")}
 <div class="box"><h2>Practice ideas</h2>${ul(s.practice)}</div><div class="box"><h2>Career applications</h2>${ul(s.careers)}<p class="mute">${esc(s.note)}</p></div>
 <div class="box"><h2>Related technologies</h2><p>${(s.technologies || []).map((t) => `<a class="tag" href="#/search?q=${encodeURIComponent(t)}">${esc(t)}</a>`).join("")}</p></div>
 ${rel.length ? `<h2>Related skills</h2>${rel.map(skillRow).join("")}` : ""}`;
@@ -173,6 +173,7 @@ async function impact(n) {
   const ul = (a) => `<ul class="plain">${a.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
   return `<div class="box"><h2>What could change</h2>${ul(L.change)}</div><div class="box"><h2>Opportunities</h2>${ul(L.opportunity)}</div><div class="box"><h2>Risks and losses</h2>${ul(L.risk)}</div><p class="mute">These points are general background for ${esc(n.category_label)}. They are not claims made by this story. Future effects are uncertain.</p>`;
 }
+const stale = (m) => m.last_updated && Date.now() - new Date(m.last_updated) > 72 * 36e5 ? `<p class="notice">Updates are paused for now. Showing the latest stories we have.</p>` : "";
 const notFound = () => `${bar("")}<div class="empty"><h1>Not found</h1><p>This page does not exist.</p><a class="btn" href="#/">Go home</a></div>`;
 const hashParts = () => { const [p, q = ""] = (location.hash.slice(1) || "/").split("?"); return [p.split("/").filter(Boolean), new URLSearchParams(q)]; };
 const qs = () => hashParts()[1];
