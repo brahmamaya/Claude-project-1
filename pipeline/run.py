@@ -33,6 +33,18 @@ def base_url(site):
     return u if u.endswith("/") else u + "/"
 
 
+def update_og(html, base):
+    """Point canonical / Open Graph URLs at the real public address (custom domain aware)."""
+    import re
+
+    def url(m):
+        target = base + ("og.png" if m.group(2).endswith("og.png") else "")
+        return f'{m.group(1)}="{target}"'
+
+    block = re.sub(r'(href|content)="(https://[^"]*)"', url, re.search(r"<!--og-->.*?<!--/og-->", html, re.S).group(0))
+    return re.sub(r"<!--og-->.*?<!--/og-->", lambda _: block, html, flags=re.S)
+
+
 def process(raw, cfg, site, existing, now):
     ok = [i for i in raw if not validate.validate_item(i, now, site["max_age_days"])]
     ranked = rank.rank(ok, cfg, site["min_score"], site.get("news_min_score"), site.get("min_hn_points", 0))
@@ -86,6 +98,10 @@ def main():
     atomic_write(DATA / "meta.json", json.dumps(meta))
     atomic_write(DATA / "search-index.json", json.dumps(index.search_index(news, skills, cases), ensure_ascii=False))
     atomic_write(ROOT / "site/rss.xml", index.rss(news, site["base_url"], site["name"]))
+    page = (ROOT / "site/index.html").read_text("utf-8")
+    new_page = update_og(page, site["base_url"])
+    if new_page != page:
+        atomic_write(ROOT / "site/index.html", new_page)
     atomic_write(ROOT / "site/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site['base_url']}sitemap.xml\n")
     atomic_write(ROOT / "site/sitemap.xml", index.sitemap(site["base_url"], news, skills, cases))
 
