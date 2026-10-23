@@ -78,6 +78,15 @@ class T(unittest.TestCase):
         images.fill(st2, {})
         self.assertIsNone(st2[0]["image"])
 
+    def test_base_url_from_env(self):
+        import os
+        site = {"base_url": "https://a.example/x/"}
+        os.environ["BASE_URL"] = "https://think-orbit.in"
+        self.assertEqual(run.base_url(site), "https://think-orbit.in/")
+        os.environ["BASE_URL"] = "http://evil"
+        self.assertEqual(run.base_url(site), "https://a.example/x/")
+        del os.environ["BASE_URL"]
+
     def test_hn_min_points(self):
         it = {"title": "SpaceX rocket reaches orbit again", "url": "https://a.com/x", "abstract": "", "kind": "news", "via": "Hacker News", "score_hint": 5}
         self.assertEqual(rank.rank([it], CFG, 3, 2, 50), [])

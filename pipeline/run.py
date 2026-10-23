@@ -26,6 +26,13 @@ def atomic_write(path, text):
 safe_ok = validate.safe_url
 
 
+def base_url(site):
+    """Public site URL: BASE_URL from the workflow (reads GitHub Pages, so a custom domain is picked up
+    automatically), else config/site.json. Always https and ends with a slash."""
+    u = validate.safe_url(os.environ.get("BASE_URL", "")) or site["base_url"]
+    return u if u.endswith("/") else u + "/"
+
+
 def process(raw, cfg, site, existing, now):
     ok = [i for i in raw if not validate.validate_item(i, now, site["max_age_days"])]
     ranked = rank.rank(ok, cfg, site["min_score"], site.get("news_min_score"), site.get("min_hn_points", 0))
@@ -37,6 +44,7 @@ def process(raw, cfg, site, existing, now):
 def main():
     now = datetime.now(timezone.utc)
     site = load(ROOT / "config/site.json")
+    site["base_url"] = base_url(site)
     cfg = load(ROOT / "config/categories.json")
     sources = load(ROOT / "config/sources.json")["sources"]
     news = load(DATA / "news.json", [])
@@ -78,6 +86,7 @@ def main():
     atomic_write(DATA / "meta.json", json.dumps(meta))
     atomic_write(DATA / "search-index.json", json.dumps(index.search_index(news, skills, cases), ensure_ascii=False))
     atomic_write(ROOT / "site/rss.xml", index.rss(news, site["base_url"], site["name"]))
+    atomic_write(ROOT / "site/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site['base_url']}sitemap.xml\n")
     atomic_write(ROOT / "site/sitemap.xml", index.sitemap(site["base_url"], news, skills, cases))
 
 
