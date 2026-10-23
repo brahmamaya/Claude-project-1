@@ -87,6 +87,15 @@ class T(unittest.TestCase):
         self.assertEqual(run.base_url(site), "https://a.example/x/")
         del os.environ["BASE_URL"]
 
+    def test_update_og(self):
+        html = (ROOT / "site/index.html").read_text()
+        out = run.update_og(html, "https://think-orbit.in/")
+        self.assertIn('og:image" content="https://think-orbit.in/og.png"', out)
+        self.assertIn('og:url" content="https://think-orbit.in/"', out)
+        self.assertIn('rel="canonical" href="https://think-orbit.in/"', out)
+        self.assertEqual(run.update_og(out, "https://think-orbit.in/"), out)
+        self.assertNotIn("brahmamaya.github.io", out.split("<!--/og-->")[0].split("<!--og-->")[1])
+
     def test_hn_min_points(self):
         it = {"title": "SpaceX rocket reaches orbit again", "url": "https://a.com/x", "abstract": "", "kind": "news", "via": "Hacker News", "score_hint": 5}
         self.assertEqual(rank.rank([it], CFG, 3, 2, 50), [])
