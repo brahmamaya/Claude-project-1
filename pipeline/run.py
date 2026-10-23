@@ -60,7 +60,8 @@ def main():
     new = process(raw, cfg, site, real, now)
     print(f"raw {len(raw)}, new qualifying: {len(new)} ({sum(n['source_id']=='hn' for n in new)} from HN)")
     if new or any(n.get("image") for n in real):
-        merged = sorted(new + real, key=lambda n: n["published"], reverse=True)[: site["max_news"]]
+        keep = [n for n in new + real if (now - validate.parse_date(n["published"])).days <= site.get("max_keep_days", 45)]
+        merged = sorted(keep, key=lambda n: n["published"], reverse=True)[: site["max_news"]]
         atomic_write(DATA / "news.json", json.dumps(merged, ensure_ascii=False, indent=1))
         news = merged
     try:
