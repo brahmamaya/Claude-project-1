@@ -1,11 +1,59 @@
-{"_note":"Search phrases for openly licensed illustration photos on Wikimedia Commons. One pool per topic; photos are labelled illustrative.",
-"queries":{
-"artificial-intelligence":["artificial intelligence robot","computer server data center"],
-"robotics":["humanoid robot","industrial robot arm"],
-"space":["rocket launch","galaxy telescope image"],
-"energy":["solar panels","wind turbines","lithium battery"],
-"biotechnology":["DNA double helix","laboratory microscope"],
-"semiconductors":["silicon wafer","microchip close up"],
-"quantum-computing":["quantum computer","superconducting qubit chip"],
-"cybersecurity":["computer security padlock","server room cables"],
-"advanced-manufacturing":["3D printer","factory automation"]}}
+{
+ "_note": "Search phrases for openly licensed illustration photos on Wikimedia Commons. One pool per topic; photos are labelled illustrative.",
+ "queries": {
+  "artificial-intelligence": [
+   "artificial intelligence robot",
+   "computer server data center",
+   "neural network visualization",
+   "supercomputer"
+  ],
+  "robotics": [
+   "humanoid robot",
+   "industrial robot arm",
+   "robot hand",
+   "drone flying"
+  ],
+  "space": [
+   "rocket launch",
+   "galaxy telescope image",
+   "international space station",
+   "satellite in orbit"
+  ],
+  "energy": [
+   "solar panels",
+   "wind turbines",
+   "lithium battery",
+   "electric vehicle charging"
+  ],
+  "biotechnology": [
+   "DNA double helix",
+   "laboratory microscope",
+   "petri dish",
+   "gene sequencing"
+  ],
+  "semiconductors": [
+   "silicon wafer",
+   "microchip close up",
+   "circuit board",
+   "semiconductor fabrication"
+  ],
+  "quantum-computing": [
+   "quantum computer",
+   "superconducting qubit chip",
+   "dilution refrigerator",
+   "laser optical table"
+  ],
+  "cybersecurity": [
+   "computer security padlock",
+   "server room cables",
+   "keyboard hacker",
+   "data center network"
+  ],
+  "advanced-manufacturing": [
+   "3D printer",
+   "factory automation",
+   "CNC machine",
+   "robotic welding"
+  ]
+ }
+}

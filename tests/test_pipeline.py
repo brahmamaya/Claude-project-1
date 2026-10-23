@@ -69,6 +69,15 @@ class T(unittest.TestCase):
         self.assertEqual(images.fill(st, pool), 1)
         self.assertEqual(st[1]["image"], "https://x")
 
+    def test_fill_spreads_photos_and_drops_blocked(self):
+        pool = {"space": [{"image": f"https://upload.wikimedia.org/{i}.jpg", "image_credit": "c", "image_page": "https://commons.wikimedia.org/wiki/File:A%d.jpg" % i} for i in range(3)]}
+        st = [{"id": "%08x" % i, "category": "space"} for i in range(6)]
+        images.fill(st, pool)
+        self.assertEqual(len({s["image"] for s in st}), 3)
+        st2 = [{"id": "00000001", "category": "space", "image": "https://upload.wikimedia.org/z.jpg", "image_credit": "c", "image_page": "https://commons.wikimedia.org/wiki/File:EFTA0001.jpg"}]
+        images.fill(st2, {})
+        self.assertIsNone(st2[0]["image"])
+
     def test_hn_min_points(self):
         it = {"title": "SpaceX rocket reaches orbit again", "url": "https://a.com/x", "abstract": "", "kind": "news", "via": "Hacker News", "score_hint": 5}
         self.assertEqual(rank.rank([it], CFG, 3, 2, 50), [])
