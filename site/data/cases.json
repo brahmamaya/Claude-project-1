@@ -145,14 +145,14 @@
  {
   "id": "nvidia",
   "company": "NVIDIA",
-  "title": "From graphics chips to AI computing",
+  "title": "From gaming graphics to the engine of AI",
   "industry": "Semiconductors",
   "status": "reviewed",
-  "problem": "Graphics chips were used mainly for games.",
-  "innovation": "Make GPUs programmable for general computing with CUDA.",
-  "overview": "NVIDIA designs chips and software. It was founded in 1993.",
-  "model": "Designs chips and sells chips, systems and software.",
-  "technology": "GPUs and the CUDA programming platform.",
+  "problem": "Computers were slow at drawing 3D graphics for games. Later, scientists and AI researchers needed far more computing power than normal chips offered.",
+  "innovation": "Build the GPU, a chip that does thousands of small calculations at the same time, then make it usable for any kind of computing through the CUDA software platform.",
+  "overview": "NVIDIA designs chips called GPUs and the software that runs on them. It was founded in 1993 and is now a key supplier of computing power for AI.",
+  "model": "Designs chips and sells chips, whole systems and software. It does not run its own chip factories; other companies manufacture its designs.",
+  "technology": "GPUs, the CUDA programming platform, networking hardware and AI software.",
   "milestones": [
    [
     "1993",
@@ -160,11 +160,19 @@
    ],
    [
     "1999",
-    "GeForce 256 marketed as the first GPU"
+    "IPO in January; GeForce 256 launched as the first 'GPU'"
    ],
    [
     "2006",
-    "CUDA announced"
+    "CUDA introduced"
+   ],
+   [
+    "2012",
+    "AlexNet trained on NVIDIA GPUs"
+   ],
+   [
+    "2025",
+    "US export rules limit the H20 chip; China's regulator raises antitrust concerns"
    ]
   ],
   "advantages": [
@@ -176,16 +184,87 @@
   "lesson": "Software tools can make hardware much more valuable.",
   "lessons": [
    "Build an ecosystem",
-   "Prepare for new uses early"
+   "Prepare for new uses early",
+   "Know your risks: rules, rivals, suppliers"
   ],
   "future": "Demand for AI computing may shape chip design. This is uncertain.",
   "references": [
    {
     "title": "NVIDIA official site",
     "url": "https://www.nvidia.com/"
+   },
+   {
+    "title": "Computer History Museum: Jensen Huang",
+    "url": "https://computerhistory.org/profile/jensen-huang/"
+   },
+   {
+    "title": "NVIDIA Annual Report FY2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000038/a2026-annualxreportxwebxfi.pdf"
    }
   ],
-  "last_reviewed": "2026-10-22"
+  "last_reviewed": "2026-10-23",
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "Jensen Huang, Chris Malachowsky and Curtis Priem founded NVIDIA in 1993 to make 3D graphics chips for games and multimedia.",
+     "The company went public in January 1999.",
+     "In 1999 it launched the GeForce 256, which it called the world's first GPU."
+    ]
+   },
+   {
+    "h": "The big idea: one chip, many small jobs",
+    "points": [
+     "A GPU splits a big job into thousands of tiny jobs and does them together.",
+     "Around 2006 NVIDIA introduced CUDA, a software platform that let programmers use GPUs for general tasks, not only games.",
+     "Over time scientists, then AI researchers, started to use GPUs for their heavy calculations."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "First, gaming graphics cards sold to PC players.",
+     "Then data-centre chips for science and AI. In 2012 the AlexNet image-recognition system, which helped start the modern AI wave, was trained on NVIDIA GPUs.",
+     "Software and developer tools around CUDA make customers stay with NVIDIA."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "US export rules limit which AI chips can be sold to China. In April 2025 new licence rules effectively stopped the H20 chip, and NVIDIA reported a charge of about $5.5 billion on that stock, according to news reports.",
+     "In September 2025 China's market regulator said NVIDIA had broken anti-monopoly law in its earlier Mellanox deal. Details were not made clear.",
+     "Rivals such as AMD, Google's own TPU chips and Chinese firms like Huawei are building alternatives."
+    ]
+   },
+   {
+    "h": "What changed because of NVIDIA",
+    "points": [
+     "Training large AI models became practical for many labs and companies.",
+     "Computing power, not only software, became a key resource in the AI race.",
+     "Demand for chips has pushed governments to treat chips as a strategic matter."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "A tool built for one use can find a bigger use later.",
+     "Software that developers love can protect a hardware business.",
+     "Depending on a few customers, factories and government rules is a real risk."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "Custom AI chips from big cloud companies may take some demand.",
+     "Export rules may keep changing.",
+     "How long the AI boom lasts, and how much computing it needs, is unknown."
+    ]
+   }
+  ],
+  "think": [
+   "Why does a software platform like CUDA matter to a chip company?",
+   "What happens to a company that depends on a few big buyers?"
+  ]
  },
  {
   "id": "spacex",
@@ -335,23 +414,43 @@
  {
   "id": "netflix",
   "company": "Netflix",
-  "title": "From DVDs by mail to streaming",
-  "industry": "Business",
+  "title": "From DVDs by mail to a global streaming studio",
+  "industry": "Entertainment",
   "status": "reviewed",
-  "last_reviewed": "2026-10-22",
-  "problem": "Renting movies meant going to a store and paying late fees.",
-  "innovation": "Rent DVDs by mail with no late fees, then move to streaming over the internet.",
-  "overview": "Netflix is an entertainment company founded in 1997.",
-  "model": "Customers pay a regular subscription to watch content.",
-  "technology": "Internet video streaming and recommendation software.",
+  "last_reviewed": "2026-10-23",
+  "problem": "Renting movies meant a trip to a store, a small choice on the shelf, and late fees.",
+  "innovation": "Rent DVDs by mail with no late fees, use a subscription, then move the whole business to internet streaming.",
+  "overview": "Netflix is a streaming service founded in 1997 by Reed Hastings and Marc Randolph. It now makes and licenses films and series for viewers in almost every country.",
+  "model": "Subscription plans (and since 2022 a cheaper plan with ads). It pays for its own shows and licenses others.",
+  "technology": "Video streaming over the internet and software that recommends what to watch.",
   "milestones": [
    [
     "1997",
-    "Company founded"
+    "Netflix founded"
    ],
    [
     "2007",
-    "Streaming service launched"
+    "Streaming launched"
+   ],
+   [
+    "2011",
+    "Qwikster plan announced, then dropped"
+   ],
+   [
+    "2013",
+    "House of Cards released"
+   ],
+   [
+    "2016",
+    "Launched in many more countries"
+   ],
+   [
+    "2022",
+    "Ad-supported plan launched"
+   ],
+   [
+    "2023",
+    "Paid-sharing rules begin; DVD-by-mail ends"
    ]
   ],
   "advantages": [
@@ -365,36 +464,107 @@
   "lesson": "Be ready to change your own business when technology changes.",
   "lessons": [
    "Watch where technology is heading",
-   "Subscriptions create steady customer relationships"
+   "Subscriptions create steady income",
+   "Own your key content"
   ],
   "future": "Internet speed and devices keep changing how people watch. How it will end up is uncertain.",
   "references": [
    {
-    "title": "Netflix company site",
+    "title": "Netflix about page",
     "url": "https://about.netflix.com/"
+   },
+   {
+    "title": "MacTrast: Netflix expands password-sharing rules to the US (2023)",
+    "url": "https://www.mactrast.com/2023/04/netflix-to-expand-password-sharing-crackdown-to-u-s-in-q2-2023/"
    }
+  ],
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "Netflix started in 1997 as a DVD-by-mail rental service.",
+     "In 2000 it reportedly offered to sell itself to Blockbuster, which turned it down.",
+     "In 2007 it launched streaming. Blockbuster, once the giant, later went bankrupt."
+    ]
+   },
+   {
+    "h": "The big idea: change before you are forced to",
+    "points": [
+     "Hastings knew that DVDs would fade as internet speeds grew.",
+     "So Netflix built streaming while DVDs were still earning money.",
+     "In 2013 it released House of Cards, its first major original series, to stop depending on others' content."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "A monthly subscription gave steady, predictable income.",
+     "In 2016 it launched in many new countries at once, reaching almost every country except China.",
+     "In November 2022 it added a cheaper ad-supported plan. In 2023 it began charging extra for sharing accounts outside a household."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "In 2011 Netflix announced it would split DVD and streaming into two services (Qwikster). Customers were angry and the plan was dropped within weeks.",
+     "Making shows costs a lot, and many rivals now compete for viewers.",
+     "Netflix expected some customers to cancel when it stopped password sharing, but said revenue would rise as others signed up. The DVD-by-mail service ended in September 2023."
+    ]
+   },
+   {
+    "h": "What changed because of Netflix",
+    "points": [
+     "Binge-watching and 'watch anywhere' became normal.",
+     "Studios and TV channels started their own streaming services.",
+     "Shows from many countries now reach a world audience."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "Be ready to replace your own successful product.",
+     "Own what makes you different: here, original content.",
+     "Even a good company can lose trust by changing too fast without explaining."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "More ads and more live events on streaming platforms.",
+     "Price changes and competition may shape what people are willing to pay.",
+     "How viewers split time between streaming and short videos is still shifting."
+    ]
+   }
+  ],
+  "think": [
+   "Why did Netflix start streaming while DVDs were still making money?",
+   "What would you do if your best product became old-fashioned?"
   ]
  },
  {
   "id": "aws",
   "company": "Amazon Web Services",
   "title": "Selling computing power as a service",
-  "industry": "Business",
+  "industry": "Cloud",
   "status": "reviewed",
-  "last_reviewed": "2026-10-22",
-  "problem": "Starting a website or app meant buying and running your own servers.",
-  "innovation": "Rent computing and storage over the internet and pay only for what you use.",
-  "overview": "Amazon Web Services (AWS) is the cloud computing business of Amazon.",
-  "model": "Customers pay for usage of computing, storage and other services.",
-  "technology": "Large data centres and software that shares them among many customers.",
+  "last_reviewed": "2026-10-23",
+  "problem": "To start a website or app you had to buy and run your own servers, which was slow and costly.",
+  "innovation": "Let anyone rent storage and computing by the hour or month and pay only for what they use.",
+  "overview": "Amazon Web Services (AWS) rents computing power, storage and tools over the internet. It started in 2006 inside Amazon.",
+  "model": "Pay-as-you-go: customers are billed for usage of storage, computing and many other services.",
+  "technology": "Large data centres, software that shares them between many customers, and a wide menu of services.",
   "milestones": [
    [
     "2006",
-    "S3 storage service launched"
+    "S3 storage launched (March)"
    ],
    [
     "2006",
-    "EC2 computing service launched"
+    "EC2 computing beta starts (August)"
+   ],
+   [
+    "2017",
+    "Major S3 outage in US-East-1 (28 February)"
    ]
   ],
   "advantages": [
@@ -408,14 +578,89 @@
   "lesson": "A tool built for your own needs can become a product for others.",
   "lessons": [
    "Lower the cost of starting for others",
-   "Pay-as-you-go lowers risk"
+   "Pay-as-you-go lowers risk",
+   "Reliability builds trust"
   ],
   "future": "More software may run in the cloud. The exact path is uncertain.",
   "references": [
    {
     "title": "AWS official site",
     "url": "https://aws.amazon.com/"
+   },
+   {
+    "title": "AWS Blog: Eight years of cloud computing",
+    "url": "https://aws.amazon.com/blogs/aws/eight-years-and-counting-of-cloud-computing/"
+   },
+   {
+    "title": "TechCrunch: How Amazon EC2 grew",
+    "url": "https://techcrunch.com/2021/08/28/how-amazon-ec2-grew-from-a-notion-into-a-foundational-element-of-cloud-computing"
+   },
+   {
+    "title": "Cambridge risk studies: Lights out at Amazon (2017)",
+    "url": "https://risk-studies-viewpoint.blog.jbs.cam.ac.uk/2017/03/02/lights-out-at-amazon/"
    }
+  ],
+  "story": [
+   {
+    "h": "The story in short",
+    "points": [
+     "AWS launched its storage service S3 on 14 March 2006, according to AWS's own blog.",
+     "The computing service EC2 followed, with the first beta instance on 25 August 2006, according to TechCrunch.",
+     "Andy Jassy led the early effort to turn Amazon's own infrastructure into services others could use."
+    ]
+   },
+   {
+    "h": "The big idea: computing as a utility",
+    "points": [
+     "Like electricity, you use as much as you need and pay for it.",
+     "At launch, storing data cost $0.15 per GB per month, according to a report. A 2016 article said it had fallen to about $0.03.",
+     "Startups no longer needed big upfront money to build a product."
+    ]
+   },
+   {
+    "h": "How it made money and grew",
+    "points": [
+     "Customers range from tiny startups to big companies and governments.",
+     "AWS kept adding services: databases, analytics, AI tools and more.",
+     "Big customers often stay because their systems are built around AWS tools."
+    ]
+   },
+   {
+    "h": "Hard times and mistakes",
+    "points": [
+     "On 28 February 2017 a problem in S3 in the US-East-1 region caused errors across many services, and many websites went down. AWS later said a command entered during routine work removed more servers than intended.",
+     "Because so many companies use the same region, one fault can affect many sites.",
+     "Customers worry about outages, costs and being locked in."
+    ]
+   },
+   {
+    "h": "What changed because of AWS",
+    "points": [
+     "Startups can launch fast and cheaply.",
+     "Large firms moved from their own data centres to the cloud.",
+     "Rivals such as Microsoft Azure and Google Cloud now compete strongly."
+    ]
+   },
+   {
+    "h": "What you can learn",
+    "points": [
+     "A tool you build for yourself can become a product for others.",
+     "Lower the cost of starting, and many new customers appear.",
+     "Reliability is part of the product. Outages hurt trust."
+    ]
+   },
+   {
+    "h": "What could come next (uncertain)",
+    "points": [
+     "Demand for AI computing may shape cloud services.",
+     "Customers may use more than one cloud provider to reduce risk.",
+     "Rules on data location and security may change."
+    ]
+   }
+  ],
+  "think": [
+   "Why would a company rent computing instead of buying it?",
+   "What could go wrong if too many companies depend on one provider?"
   ]
  },
  {
