@@ -81,6 +81,22 @@
    "last_reviewed": "",
    "approved": false,
    "mode": "link_only"
+  },
+  {
+   "id": "wikimedia-commons",
+   "name": "Wikimedia Commons (illustration photos only)",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Reuse_of_content_outside_Wikimedia",
+   "access": "api",
+   "endpoint": "https://commons.wikimedia.org/w/api.php",
+   "permitted_usage": "Only files whose own licence is CC0, public domain, CC BY or CC BY-SA, with author and licence shown. NC, ND, restricted and fair-use files are skipped.",
+   "commercial_use": "yes for the licences we accept",
+   "attribution": "Author, licence and 'via Wikimedia Commons' shown on the story page, with a link to the file page",
+   "image_rights": "Per file; checked from Commons metadata automatically",
+   "rate_limit": "About 20 API calls per run",
+   "last_reviewed": "2026-10-22",
+   "approved": true,
+   "mode": "images_only",
+   "review_note": "Photos are topic illustrations, not photos of the story's event. Labelled as such."
   }
  ]
 }

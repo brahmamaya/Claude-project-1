@@ -2,7 +2,7 @@
 import json, os, sys, tempfile
 from datetime import datetime, timezone
 from pathlib import Path
-from . import collect, validate, rank, content, index
+from . import collect, validate, rank, content, index, images
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "site" / "data"
@@ -63,6 +63,14 @@ def main():
         merged = sorted(new + real, key=lambda n: n["published"], reverse=True)[: site["max_news"]]
         atomic_write(DATA / "news.json", json.dumps(merged, ensure_ascii=False, indent=1))
         news = merged
+    try:
+        pool = images.build_pool(load(ROOT / "config/images.json", {}).get("queries", {}))
+        filled = images.fill(news, pool)
+        print(f"commons: pool {sum(len(v) for v in pool.values())}, photos added {filled}")
+        if filled:
+            atomic_write(DATA / "news.json", json.dumps(news, ensure_ascii=False, indent=1))
+    except Exception as e:
+        print(f"commons: FAILED {type(e).__name__}", file=sys.stderr)
     meta = {"last_updated": now.isoformat(), "last_run_new": len(new), "sample_content": not any(not n.get("sample") for n in news)}
     atomic_write(DATA / "meta.json", json.dumps(meta))
     atomic_write(DATA / "search-index.json", json.dumps(index.search_index(news, skills, cases), ensure_ascii=False))

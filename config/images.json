@@ -1,0 +1,11 @@
+{"_note":"Search phrases for openly licensed illustration photos on Wikimedia Commons. One pool per topic; photos are labelled illustrative.",
+"queries":{
+"artificial-intelligence":["artificial intelligence robot","computer server data center"],
+"robotics":["humanoid robot","industrial robot arm"],
+"space":["rocket launch","galaxy telescope image"],
+"energy":["solar panels","wind turbines","lithium battery"],
+"biotechnology":["DNA double helix","laboratory microscope"],
+"semiconductors":["silicon wafer","microchip close up"],
+"quantum-computing":["quantum computer","superconducting qubit chip"],
+"cybersecurity":["computer security padlock","server room cables"],
+"advanced-manufacturing":["3D printer","factory automation"]}}
