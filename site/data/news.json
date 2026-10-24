@@ -1,5 +1,37 @@
 [
  {
+  "id": "6252a2c19d",
+  "title": "I Don't Understand Quantum Physics (2018)",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-24T09:53:26+00:00",
+  "publisher": "southampton.ac.uk",
+  "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by southampton.ac.uk. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: southampton.ac.uk",
+   "Published: 2026-10-24",
+   "Topic: Quantum Computing",
+   "Found via Hacker News (community score 81)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.81,
+  "added": "2026-10-24T11:28:56.405459+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
+ },
+ {
   "id": "7e9b86a23e",
   "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
   "category": "space",
