@@ -1731,6 +1731,36 @@
   "image_page": "https://commons.wikimedia.org/wiki/File:Daytime_Dynamo_Rocket_Launch_(9218456144).jpg"
  },
  {
+  "id": "af634bb14d",
+  "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+  "category": "semiconductors",
+  "category_label": "Semiconductors",
+  "published": "2026-10-22T09:01:10+00:00",
+  "publisher": "infoq.com",
+  "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by infoq.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: infoq.com",
+   "Published: 2026-10-22",
+   "Topic: Semiconductors",
+   "Found via Hacker News (community score 50)"
+  ],
+  "context": "Semiconductors are the chips inside almost every modern device.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flexible_Printed_Circuit_Board_Glued_To_Support.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Richard Wheeler User:Zephyris, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.5,
+  "added": "2026-10-24T16:13:36.555629+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Flexible_Printed_Circuit_Board_Glued_To_Support.jpg"
+ },
+ {
   "id": "48e99f4fba",
   "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
   "category": "quantum-computing",
