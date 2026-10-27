@@ -1,5 +1,380 @@
 [
  {
+  "id": "ba39248fe6",
+  "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-27T07:07:51+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation &#38; Control (GN&#38;C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”&#160; In honor of National Mentoring Day ",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-27",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=1536",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false
+ },
+ {
+  "id": "6d704b13a3",
+  "title": "Recursive Semantic Divergence for LLM Agent Consistency",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-27T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.33012",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large Language Model (LLM) agents with tool use exhibit inconsistent behavior across independent runs from identical states, calling different tools, producing contradictory outputs, or pursuing divergent strategies. This variability compounds over time and undermines deployment reliability.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-27",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 12.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
+ },
+ {
+  "id": "f7cf912181",
+  "title": "A Control Line Multiplexing Framework for Scalable Quantum Computing",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-27T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.35227",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Universal fault-tolerant superconducting quantum computers are expected to require millions of physical qubits; yet extending the prevailing dedicated-control-line paradigm to this scale would exceed the wiring density and cooling-power budget of dilution refrigerators. Microwave frequency-division multiplexing (FDM) r",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-27",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ogs-1_Optical_Ground_Station_1_in_Table_Mountain%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: NASA, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ogs-1_Optical_Ground_Station_1_in_Table_Mountain,_California.jpg"
+ },
+ {
+  "id": "7376985c89",
+  "title": "Large Language Models: A Plain-Language Overview for Engineers",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-27T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.34585",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language models (LLMs) are neural networks trained on huge text collections to generate text by predicting what comes next. Engineers using ChatGPT and other generative artificial intelligence (AI) tools need a clear picture of what training changes and prompts add.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-27",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+ },
+ {
+  "id": "c0a3fd1144",
+  "title": "RoboReason: Boosting Robotics-Relevant VLM Reasoning Through Scalable Data Generation",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-27T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.33778",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Vision-Language Models (VLMs) have demonstrated impressive performance when integrated into robot manipulation pipelines, but real-world evaluation of VLM capabilities on downstream robotics tasks is both difficult and expensive to scale. We propose that spatial and temporal ordering tasks using images from stereo and ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-27",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Flying_drone_in_Holland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Peter van der Sluijs, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Flying_drone_in_Holland.jpg"
+ },
+ {
+  "id": "60821c8841",
+  "title": "EF-LLM: A Continual Learning-Based Framework for AI-Assisted Automation, Enhanced Sparse Prediction, and Hallucination Detection",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-27T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2411.00852",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Accurate prediction helps achieve supply-demand balance in energy systems,thereby supporting operational decision-making and scheduling.Traditional models,which lack AI-assisted automation,often rely heavily on expert knowledge,incur high labor costs,and perform poorly under sparse-data conditions.To address these chal",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-27",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
+  "id": "d99aacab52",
+  "title": "Variational Quantum Optimization of Noisy Polarization Qubit Experiments",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-27T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.33290",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum networking enables advanced communication protocols, distributed quantum computing, and enhanced sensing. These applications are often hindered by current realizations of quantum network nodes, which utilize noisy and imperfect hardware.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-27",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
+ },
+ {
+  "id": "abf236ae8e",
+  "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-26T22:48:12+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that f",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-26",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg?w=1536&#038;h=405&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false
+ },
+ {
+  "id": "d481264fb5",
+  "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-26T21:07:28+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-26",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false
+ },
+ {
+  "id": "653a518b11",
+  "title": "NEO Surveyor’s Sunshade Gets Inspected",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-26T20:53:13+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its b",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-26",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg?w=1024&#038;h=1536&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false
+ },
+ {
+  "id": "a827506fd0",
+  "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-26T20:52:24+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technolo",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-26",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1536&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false
+ },
+ {
+  "id": "f4efc119ed",
+  "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-26T19:28:08+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEE",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-26",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg?w=955&#038;h=637&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false
+ },
+ {
   "id": "31859a8495",
   "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
   "category": "space",
@@ -28,6 +403,38 @@
   "relevance": 5.0,
   "added": "2026-10-26T18:51:01.576545+00:00",
   "sample": false
+ },
+ {
+  "id": "3c6c80c845",
+  "title": "Solar power is becoming bigger than nuclear",
+  "category": "energy",
+  "category_label": "Energy",
+  "published": "2026-10-26T15:26:17+00:00",
+  "publisher": "bbc.com",
+  "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by bbc.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: bbc.com",
+   "Published: 2026-10-26",
+   "Topic: Energy",
+   "Found via Hacker News (community score 292)"
+  ],
+  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "data-analysis"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Battery-lithium-cr2032.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Krzysztof Woźnica - KyloDee, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.92,
+  "added": "2026-10-27T09:02:14.925384+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Battery-lithium-cr2032.jpg"
  },
  {
   "id": "b43ae5b52b",
@@ -1618,14 +2025,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
  },
  {
   "id": "09a240867a",
@@ -1815,14 +2222,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:00:41.944376+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
  },
  {
   "id": "3fde963dbc",
@@ -2366,14 +2773,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 10.0,
   "added": "2026-10-23T08:31:29.828713+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
  },
  {
   "id": "494a8bceae",
@@ -2968,14 +3375,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 6.0,
   "added": "2026-10-22T18:10:31.280826+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
  },
  {
   "id": "eeaf64c608",
@@ -3326,14 +3733,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 6.0,
   "added": "2026-10-22T17:57:32.747225+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
  },
  {
   "id": "c3da4b0cef",
@@ -3431,417 +3838,5 @@
   "added": "2026-10-22T17:48:40.683355+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Helium_dilution_refrigerator.jpg"
- },
- {
-  "id": "89a80ec03a",
-  "title": "$\\lambda_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.18950",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Humanoid loco-manipulation requires coordinated whole-body interaction with the physical world, yet collecting robot demonstrations at scale remains costly. Human demonstrations offer a scalable alternative, but existing egocentric human supervision often omits locomotion and posture, while embodiment differences and c",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Flying_drone_in_Holland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Peter van der Sluijs, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-10-22T17:48:40.683355+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Flying_drone_in_Holland.jpg"
- },
- {
-  "id": "a040d6c7fd",
-  "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29139",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Frontier black-box Large Language Model (LLM) agents are proficient at long-horizon reasoning and precise action generation. However, when it comes to a specific agentic task, they have no internalized knowledge of how that particular environment unfolds.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-10-22T17:48:40.683355+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
- },
- {
-  "id": "6e65939854",
-  "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2608.14590",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Large Language Model (LLM) agents take irreversible real-world actions, yet no system gives formally grounded, task-level safety guarantees for their plans. In a PRISMA 2020 systematic review, we searched six databases (20-29 May 2026) for work on LLM agent specification, verification, and enforcement published in 2022",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-10-22T17:48:40.683355+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
- },
- {
-  "id": "991c761c71",
-  "title": "High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2603.16502",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "The nitrogen-vacancy (NV) center in diamond is one of the advanced candidates for solid-state quantum computing at room temperature and has proven to be competitive in terms of gate fidelity and the availability of quantum error correction codes. Ambient solid-state qubits may therefore provide quantum computing archit",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 11.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
- },
- {
-  "id": "ce5948eae0",
-  "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.28826",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale. We compared Jev, a decision language model that returns structured judgments, with frontier and open-weight LLM judges in four use cases.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 10.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
- },
- {
-  "id": "45c7877877",
-  "title": "Bias-Preserving Entanglement of Kerr-Cat Qubits with an ATS Coupler",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.28749",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Kerr-cat qubits offer a hardware-efficient route to fault-tolerant quantum computing by suppressing bit-flip errors exponentially, while phase-flip errors increase only linearly with the mean photon number. To maintain this protection, entangling operations must be bias-preserving, ensuring that phase-flip errors occur",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ogs-1_Optical_Ground_Station_1_in_Table_Mountain%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 9.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Ogs-1_Optical_Ground_Station_1_in_Table_Mountain,_California.jpg"
- },
- {
-  "id": "0d5cddc3ce",
-  "title": "Can Quantum Layers offer Performance and Security Advantages in Vision-Language Models?",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.28964",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "As quantum computing moves from the noisy intermediate-scale quantum (NISQ) era toward early fault-tolerant quantum computing (EFTQC), quantum-enhanced AI is shifting from a conceptual idea to experimental research. Quantum components are expected to extend the capabilities of existing AI systems, yet it remains unclea",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 9.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
- },
- {
-  "id": "ca34b7f265",
-  "title": "Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.28966",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Large language model (LLM) agents are increasingly deployed in multi-agent systems (MAS) to accomplish complex tasks. Prior black-box red-teaming attacks mainly focus on single agents, but we find that these methods are far less effective in MAS, where multiple sub-agents may not directly interact with the user.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 9.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
- },
- {
-  "id": "360d69029b",
-  "title": "Digital Quantum Simulation of Dynamics in Interacting Fields",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.28993",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Matter under extreme conditions behaves as a non-equilibrium, strongly-interacting quantum system. Such systems are in the non-perturbative regime of quantum chromodynamics (QCD), where their time evolution is classically intractable.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Helium_dilution_refrigerator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Unknown author, CC BY-SA 2.5, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 9.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Helium_dilution_refrigerator.jpg"
- },
- {
-  "id": "a43f922edb",
-  "title": "Buffer-Qubit-Based Quantum Circuit Allocation Method Against Crosstalk Attacks",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29050",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Quantum Multi-Programming (QMP) enables the simultaneous execution of quantum circuits from multiple users on a single quantum chip in cloud quantum computing services. However, QMP is vulnerable to crosstalk attacks, in which a malicious user deliberately induces crosstalk to disrupt other users' computations.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 9.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
- },
- {
-  "id": "8a1e0b26fa",
-  "title": "Meter-scale quantum interconnects between large quantum processors",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29986",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Modular quantum architecture requires long-distance quantum interconnects to stitch together individual processor modules. Such interconnects, long-distance couplers or L-couplers, must support coherent quantum operation over meter-scale distances and scale to multiple connections between any two modules.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 9.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
- },
- {
-  "id": "32c7beeea4",
-  "title": "An interpretable deep learning method for early hepatocellular carcinoma diagnosis on multiphase CT",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29616",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Early diagnosis of hepatocellular carcinoma is critical to preserve access to curative treatment options. The Liver Imaging Reporting and Data System (LI-RADS) provides a standardized framework for non-invasive diagnosis on multiphase computed tomography, based on major visual imaging features.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 9.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
- },
- {
-  "id": "b74f746192",
-  "title": "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29934",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Forming an accurate theory-of-mind (ToM) is key to successful multi-agent collaboration and requires reasoning under uncertainty to capture multiple possible partner states. This is hard to do in the text representation space native to large language model (LLM) agents, which more easily describe a single partner state",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "relevance": 8.0,
-  "added": "2026-10-22T17:44:36.205504+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
  }
 ]
