@@ -1,5 +1,37 @@
 [
  {
+  "id": "96f906dc9c",
+  "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-28T11:54:23+00:00",
+  "publisher": "reuters.com",
+  "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by reuters.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: reuters.com",
+   "Published: 2026-10-28",
+   "Topic: Space",
+   "Found via Hacker News (community score 72)"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Daytime_Dynamo_Rocket_Launch_%289218456144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.72,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Daytime_Dynamo_Rocket_Launch_(9218456144).jpg"
+ },
+ {
   "id": "61bae4d506",
   "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
   "category": "space",
@@ -28,6 +60,201 @@
   "relevance": 5.0,
   "added": "2026-10-28T09:41:54.407059+00:00",
   "sample": false
+ },
+ {
+  "id": "c2bcfa5ac8",
+  "title": "FISRF: Flexible Instructional Scaffolding Reflection Framework for Robotics Task Planning with Large Language Model",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.35686",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large Language Models (LLMs) are widely adopted for reflective error correction in task planning; however, existing approaches primarily rely on autonomous exploration, rendering them prone to accumulating erroneous experiences during early interactions with new environments. To address this limitation, we propose the ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Low-cost_robotic_arm_employed_as_an_autosampler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: EasyLabAuto, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Low-cost_robotic_arm_employed_as_an_autosampler.jpg"
+ },
+ {
+  "id": "8b398044b9",
+  "title": "They Will See Johnny's Message: A Measurement Study of Post-Quantum Cryptography Across Email Delivery Paths",
+  "category": "cybersecurity",
+  "category_label": "Cybersecurity",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.36145",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Harvest-now, decrypt-later (HNDL) attacks make the transition to post-quantum cryptography (PQC) urgent for email. This paper presents a systematic measurement that jointly examines PQC deployment across email service stages, negotiation by communicating peers, and usable message encryption.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Cybersecurity",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Cybersecurity is about protecting systems and data from misuse.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "cybersecurity-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Preventing-security-lapse_composite_image_by_removing_key_from_unlocked_self-locking_padlock_ASAP.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: MarkJFernandes, CC0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Cybersecurity'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Preventing-security-lapse_composite_image_by_removing_key_from_unlocked_self-locking_padlock_ASAP.png"
+ },
+ {
+  "id": "73a4c97537",
+  "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.36433",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Construction safety management still struggles to produce daily safety bulletins (DSBs), structured daily communications that identify site-specific hazards, convey safety protocols, and set preventive measures for workers. Manual DSB creation takes 2-3 hours daily and yields inconsistent quality, with 25% of crews nev",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
+  "id": "fcd87bbbea",
+  "title": "RoboAuto: Autonomous Robot Program Search through Multi-Level Physical Understanding",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.36533",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Recently, LLM-based autonomous agents have shown strong capabilities in iteratively generating, evaluating, and refining executable solutions. In robotic manipulation, Code-as-Policy lets these agents search over modular and editable robot programs.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
+ },
+ {
+  "id": "42fcbab12c",
+  "title": "God Does Not Play Dice: Enforcing Batch Invariance in Agentic Kernel Generation",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.36623",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language model (LLM) serving systems dynamically batch user requests for GPU execution, so the same request may be processed alongside different requests across runs. If the GPU kernels lack batch invariance (BI), this changing batch context can alter the numerical output for an unchanged input, undermining repro",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
+ },
+ {
+  "id": "1f4ea04009",
+  "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.36980",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language model (LLM) agents are extending agent-mediated commerce on the Web from shopping for consumers to operating businesses for sellers. In online-to-offline (O2O) commerce, decisions are issued through Web-based platforms but realized through costly physical execution.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
  },
  {
   "id": "0b0ca2ec59",
@@ -1197,6 +1424,38 @@
   "relevance": 3.0,
   "added": "2026-10-26T18:51:01.576545+00:00",
   "sample": false
+ },
+ {
+  "id": "304226c3ef",
+  "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+  "category": "energy",
+  "category_label": "Energy",
+  "published": "2026-10-26T13:13:31+00:00",
+  "publisher": "circuithub.com",
+  "url": "https://www.circuithub.com/post/unveiling-the-grid",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by circuithub.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: circuithub.com",
+   "Published: 2026-10-26",
+   "Topic: Energy",
+   "Found via Hacker News (community score 52)"
+  ],
+  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "data-analysis"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Collapsed_wind_turbine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Simiprof, CC0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.52,
+  "added": "2026-10-28T13:27:16.402607+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Collapsed_wind_turbine.jpg"
  },
  {
   "id": "1a80a05275",
@@ -2628,14 +2887,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
  },
  {
   "id": "64fe04606c",
@@ -2661,14 +2920,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
  },
  {
   "id": "18c478efbe",
@@ -2760,14 +3019,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
  },
  {
   "id": "59d526c8c5",
@@ -3183,14 +3442,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T08:52:25.455803+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
  },
  {
   "id": "e403d593e5",
@@ -3248,14 +3507,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 9.0,
   "added": "2026-10-23T08:34:46.695570+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
  },
  {
   "id": "151b469365",
@@ -3475,14 +3734,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 10.0,
   "added": "2026-10-23T08:31:29.828713+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
  },
  {
   "id": "494a8bceae",
@@ -3579,254 +3838,5 @@
   "added": "2026-10-23T08:31:29.828713+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Quantum_Full_Adder.png"
- },
- {
-  "id": "fcb69f1e52",
-  "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-22T21:39:58+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-22",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Daytime_Dynamo_Rocket_Launch_%289218456144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 7.0,
-  "added": "2026-10-23T08:31:29.828713+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Daytime_Dynamo_Rocket_Launch_(9218456144).jpg"
- },
- {
-  "id": "ad67f76de1",
-  "title": "Spiral’s Edge",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-22T21:35:38+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/image-article/spirals-edge/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-22",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 10.0,
-  "added": "2026-10-23T08:31:29.828713+00:00",
-  "sample": false
- },
- {
-  "id": "4dcdb95578",
-  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-22T17:44:06+00:00",
-  "publisher": "github.com",
-  "url": "https://github.com/NVIDIA/OpenShell",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by github.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: github.com",
-   "Published: 2026-10-22",
-   "Topic: Robotics",
-   "Found via Hacker News (community score 384)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Jasonprost, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.84,
-  "added": "2026-10-23T08:31:29.828713+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg"
- },
- {
-  "id": "864a753b84",
-  "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-22T16:20:37+00:00",
-  "publisher": "NASA",
-  "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-22",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_DESI194.5345+03.5358_74_flat_FINALok.tif?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 7.0,
-  "added": "2026-10-22T17:57:32.747225+00:00",
-  "sample": false
- },
- {
-  "id": "5ecc0a02e7",
-  "title": "The U.S. Power Grid",
-  "category": "energy",
-  "category_label": "Energy",
-  "published": "2026-10-22T15:20:04+00:00",
-  "publisher": "nomagicpill.site",
-  "url": "https://nomagicpill.site/knowledge/powergrid.html",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by nomagicpill.site. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: nomagicpill.site",
-   "Published: 2026-10-22",
-   "Topic: Energy",
-   "Found via Hacker News (community score 86)"
-  ],
-  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "data-analysis"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ford_Island_photovoltaic_panels_concept.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Office of the Secretary of the US Navy, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 2.86,
-  "added": "2026-10-26T08:58:06.785272+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Ford_Island_photovoltaic_panels_concept.png"
- },
- {
-  "id": "015ffcc2b1",
-  "title": "The alien space of science: Coherent but cognitively unavailable directions",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-22T13:25:01+00:00",
-  "publisher": "arxiv.org",
-  "url": "https://arxiv.org/abs/2603.01092",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by arxiv.org. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: arxiv.org",
-   "Published: 2026-10-22",
-   "Topic: Space",
-   "Found via Hacker News (community score 59)"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Daytime_Dynamo_Rocket_Launch_%289218456144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 2.59,
-  "added": "2026-10-23T09:47:07.234624+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Daytime_Dynamo_Rocket_Launch_(9218456144).jpg"
- },
- {
-  "id": "af634bb14d",
-  "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-  "category": "semiconductors",
-  "category_label": "Semiconductors",
-  "published": "2026-10-22T09:01:10+00:00",
-  "publisher": "infoq.com",
-  "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by infoq.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: infoq.com",
-   "Published: 2026-10-22",
-   "Topic: Semiconductors",
-   "Found via Hacker News (community score 50)"
-  ],
-  "context": "Semiconductors are the chips inside almost every modern device.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flexible_Printed_Circuit_Board_Glued_To_Support.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Richard Wheeler User:Zephyris, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 2.5,
-  "added": "2026-10-24T16:13:36.555629+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Flexible_Printed_Circuit_Board_Glued_To_Support.jpg"
- },
- {
-  "id": "48e99f4fba",
-  "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T07:41:29+00:00",
-  "publisher": "sciencealert.com",
-  "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by sciencealert.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: sciencealert.com",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Found via Hacker News (community score 69)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.69,
-  "added": "2026-10-23T17:25:27.541970+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
  }
 ]
