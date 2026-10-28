@@ -1,5 +1,290 @@
 [
  {
+  "id": "61bae4d506",
+  "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-28T05:39:46+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-28",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg?w=1584&#038;h=1184&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false
+ },
+ {
+  "id": "0b0ca2ec59",
+  "title": "MO-Playground: Massively Parallelized Multi-Objective Reinforcement Learning for Robotics",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2603.09237",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Multi-objective reinforcement learning (MORL) is a powerful tool to learn Pareto-optimal policy families across conflicting objectives. However, unlike traditional RL algorithms, existing MORL algorithms do not effectively leverage large-scale parallelization to concurrently simulate thousands of environments, thus fac",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/ADAM_robotic_arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Authors of the study: Alicia Mora, Adrian Prados, Alberto Mendez, Gonzalo Espino, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:ADAM_robotic_arm.jpg"
+ },
+ {
+  "id": "c9a5b8b2c6",
+  "title": "Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.36270",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Complex whole-body loco-manipulation requires executing diverse maneuvers, such as crouching, grasping, and locomotion, within a single long-horizon task. While performing simple pick-and-place behaviors is well-established, scaling to complex, long-horizon tasks remains difficult.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
+ },
+ {
+  "id": "ca62c21fd4",
+  "title": "A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.36789",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Humanoid dexterous hands are a core component of embodied intelligence, enabling robots to translate high-level intent into rich and adaptive physical interaction. However, existing designs remain constrained by a persistent trade-off among anthropomorphic kinematic complexity, mechanical robustness, load capacity and ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Virginia_Tech%27s_CHARLI_humanoid_robot_on_display_at_AAAI_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Jiuguang Wang, CC BY-SA 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech%27s_CHARLI_humanoid_robot_on_display_at_AAAI_2010.jpg"
+ },
+ {
+  "id": "1a0c033ddb",
+  "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.37652",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more demanding in-hand maneuvers, safety, such as not dropping the object, becomes critical, yet it is rarel",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Low-cost_robotic_arm_employed_as_an_autosampler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: EasyLabAuto, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Low-cost_robotic_arm_employed_as_an_autosampler.jpg"
+ },
+ {
+  "id": "d71ae427b6",
+  "title": "Toward Uncertainty-Aware and Generalizable Neural Decoding for Quantum LDPC Codes",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2510.06257",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum error correction (QEC) is essential for scalable quantum computing, yet decoding errors via conventional algorithms result in limited accuracy (i.e., suppression of logical errors) and high overheads, both of which can be alleviated by inference-based decoders. To date, such machine-learning (ML) decoders lack ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
+ },
+ {
+  "id": "f34b0f9bb1",
+  "title": "Universal Quantum Gate Set for Multi-Mode Schr\"odinger Cat States Stabilized by Non-Local Dissipation Engineering",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-28T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2607.13975",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Schr\\\"odinger cat states provide a hardware-efficient platform for bosonic quantum error correction by encoding logical information in protected manifolds of harmonic oscillators. While previous work has demonstrated the dissipative stabilization of multi-mode Schr\\\"odinger cat states as robust quantum memories, a fram",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-28",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
+ },
+ {
+  "id": "62b1fcdba2",
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-27T19:55:06+00:00",
+  "publisher": "brangus.io",
+  "url": "https://www.brangus.io/survival-llm",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by brangus.io. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: brangus.io",
+   "Published: 2026-10-27",
+   "Topic: Artificial Intelligence",
+   "Found via Hacker News (community score 340)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.4,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+ },
+ {
+  "id": "2a05fc2547",
+  "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-27T19:27:22+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-27",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-10-28T09:41:54.407059+00:00",
+  "sample": false
+ },
+ {
   "id": "a8e684ce56",
   "title": "NASA’s Neo Surveyor Sunshade",
   "category": "space",
@@ -2278,14 +2563,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 6.0,
   "added": "2026-10-23T09:54:31.846104+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
  },
  {
   "id": "94ebc5a6b4",
@@ -2475,14 +2760,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
  },
  {
   "id": "59d526c8c5",
@@ -2508,14 +2793,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
  },
  {
   "id": "9953a645b1",
@@ -2963,14 +3248,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 9.0,
   "added": "2026-10-23T08:34:46.695570+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
  },
  {
   "id": "151b469365",
@@ -3190,14 +3475,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 10.0,
   "added": "2026-10-23T08:31:29.828713+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
  },
  {
   "id": "494a8bceae",
@@ -3543,294 +3828,5 @@
   "added": "2026-10-23T17:25:27.541970+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
- },
- {
-  "id": "a54d1aa6de",
-  "title": "Faster to Science: A Letter to the Science Community",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-22T00:00:16+00:00",
-  "publisher": "NASA",
-  "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-22",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Satellite_Orbital_Elements.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: No machine-readable author provided. Ulli Griesheimer~commonswiki assumed (based, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-10-22T17:57:32.747225+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Satellite_Orbital_Elements.png"
- },
- {
-  "id": "6b1a80558e",
-  "title": "Watch Your Step: Anticipated Perception for Humanoid Locomotion",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29612",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Perceptive locomotion policies typically observe a dense robot-centric elevation map, although only the terrain beneath and around the next footsteps informs the control decision. Learned encoders compress the whole visual input, leaving the policy to work out which inputs matter while learning the baseline locomotion ",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:21:08.528194+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
- },
- {
-  "id": "1b4aec9041",
-  "title": "OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29761",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "With the advent of foundation models, robots are increasingly capable of understanding and executing explicitly specified human tasks. Extending these capabilities to open-ended tasks, however, requires robots to infer appropriate actions from the observed scene.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:21:08.528194+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "4df8a6a8b3",
-  "title": "Encoding a bosonic mode into qubits for simulating boson-matter interactions",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29762",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "We explore the space-time cost of encoding of a bosonic mode into a set of qubits via various encodings, and their resilience to noise. In particular, we compare the performance of the unary Fock state encoding, an unexplored encoding of Fock states into Dicke states (``Dicke'' encoding), and the binary quadrature enco",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Helium_dilution_refrigerator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Unknown author, CC BY-SA 2.5, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:21:08.528194+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Helium_dilution_refrigerator.jpg"
- },
- {
-  "id": "12ab936dfc",
-  "title": "Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29829",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "General-purpose robots must handle tasks, objects and environments they were never trained on, yet zero-shot generalization remains one of the least solved problems in physical AI. In digital AI, zero-shot capability grew with the volume and, above all, the diversity of training data, much of it sourced from the crowd.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Low-cost_robotic_arm_employed_as_an_autosampler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: EasyLabAuto, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:21:08.528194+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Low-cost_robotic_arm_employed_as_an_autosampler.jpg"
- },
- {
-  "id": "9eae795057",
-  "title": "High-fidelity and robust controlled-Z gates for superconducting transmon qubits. I. Intrinsic errors and decoherence",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30056",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Fault-tolerant quantum computing requires quantum gates that combine short duration, high fidelity, and robustness to noise. As quantum processors scale, robustness becomes increasingly important because exhaustive characterization and frequent recalibration of individual gates become impractical.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:21:08.528194+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
- },
- {
-  "id": "e14bc9358d",
-  "title": "Test-Time Motion Steering for Perceptive Humanoid Fall Recovery",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30061",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Humanoid fall recovery requires selecting a motion that suits both the surrounding scene and the task. The same fallen pose can admit several ways to stand, with different routes, support transitions, and final headings.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Willy Jackson, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:21:08.528194+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
- },
- {
-  "id": "804aa603dd",
-  "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29023",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Large language model (LLM) agents are often improved by iterating until a fixed verifier is done. Once that verifier saturates, the loop has nothing left to climb.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:10:31.280826+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "eeaf64c608",
-  "title": "PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-22T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.29030",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Currently, dexterous humanoid robot hands are widely considered the final hardware bottleneck that hampers generalist robots from physically assisting people at home and work. As conventional tendon-driven designs suffer from high cost, demanding maintenance, poor reliability, and short durability, alternative linkage-",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-22",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Virginia_Tech%27s_CHARLI_humanoid_robot_on_display_at_AAAI_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Jiuguang Wang, CC BY-SA 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-22T18:10:31.280826+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech%27s_CHARLI_humanoid_robot_on_display_at_AAAI_2010.jpg"
  }
 ]
