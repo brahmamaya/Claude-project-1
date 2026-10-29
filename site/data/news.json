@@ -1,5 +1,125 @@
 [
  {
+  "id": "bbddd73f5d",
+  "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-29T02:49:59+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-29",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-29T09:59:57.462375+00:00",
+  "sample": false
+ },
+ {
+  "id": "44e3e5f137",
+  "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+  "category": "semiconductors",
+  "category_label": "Semiconductors",
+  "published": "2026-10-29T00:25:45+00:00",
+  "publisher": "divagr.com",
+  "url": "https://divagr.com/blog/qwenputer",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by divagr.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: divagr.com",
+   "Published: 2026-10-29",
+   "Topic: Semiconductors",
+   "Found via Hacker News (community score 461)"
+  ],
+  "context": "Semiconductors are the chips inside almost every modern device.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flexible_Printed_Circuit_Board_Glued_To_Support.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Richard Wheeler User:Zephyris, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7,
+  "added": "2026-10-29T09:59:57.462375+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Flexible_Printed_Circuit_Board_Glued_To_Support.jpg"
+ },
+ {
+  "id": "af53f1e297",
+  "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-28T21:50:01+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.&#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said ",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-28",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-29T09:59:57.462375+00:00",
+  "sample": false
+ },
+ {
+  "id": "a70a0f7a37",
+  "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-28T18:59:44+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-28",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg?w=1920&amp;h=1371&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 8.0,
+  "added": "2026-10-29T09:59:57.462375+00:00",
+  "sample": false
+ },
+ {
   "id": "6b410a9fdd",
   "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
   "category": "space",
@@ -3109,14 +3229,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 6.0,
   "added": "2026-10-23T09:54:31.846104+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
  },
  {
   "id": "94ebc5a6b4",
@@ -3339,14 +3459,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:47:07.234624+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
  },
  {
   "id": "9953a645b1",
@@ -3405,14 +3525,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:00:41.944376+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
  },
  {
   "id": "8057dc8739",
@@ -3470,14 +3590,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-23T09:00:41.944376+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
  },
  {
   "id": "3fde963dbc",
@@ -3664,14 +3784,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 8.0,
   "added": "2026-10-23T08:52:25.455803+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
  },
  {
   "id": "4b94bfe19b",
@@ -3704,135 +3824,5 @@
   "added": "2026-10-23T08:52:25.455803+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
- },
- {
-  "id": "abb97a5ee5",
-  "title": "Self-Evolving Static Analysis via LLM Pseudo-Labeling",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30184",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Security bugs often slip past static analysis not because they are impossible to detect, but because detection rules have not yet been written for the code in front of us. New frameworks, APIs, and coding idioms continually create such gaps, leaving developers to discover failures and manually encode new rules.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-10-23T08:52:25.455803+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
- },
- {
-  "id": "e403d593e5",
-  "title": "Space-Time Optimisations for Early Fault-Tolerant Quantum Computation",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2511.08848",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Fault-tolerance is the future of quantum computing, ensuring error-corrected quantum computation that can be used for practical applications. Resource requirements for fault-tolerant quantum computing (FTQC) are daunting, and hence, compilation techniques must be designed to ensure resource efficiency.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Quantum_Full_Adder.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Omnissiahs hierophant, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-10-23T08:34:46.695570+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Quantum_Full_Adder.png"
- },
- {
-  "id": "16874d9cef",
-  "title": "CLEAR: Context Augmentation from Contrastive Learning of Experience via Agentic Reflection",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2604.07487",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Large language model agents rely on effective model context to obtain task-relevant information for decision-making. Many existing context engineering approaches primarily rely on the context generated from the past experience and retrieval mechanisms that reuse these context.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-10-23T08:34:46.695570+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
- },
- {
-  "id": "151b469365",
-  "title": "Noise redistribution by stabilizer codes: an organizing view of concatenated three-qubit codes",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.31007",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "We present an organizing framework for concatenated quantum error correction based on the observation that the syndrome projection of a stabilizer code reshapes the noise channel in a code-determined manner. For any stabilizer code, one level of QEC maps the physical noise to a block-diagonal logical channel whose diag",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Quantum_Full_Adder.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Omnissiahs hierophant, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-10-23T08:34:46.695570+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Quantum_Full_Adder.png"
  }
 ]
