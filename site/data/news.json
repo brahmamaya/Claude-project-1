@@ -1,5 +1,67 @@
 [
  {
+  "id": "9aedaf8680",
+  "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-29T13:27:34+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-29",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s26-012-jared-spiers.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-29T13:36:57.403233+00:00",
+  "sample": false
+ },
+ {
+  "id": "6017d0b01f",
+  "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+  "category": "energy",
+  "category_label": "Energy",
+  "published": "2026-10-29T10:44:49+00:00",
+  "publisher": "electrek.co",
+  "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by electrek.co. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: electrek.co",
+   "Published: 2026-10-29",
+   "Topic: Energy",
+   "Found via Hacker News (community score 122)"
+  ],
+  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "data-analysis"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Battery_lithium_CR-V3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Ntoshi, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 4.22,
+  "added": "2026-10-29T13:36:57.403233+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Battery_lithium_CR-V3.JPG"
+ },
+ {
   "id": "bbddd73f5d",
   "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
   "category": "space",
@@ -3759,70 +3821,5 @@
   "added": "2026-10-23T08:52:25.455803+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg"
- },
- {
-  "id": "6dad0a9f7c",
-  "title": "TRCA: Transition-wise Rubric Credit Assignment for Long-horizon LLM Agents",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2608.16156",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Long-horizon large language model (LLM) agents are typically optimized with sparse terminal outcomes, making fine-grained credit assignment across multi-step interactions difficult. Existing approaches either rely on process evaluators, which incur annotation and inference costs, or derive step-level credit from succes",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-10-23T08:52:25.455803+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
- },
- {
-  "id": "4b94bfe19b",
-  "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.28589",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Agentic robotics systems combine planners with robot harnesses to perform complex manipulation tasks. Recent work improves these systems through better harnesses and external memory, but relies on powerful closed-source models as planners and does not improve the planners' own capabilities.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Willy Jackson, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-10-23T08:52:25.455803+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
  }
 ]
