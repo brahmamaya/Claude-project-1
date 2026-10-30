@@ -1,5 +1,65 @@
 [
  {
+  "id": "d20dd0f99f",
+  "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-30T15:56:26+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-30",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false
+ },
+ {
+  "id": "2254c23f5d",
+  "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-30T14:51:21+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-30",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&#038;h=1020&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false
+ },
+ {
   "id": "b490500e7e",
   "title": "November’s Night Sky Notes: Light-Day Away",
   "category": "space",
@@ -58,6 +118,202 @@
   "relevance": 2.0,
   "added": "2026-10-30T10:03:39.054733+00:00",
   "sample": false
+ },
+ {
+  "id": "fef95ea849",
+  "title": "A Tutorial on Shape Servoing of Deformable Objects-Part I: Fundamentals",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.40559",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "In robotics, shape control (or shape servoing) refers to the automatic manipulation of a deformable object to achieve a desired shape. It involves a feedback loop that exploits the relation between robot motion and changes in the measured shape.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Large_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Large_robotic_arm_of_Tiangong.jpg"
+ },
+ {
+  "id": "3acc602c52",
+  "title": "Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.37727",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "In machine learning, symbolic reasoning approaches often rely on static architectures that hinder integration into deep neural networks and gradient-based optimization. To address this, we introduce the Native Predicate Neuron, a differentiable logic-reasoning neural module that enriches standard architectures with sym",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
+ },
+ {
+  "id": "4824871364",
+  "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2605.00425",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Reinforcement learning (RL) has substantially improved the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. However, effective agentic RL remains challenging: sparse outcome-only rewards provide limited guidance for assigning credit to individual steps within long i",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+ },
+ {
+  "id": "c55e1d86c1",
+  "title": "When Is Smaller Greener? Right-Sizing Language Models for Agentic AI",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.19345",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "AI agents use a large language model (LLM) to plan and act over many steps. Which model should an agent use, so that its tasks are completed reliably with the least energy, cost and time? We treat this as a multi-criteria decision problem in which comparisons per call can mislead: a task succeeds only if all its steps ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
+  "id": "7d3f63cc3a",
+  "title": "BEHAVIOR-Spatial Benchmark: Evaluating Spatial Understanding for Robotics",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.34051",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Robot tasks require grounding spatial language in physical scenes, but task success alone cannot establish whether spatial instructions are followed. We present BEHAVIOR-Spatial, a benchmark built on BEHAVIOR-1K that measures spatial question answering, point-based target grounding, and robot action to examine how VLM ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robotic_Arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: NASA/JPL/UA/Lockheed Martin, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Robotic_Arm.jpg"
+ },
+ {
+  "id": "3601386660",
+  "title": "Reinforcement learning to improve large language model-based automated code compliance systems",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2606.22402",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language model (LLM)-based approaches for automated code compliance (ACC) of building regulations are prone to generating incorrect and hallucinated computer-processable rules. This paper introduces P4IR, a two-stage framework that uses supervised fine-tuning (SFT) to instill domain knowledge in an LLM, followed ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T18:11:15.808583+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
  },
  {
   "id": "20a1934354",
@@ -3543,252 +3799,5 @@
   "relevance": 11.0,
   "added": "2026-10-24T08:10:01.586505+00:00",
   "sample": false
- },
- {
-  "id": "31e9312f4e",
-  "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-23T21:51:19+00:00",
-  "publisher": "NASA",
-  "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-23",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&#038;h=1084&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 6.0,
-  "added": "2026-10-24T08:10:01.586505+00:00",
-  "sample": false
- },
- {
-  "id": "8ad48a4cdb",
-  "title": "RS-25 Engine Tests at NASA Stennis",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-23T18:57:04+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-23",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 8.0,
-  "added": "2026-10-24T08:10:01.586505+00:00",
-  "sample": false
- },
- {
-  "id": "58812ea796",
-  "title": "NASA, Virginia Launch Power Partnership for Energy Security",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-23T17:50:21+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "NASA is helping to foster long-term energy security in Virginia.&#160; NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk dat",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-23",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-10-24T08:10:01.586505+00:00",
-  "sample": false
- },
- {
-  "id": "dfc671bd67",
-  "title": "Diamond Transistor",
-  "category": "semiconductors",
-  "category_label": "Semiconductors",
-  "published": "2026-10-23T14:20:15+00:00",
-  "publisher": "df.com",
-  "url": "https://www.df.com/diamond-transistor",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by df.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: df.com",
-   "Published: 2026-10-23",
-   "Topic: Semiconductors",
-   "Found via Hacker News (community score 53)"
-  ],
-  "context": "Semiconductors are the chips inside almost every modern device.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/DIY_Printed_Circuit_Board_%287059452663%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: kjackman, CC BY-SA 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.53,
-  "added": "2026-10-26T18:51:01.576545+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:DIY_Printed_Circuit_Board_(7059452663).jpg"
- },
- {
-  "id": "e0826a3e6a",
-  "title": "El Niño Then and Now",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-23T04:00:00+00:00",
-  "publisher": "NASA",
-  "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-23",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-10-23T08:31:29.828713+00:00",
-  "sample": false
- },
- {
-  "id": "a94385d0c4",
-  "title": "On the Structure of Quantum Finite-Level Systems: Decoherence-Free Subsystems, Quantum Nondemolition Variables, and Back-Action-Evading Measurements",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30616",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "The purpose of this paper is to conduct a comprehensive structural analysis of quantum finite-level systems in the Heisenberg picture, where the evolution of system observables is modeled by bilinear quantum stochastic differential equations (QSDEs). Firstly, real coordinate transformations that preserve commutation an",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Laser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Tom Trower, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T17:25:27.541970+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Laser.jpg"
- },
- {
-  "id": "3a2bbc4255",
-  "title": "Coherence and imaginarity of qubit states under vanishing Bargmann invariants",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30618",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Set coherence and set imaginarity are two important quantum resources defined by sets of states. We investigate tuples of qubit states under vanishing higher-order Bargmann invariants and show that their set coherence and set imaginarity are each related to whether they contain a pair of orthogonal states.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T17:25:27.541970+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
- },
- {
-  "id": "314e9c73cd",
-  "title": "A Topology-Guided GeoAI Agentic Framework for Urban Flood Screening",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30660",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Open-world geographic artificial intelligence (GeoAI) agents can transform public geospatial data into accessible decision support for real-world challenges, but must balance autonomous reasoning with reliable spatial analysis and human oversight. We present a topology-guided GeoAI agentic framework for urban flood scr",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T17:25:27.541970+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
  }
 ]
