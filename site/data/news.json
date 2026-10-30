@@ -1,5 +1,35 @@
 [
  {
+  "id": "b490500e7e",
+  "title": "November’s Night Sky Notes: Light-Day Away",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-30T10:00:00+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice gi",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-30",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.0,
+  "added": "2026-10-30T13:25:29.289676+00:00",
+  "sample": false
+ },
+ {
   "id": "92feff1a75",
   "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
   "category": "space",
@@ -28,6 +58,199 @@
   "relevance": 2.0,
   "added": "2026-10-30T10:03:39.054733+00:00",
   "sample": false
+ },
+ {
+  "id": "20a1934354",
+  "title": "Data-Efficient Unknown Attack Detection in IoT Networks Using Pretrained Language Models",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2602.12183",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "The rapid evolution of cyberattacks continues to drive the emergence of unknown (zero-day) threats, posing significant challenges for network intrusion detection systems in Internet of Things (IoT) networks. Existing machine learning and deep learning approaches typically rely on large labeled datasets, payload inspect",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-10-30T13:25:29.289676+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
+ },
+ {
+  "id": "e06d4c8e5e",
+  "title": "Q-MERGE: Parallelising Quantum State Preparation for Large-Scale Classical Data",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.04247",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum processing of classical data fundamentally relies on efficiently mapping classical datasets onto the amplitudes of quantum states. Preparing large amplitude-encoded states, however, remains a major bottleneck in quantum computing.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Quantum_Full_Adder.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Omnissiahs hierophant, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-10-30T13:25:29.289676+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Quantum_Full_Adder.png"
+ },
+ {
+  "id": "74a24c6b93",
+  "title": "DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.37799",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Human-level dexterity remains a central open problem in robotics, yet few simulation frameworks cover the full workflow of dexterous manipulation, from setting up a robot to collecting dexterous demonstrations and evaluating policies. We present DexSuite, an all-in-one simulation framework for dexterous manipulation bu",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Jasonprost, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T13:25:29.289676+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg"
+ },
+ {
+  "id": "4dd9aae985",
+  "title": "Force Sensing in a Recoverable Bosonic Quantum Memory",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.39208",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "In continuous-variable quantum information, sensing and quantum error correction in the same mode face an intrinsic trade-off: sensors must accumulate weak external displacements, whereas bosonic codes typically suppress such shifts as errors. Here, we establish compatibility by constructing finite-energy bosonic codes",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T13:25:29.289676+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
+ },
+ {
+  "id": "c56f2c150b",
+  "title": "UMI-Live for In-The-Wild Bimanual Robotics Data Collection",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.39385",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Universal Manipulation Interface (UMI) devices allow human experts to demonstrate tasks for robot learning without teleoperating physical robots. Using these demonstrations as training data still requires a consistent hardware setup, calibration, and data processing.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Blueblack_preview_featured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Phenoptix, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T13:25:29.289676+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Blueblack_preview_featured.jpg"
+ },
+ {
+  "id": "ec0d16a0bb",
+  "title": "ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-10-30T00:00:00-04:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2610.39429",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Multi-arm robot platforms, including bimanual and humanoid robots, have the capability to complete tasks with lower cycle times than single-arm systems, but they are more difficult to safely control due to the presence of multi-arm constraints. The paradigm of training generalist robot policies from massive datasets is",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-10-30",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Willy Jackson, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-10-30T13:25:29.289676+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
  },
  {
   "id": "c2e8d36249",
@@ -3567,231 +3790,5 @@
   "added": "2026-10-23T17:25:27.541970+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
- },
- {
-  "id": "b1374d2549",
-  "title": "A simple proof of unitary parallelization via port-based teleportation",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30761",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Port-based teleportation (PBT) is a variant of quantum teleportation that does not require corrections on the teleported state: starting with $N$ shared EPR states, Alice can teleport a qudit to Bob by performing a measurement on her system and informing Bob which of his $N$ `ports' to retrieve the state, up to infidel",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ogs-1_Optical_Ground_Station_1_in_Table_Mountain%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T17:25:27.541970+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Ogs-1_Optical_Ground_Station_1_in_Table_Mountain,_California.jpg"
- },
- {
-  "id": "e03e0a7072",
-  "title": "Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30810",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Loco-manipulation extends the workspace of conventional manipulation by combining mobility with physical interaction, while aerial loco-manipulation further expands this capability into three-dimensional space, enabling robots to reach environments inaccessible to ground-based systems. Moving to an aerial platform, how",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T17:25:27.541970+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
- },
- {
-  "id": "8ab823f5ec",
-  "title": "Robot Motion Transition with Human Motion Prior",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30817",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Humanoid motion-tracking policies can reproduce diverse behaviors, yet connecting independently acquired motions into a continuous sequence remains challenging. Interpolation connects boundary poses without considering whether their relative position, heading, and timing provide suitable conditions for a transition.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Blueblack_preview_featured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Phenoptix, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T17:25:27.541970+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Blueblack_preview_featured.jpg"
- },
- {
-  "id": "3a8594c530",
-  "title": "Normal-Form Characterization of Adaptivity and Entanglement in Pauli-Based Computation",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30315",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Pauli-based computation (PBC) is a measurement-based model of quantum computation that samples from output distributions of universal Clifford+$T$ circuits. Here, we provide a normal form (NF) that completely characterizes its adaptive and entanglement structures.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Laser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Tom Trower, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T09:54:31.846104+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Laser.jpg"
- },
- {
-  "id": "365b647662",
-  "title": "MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30334",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Designing and tuning reward functions remains one of the main challenges in building effective reinforcement learning (RL) pipelines for humanoid locomotion. While shaping rewards can accelerate learning, naively formulated terms often conflict with the desired behavior, overfit to a specific robot, or become unstable ",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Large_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T09:54:31.846104+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Large_robotic_arm_of_Tiangong.jpg"
- },
- {
-  "id": "84ee4cab4c",
-  "title": "HAWC-Leak: Heterogeneous Architecture Workload Classification utilizing Side-Channel Leakage",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30400",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Modern heterogeneous computing platforms, which integrate general-purpose processors with specialized accelerators such as FPGAs, have become the standard for high-performance and embedded applications. However, the shared physical resources of these systems introduce critical security vulnerabilities, where power cons",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T09:54:31.846104+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "fb18c080ba",
-  "title": "PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-10-23T00:00:00-04:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.30500",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Motion Diffusion Models (MDMs) can generate diverse and visually appealing human motion; yet, the resulting trajectories frequently violate physical constraints, limiting their downstream use in simulation and control. We present PhysibleMDM, a framework that promotes physical feasibility of MDM output by optimizing at",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-10-23",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robotic_Arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA/JPL/UA/Lockheed Martin, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 6.0,
-  "added": "2026-10-23T09:54:31.846104+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Robotic_Arm.jpg"
  }
 ]
