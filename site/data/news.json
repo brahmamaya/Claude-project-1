@@ -1,5 +1,35 @@
 [
  {
+  "id": "d5af49b425",
+  "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-10-30T19:31:02+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-10-30",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-10-31T09:40:45.954946+00:00",
+  "sample": false
+ },
+ {
   "id": "d20dd0f99f",
   "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
   "category": "space",
@@ -794,6 +824,38 @@
   "relevance": 5.0,
   "added": "2026-10-29T18:38:30.794147+00:00",
   "sample": false
+ },
+ {
+  "id": "3ac3d3b67d",
+  "title": "Turning a solar power system into its own backup",
+  "category": "energy",
+  "category_label": "Energy",
+  "published": "2026-10-29T18:10:33+00:00",
+  "publisher": "arstechnica.com",
+  "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by arstechnica.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: arstechnica.com",
+   "Published: 2026-10-29",
+   "Topic: Energy",
+   "Found via Hacker News (community score 50)"
+  ],
+  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "data-analysis"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ford_Island_photovoltaic_panels_concept.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Office of the Secretary of the US Navy, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.5,
+  "added": "2026-10-31T09:40:45.954946+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ford_Island_photovoltaic_panels_concept.png"
  },
  {
   "id": "e578a086da",
@@ -3281,14 +3343,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 7.0,
   "added": "2026-10-26T13:29:15.365413+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
  },
  {
   "id": "a35e7b9565",
@@ -3739,65 +3801,5 @@
   "added": "2026-10-24T11:28:56.405459+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
- },
- {
-  "id": "7e9b86a23e",
-  "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-23T22:39:39+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established i",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-23",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-10-24T08:10:01.586505+00:00",
-  "sample": false
- },
- {
-  "id": "b9c4156943",
-  "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-23T22:37:53+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano abo",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-23",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 11.0,
-  "added": "2026-10-24T08:10:01.586505+00:00",
-  "sample": false
  }
 ]
