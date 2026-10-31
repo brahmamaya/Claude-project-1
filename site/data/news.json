@@ -1,5 +1,37 @@
 [
  {
+  "id": "5be14df72c",
+  "title": "Malware uses LLMs to rank victims by how much they're worth",
+  "category": "cybersecurity",
+  "category_label": "Cybersecurity",
+  "published": "2026-10-31T14:29:03+00:00",
+  "publisher": "blog.talosintelligence.com",
+  "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by blog.talosintelligence.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: blog.talosintelligence.com",
+   "Published: 2026-10-31",
+   "Topic: Cybersecurity",
+   "Found via Hacker News (community score 117)"
+  ],
+  "context": "Cybersecurity is about protecting systems and data from misuse.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "cybersecurity-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Network_Patch_Panel_Clean_Long_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Robert.Harker, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Cybersecurity'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.17,
+  "added": "2026-10-31T17:21:43.555194+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Network_Patch_Panel_Clean_Long_Top.jpg"
+ },
+ {
   "id": "d5af49b425",
   "title": "NASA Releases MAX POWER Key Events for Media, Participants",
   "category": "space",
@@ -3771,35 +3803,5 @@
   "added": "2026-10-25T08:27:27.393921+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:A_highly_realistic_close-up_image_of_a_human_hand_holding_a_microchip_labeled_33_now_set_against_a_mp4xhlsonc5wr60xu0g0_0.png"
- },
- {
-  "id": "8acda1e9f0",
-  "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-  "category": "semiconductors",
-  "category_label": "Semiconductors",
-  "published": "2026-10-24T09:58:27+00:00",
-  "publisher": "github.com",
-  "url": "https://github.com/Zagitta/gpu-unlock",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by github.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: github.com",
-   "Published: 2026-10-24",
-   "Topic: Semiconductors",
-   "Found via Hacker News (community score 236)"
-  ],
-  "context": "Semiconductors are the chips inside almost every modern device.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pitfall_II_printed_circuit_board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JoRgE-1987, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 4.36,
-  "added": "2026-10-25T08:27:27.393921+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Pitfall_II_printed_circuit_board.jpg"
  }
 ]
