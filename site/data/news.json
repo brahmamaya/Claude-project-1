@@ -1,5 +1,38 @@
 [
  {
+  "id": "8f7e0709d3",
+  "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-01T13:47:24+00:00",
+  "publisher": "tomshardware.com",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by tomshardware.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: tomshardware.com",
+   "Published: 2026-11-01",
+   "Topic: Artificial Intelligence",
+   "Found via Hacker News (community score 103)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.03,
+  "added": "2026-11-01T18:05:42.190032+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+ },
+ {
   "id": "efe8a88fa2",
   "title": "APOD: 2026 November 1 – Colors of the Moon",
   "category": "space",
@@ -92,6 +125,38 @@
   "added": "2026-11-01T10:29:37.254239+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Satellite_Orbital_Elements.png"
+ },
+ {
+  "id": "63035a96f5",
+  "title": "Understanding Email Encryption",
+  "category": "cybersecurity",
+  "category_label": "Cybersecurity",
+  "published": "2026-10-30T20:55:56+00:00",
+  "publisher": "fastmail.com",
+  "url": "https://www.fastmail.com/blog/email-encryption/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by fastmail.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: fastmail.com",
+   "Published: 2026-10-30",
+   "Topic: Cybersecurity",
+   "Found via Hacker News (community score 90)"
+  ],
+  "context": "Cybersecurity is about protecting systems and data from misuse.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "cybersecurity-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ramsey_History_Network_meeting_in_the_New_Brighton_History_Center_%28Bulwer_Junction_Depot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Myotus, CC0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Cybersecurity'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.9,
+  "added": "2026-11-01T18:05:42.190032+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ramsey_History_Network_meeting_in_the_New_Brighton_History_Center_(Bulwer_Junction_Depot).jpg"
  },
  {
   "id": "d5af49b425",
@@ -3738,70 +3803,5 @@
   "added": "2026-10-26T08:58:06.785272+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
- },
- {
-  "id": "86bde11cd2",
-  "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-10-25T21:11:31+00:00",
-  "publisher": "minimaxir.com",
-  "url": "https://minimaxir.com/2026/10/cheap-llms/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by minimaxir.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: minimaxir.com",
-   "Published: 2026-10-25",
-   "Topic: Artificial Intelligence",
-   "Found via Hacker News (community score 295)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.95,
-  "added": "2026-10-26T08:58:06.785272+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "9423c8063b",
-  "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-  "category": "biotechnology",
-  "category_label": "Biotechnology",
-  "published": "2026-10-25T19:29:16+00:00",
-  "publisher": "arstechnica.com",
-  "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by arstechnica.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: arstechnica.com",
-   "Published: 2026-10-25",
-   "Topic: Biotechnology",
-   "Found via Hacker News (community score 189)"
-  ],
-  "context": "Biotechnology uses biology, such as genes and proteins, to build medicines and materials.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "data-analysis"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Human_tissue_PRR27_RNA_sequencing_analysis_-_Normal_tissue.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NCBI, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Biotechnology'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.89,
-  "added": "2026-10-26T08:58:06.785272+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Human_tissue_PRR27_RNA_sequencing_analysis_-_Normal_tissue.png"
  }
 ]
