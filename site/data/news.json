@@ -1,5 +1,258 @@
 [
  {
+  "id": "32f654e7a5",
+  "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-05T01:43:21+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.&#160; The crewed X-70 f",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-05",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png?w=1672",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false
+ },
+ {
+  "id": "1ea59274d8",
+  "title": "RAGAM-AI: A Hybrid Reinforcement Learning based Agentic approach powered by Generative AI for Edge Resource Management",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-05T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.06554",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Resource management for distributed edge networks hosting different services has been handled efficiently using Reinforcement learning (RL). Reward generalization in complex workflows is still an open issue within the RL realm.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-05",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
+  "id": "f41ab269ce",
+  "title": "Robust Geometric Gates for QCCD Architecture",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-05T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.06136",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "The trapped-ion quantum charge-coupled device (QCCD) is a promising route toward scalable quantum computing. However, the frequency offset during shuttling operations introduce significant decoherence and control errors, severely degrading gate fidelity on transported ions.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-05",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
+ },
+ {
+  "id": "71e5948098",
+  "title": "Working With Measurement-Based Computations on Qudits",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-05T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2606.30525",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Measurement-based quantum computing is a universal model of quantum computation in which successive product measurements of an entangled resource state drive the computation. The non-deterministic nature of measurements necessitates adaptivity to ensure an overall deterministic computation.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-05",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ogs-1_Optical_Ground_Station_1_in_Table_Mountain%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: NASA, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ogs-1_Optical_Ground_Station_1_in_Table_Mountain,_California.jpg"
+ },
+ {
+  "id": "17d63769b0",
+  "title": "Quantum error correcting codes from quiver moduli: Grassmannians, cyclic monodromy, and argyle collision divisors",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-05T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.05526",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Building on aspects of a recent diagrammatic field-theory programme for quantum error correction put forward by the first-named author (arXiv:2607.08911), we construct exact finite-dimensional codes from twisted cyclic and argyle quiver moduli on the projective line. A regular fibre of the node-labelled cyclic Hitchin ",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-05",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
+ },
+ {
+  "id": "15b0c7f6dd",
+  "title": "GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-05T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.05754",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "We study physics-based retargeting of human demonstrations for robot learning: finding robot controls that reproduce reference motions under contact dynamics. We propose GRASP (Gradient Recovery from Archived Samples for Proposals), which combines sampling-based exploration with gradient-guided refinement without requi",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-05",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
+ },
+ {
+  "id": "a0b2c1c1f6",
+  "title": "Resetting a Superconducting Qubit with a Compact Colder Resistive Dissipator below the Qubit Frequency",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-05T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.06216",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Efficient qubit reset has become a key requirement for large-scale superconducting quantum processors, as initialization fidelity increasingly lags behind gate performance and quantum error correction demands rapid, high-fidelity state re-initialization. This work proposes a compact on-chip dissipator consisting of two",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-05",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
+ },
+ {
+  "id": "3285fd735b",
+  "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-04T21:04:10+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-04",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false
+ },
+ {
   "id": "2e62bc2ded",
   "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
   "category": "space",
@@ -118,6 +371,36 @@
   "relevance": 7.0,
   "added": "2026-11-04T20:00:03.707286+00:00",
   "sample": false
+ },
+ {
+  "id": "00f4ce2f27",
+  "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+  "category": "semiconductors",
+  "category_label": "Semiconductors",
+  "published": "2026-11-04T11:02:23+00:00",
+  "publisher": "aroundprague.cz",
+  "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by aroundprague.cz. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: aroundprague.cz",
+   "Published: 2026-11-04",
+   "Topic: Semiconductors",
+   "Found via Hacker News (community score 61)"
+  ],
+  "context": "Semiconductors are the chips inside almost every modern device.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flexible_Printed_Circuit_Board_Glued_To_Support.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Richard Wheeler User:Zephyris, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.61,
+  "added": "2026-11-05T10:58:31.063110+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Flexible_Printed_Circuit_Board_Glued_To_Support.jpg"
  },
  {
   "id": "dd6ec5aeda",
@@ -3533,277 +3816,5 @@
   "relevance": 3.0,
   "added": "2026-10-29T18:38:30.794147+00:00",
   "sample": false
- },
- {
-  "id": "01d554e289",
-  "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-29T15:21:23+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia [&#8230;].",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-29",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-10-29T18:38:30.794147+00:00",
-  "sample": false
- },
- {
-  "id": "58d66dd5f0",
-  "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-29T15:10:18+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-29",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-10-29T18:38:30.794147+00:00",
-  "sample": false
- },
- {
-  "id": "ca098cb80c",
-  "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-29T15:06:40+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. &#8220;We&#8217;ve had some unnamed companies ask if we have any ",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-29",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/03/isam-state-of-play.jpg?w=872",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-10-29T18:38:30.794147+00:00",
-  "sample": false
- },
- {
-  "id": "cffff9684f",
-  "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-29T14:49:27+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-29",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 7.0,
-  "added": "2026-10-29T18:38:30.794147+00:00",
-  "sample": false
- },
- {
-  "id": "0044251aee",
-  "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-29T14:01:01+00:00",
-  "publisher": "NASA",
-  "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-29",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M4BZ6G5147CKYXY9C9SY3D9F.jpg?w=1043&#038;h=1536&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-10-29T18:38:30.794147+00:00",
-  "sample": false
- },
- {
-  "id": "9aedaf8680",
-  "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-29T13:27:34+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-29",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s26-012-jared-spiers.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-10-29T13:36:57.403233+00:00",
-  "sample": false
- },
- {
-  "id": "6017d0b01f",
-  "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-  "category": "energy",
-  "category_label": "Energy",
-  "published": "2026-10-29T10:44:49+00:00",
-  "publisher": "electrek.co",
-  "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by electrek.co. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: electrek.co",
-   "Published: 2026-10-29",
-   "Topic: Energy",
-   "Found via Hacker News (community score 122)"
-  ],
-  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "data-analysis"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Battery_lithium_CR-V3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Ntoshi, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 4.22,
-  "added": "2026-10-29T13:36:57.403233+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Battery_lithium_CR-V3.JPG"
- },
- {
-  "id": "bbddd73f5d",
-  "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-10-29T02:49:59+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-10-29",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-10-29T09:59:57.462375+00:00",
-  "sample": false
- },
- {
-  "id": "44e3e5f137",
-  "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-  "category": "semiconductors",
-  "category_label": "Semiconductors",
-  "published": "2026-10-29T00:25:45+00:00",
-  "publisher": "divagr.com",
-  "url": "https://divagr.com/blog/qwenputer",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by divagr.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: divagr.com",
-   "Published: 2026-10-29",
-   "Topic: Semiconductors",
-   "Found via Hacker News (community score 461)"
-  ],
-  "context": "Semiconductors are the chips inside almost every modern device.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flexible_Printed_Circuit_Board_Glued_To_Support.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Richard Wheeler User:Zephyris, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 7,
-  "added": "2026-10-29T09:59:57.462375+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Flexible_Printed_Circuit_Board_Glued_To_Support.jpg"
  }
 ]
