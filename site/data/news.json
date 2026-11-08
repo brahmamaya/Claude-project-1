@@ -1,5 +1,35 @@
 [
  {
+  "id": "616c0e5148",
+  "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-08T15:26:38+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-08",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-11-08T18:03:52.071854+00:00",
+  "sample": false
+ },
+ {
   "id": "5e9d3fd0e5",
   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
   "category": "semiconductors",
@@ -3787,37 +3817,5 @@
   "added": "2026-11-02T16:29:10.596884+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Drone_Flying_Eye.jpg"
- },
- {
-  "id": "e9c8e1c029",
-  "title": "A complete analytical characterization of optimal collision-free motion for two robots",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-02T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.41558",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Collision-free motion planning for multi-agent robotic systems remains an active research area because of the complexity of coordinating robot trajectories, with applications ranging from coordinated drone shows to autonomous operations on land, in the air, and on water. Importantly, the analytical difficulty of noncon",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-02",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Yoram_Koren_and_robotic_arm.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Israeli Institute of Technology, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-11-02T16:29:10.596884+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Yoram_Koren_and_robotic_arm.png"
  }
 ]
