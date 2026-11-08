@@ -1,5 +1,35 @@
 [
  {
+  "id": "5e9d3fd0e5",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "category": "semiconductors",
+  "category_label": "Semiconductors",
+  "published": "2026-11-08T10:22:04+00:00",
+  "publisher": "github.com",
+  "url": "https://github.com/synchopate/llama-modchip",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by github.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: github.com",
+   "Published: 2026-11-08",
+   "Topic: Semiconductors",
+   "Found via Hacker News (community score 52)"
+  ],
+  "context": "Semiconductors are the chips inside almost every modern device.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pitfall_II_printed_circuit_board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: JoRgE-1987, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.52,
+  "added": "2026-11-08T13:47:33.102270+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Pitfall_II_printed_circuit_board.jpg"
+ },
+ {
   "id": "8a4cc8d295",
   "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
   "category": "space",
@@ -3789,38 +3819,5 @@
   "added": "2026-11-02T16:29:10.596884+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Yoram_Koren_and_robotic_arm.png"
- },
- {
-  "id": "3e208054ad",
-  "title": "How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-02T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2610.41885",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Large language model (LLM)-based agents interact with external tools through protocols such as the Model Context Protocol (MCP), producing tool-call traces that may expose behavioral signals about users. In this work, we systematically study the risk of user-profile inference from MCP tool-call traces, where observers ",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-02",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-11-02T16:29:10.596884+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
  }
 ]
