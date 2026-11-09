@@ -1,5 +1,185 @@
 [
  {
+  "id": "2efbd66871",
+  "title": "Rubies on Mars?",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-09T22:27:12+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/blog/rubies-on-mars/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-09",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg?w=1648&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false
+ },
+ {
+  "id": "422fb850b0",
+  "title": "La NASA busca a la próxima generación de astronautas",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-09T19:27:20+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-09",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false
+ },
+ {
+  "id": "d544226bf8",
+  "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-09T18:55:50+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the m",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-09",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg?w=2048&#038;h=2048&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false
+ },
+ {
+  "id": "1ade761a8a",
+  "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-09T17:42:42+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-09",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg?w=1200",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 9.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false
+ },
+ {
+  "id": "f78cfd6f34",
+  "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-09T17:36:33+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de [&#8230;].",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-09",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cpc-logistics-actionshot-1.png?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false
+ },
+ {
+  "id": "120d17002b",
+  "title": "Astronauts Across Generations Share the Stage",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-09T16:56:29+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA&#8217;s Kennedy Space Center Visitor Complex in Merritt Island, Florida.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-09",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false
+ },
+ {
   "id": "e8a054613f",
   "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
   "category": "space",
@@ -58,6 +238,38 @@
   "relevance": 5.0,
   "added": "2026-11-09T16:46:39.164938+00:00",
   "sample": false
+ },
+ {
+  "id": "9202035812",
+  "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+  "category": "energy",
+  "category_label": "Energy",
+  "published": "2026-11-09T14:31:39+00:00",
+  "publisher": "anthropocenemagazine.org",
+  "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by anthropocenemagazine.org. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: anthropocenemagazine.org",
+   "Published: 2026-11-09",
+   "Topic: Energy",
+   "Found via Hacker News (community score 235)"
+  ],
+  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "data-analysis"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Solar_Panels_05_%28RaBoe%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Ra Boe, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.35,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Solar_Panels_05_(RaBoe).jpg"
  },
  {
   "id": "5aa2811f45",
@@ -121,6 +333,201 @@
   "relevance": 5.0,
   "added": "2026-11-09T11:35:41.597199+00:00",
   "sample": false
+ },
+ {
+  "id": "29b5beb4b6",
+  "title": "DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-09T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2606.23431",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Fine-grained, bimanual dexterous manipulation remains a foundational challenge in robotics. Embodiment gaps hinder accurate kinematic mapping, and visual tracking alone does not regulate contact forces.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-09",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Large_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Large_robotic_arm_of_Tiangong.jpg"
+ },
+ {
+  "id": "bd98e7aa89",
+  "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-09T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.08613",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar human communities. Yet existing evaluations largely test whether agents can recognize or apply norms they may already know, rather than whether they",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-09",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+ },
+ {
+  "id": "e50103bab4",
+  "title": "Empirical Study of Post-Quantum Cryptography Adoption Status in SSH Infrastructure",
+  "category": "cybersecurity",
+  "category_label": "Cybersecurity",
+  "published": "2026-11-09T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.09703",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "With the anticipated arrival of Q-day, quantum computers threaten current cryptographic schemes for encryption and digital signatures. In response, major content delivery networks and cloud service providers are already adopting Post-Quantum Cryptography (PQC).",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-09",
+   "Topic: Cybersecurity",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Cybersecurity is about protecting systems and data from misuse.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "cybersecurity-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HHKB_Pro_JP_-_keyboard_layout_editor_-_final.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Deskthority user 'Tuxsavvy', Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Cybersecurity'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:HHKB_Pro_JP_-_keyboard_layout_editor_-_final.png"
+ },
+ {
+  "id": "f0c9e4b205",
+  "title": "Autonomous Whole-body Loco-manipulation Using a Snake Robot",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-09T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.09777",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Snake robots can leverage their hyper-redundant morphology for both locomotion and manipulation through distributed body contact but whole-body loco-manipulation is particularly challenging since the entire body serves simultaneously as propulsive mechanism and manipulation tool Prior work on wheeled legged and snake r",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-09",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robotic_Arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: NASA/JPL/UA/Lockheed Martin, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Robotic_Arm.jpg"
+ },
+ {
+  "id": "f47122c064",
+  "title": "Large Language Model Deployment on Resource-Constrained Edge Devices: A Practitioners Survey",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-09T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.09075",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large Language Models (LLMs) have transformed many areas of artificial intelligence (AI), but their substantial resource requirements limit their deployment on mobile and edge devices. Although LLMs have demonstrated impressive capabilities in various applications, the next challenge is deploying these models on resour",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-09",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
+ },
+ {
+  "id": "0f95e7fdab",
+  "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi-Agent Systems",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-09T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2609.08572",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large language model (LLM)-based multi-agent systems (MAS) achieve strong performance by employing specialized multiple agents, yet their performance depends on the prompt design of each agent. For MAS prompt optimization, textual gradient methods that guide prompt updates using natural-language feedback have emerged a",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-09",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 7.0,
+  "added": "2026-11-09T22:41:08.673967+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
  },
  {
   "id": "0186ff350c",
@@ -3270,14 +3677,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 8.0,
   "added": "2026-11-03T19:46:43.311312+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
  },
  {
   "id": "6ca4b0633e",
@@ -3408,421 +3815,5 @@
   "added": "2026-11-03T14:35:17.102342+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Flying_drone_in_Holland.jpg"
- },
- {
-  "id": "e1e80c9ba4",
-  "title": "WorldSketch: Sketching World Models for Zero-Shot Mobile Manipulation",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.00513",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Most agentic robotic systems use vision-language models (VLMs) either to orchestrate predefined skills or to directly generate actions, constraints, and control programs. The former is limited by the available skill library, while the latter requires VLMs to reason about precise geometry and contact.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Large_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-03T14:35:17.102342+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Large_robotic_arm_of_Tiangong.jpg"
- },
- {
-  "id": "3386e3ca96",
-  "title": "MOST: Memory of Object States and Task Progress for Long-Horizon Mobile Manipulation",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.00734",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Long-horizon embodied manipulation requires policies to act on information that is no longer visible. Modified objects may leave the field of view, while completed subtasks continue to constrain future actions.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Drone_Flying_Eye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Flying Eye, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-03T14:35:17.102342+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Drone_Flying_Eye.jpg"
- },
- {
-  "id": "21b5e1db4c",
-  "title": "ODE Policy: Robot Learning via Action Dynamics, Not Actions",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.01729",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Most robot policies, whether trained by imitation learning (IL) or reinforcement learning (RL), map observations to action values at discrete control steps and leave the continuity of physical motion to be learned implicitly. We propose ODE policy, which learns the dynamics of the action rather than the action itself.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robotic_Arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA/JPL/UA/Lockheed Martin, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-03T14:35:17.102342+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Robotic_Arm.jpg"
- },
- {
-  "id": "31cb0eabd7",
-  "title": "Neuro Inspired Robotics: What Robot Learning Can Borrow from the Sensorimotor Brain",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.02510",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Robot policies still fail at everyday manipulation: an unfamiliar task, an object never held before, a scene that changes mid-motion, a skill that should improve with use. They fail despite pretraining on over a million trajectories, pooled from dozens of robots at great expense, while a child acquires all of these abi",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Blueblack_preview_featured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Phenoptix, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-03T14:35:17.102342+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Blueblack_preview_featured.jpg"
- },
- {
-  "id": "dfd2d0d9b5",
-  "title": "Discovering Models for Experimental Quantum Systems with Agentic AI",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.00620",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "A central obstacle in realizing color center cavity-QED-based quantum technologies is inhomogeneity, or disorder, among individual emitters. As the number of emitters increases, so does the complexity of the experimental data, making it difficult to quantify the present physical mechanisms of disorder.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 11.0,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
- },
- {
-  "id": "9fe6b83f34",
-  "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.00138",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Existing large language model (LLM) backdoor attacks operate primarily in chat settings, where the risk is bounded by free-form text outputs. AI agents remove that bound by performing actions and executing commands on the user's machine.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 10.0,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
- },
- {
-  "id": "25d2c3d641",
-  "title": "Can Agentic AI Undermine Its Own Assurance Loop? Closed-Loop Dependency Assurance for Cognitive Network Digital Twins",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.00838",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Agentic Artificial Intelligence (AI) and Network Digital Twins (NDTs) are increasingly combined to form Cognitive Digital Twins (CDTs) that translate operational intents into network changes and support closed-loop management. However, a network change may achieve its intended objective while disrupting the monitoring ",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 10.0,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
- },
- {
-  "id": "e6ea185ebf",
-  "title": "MAESTRO: Orchestrating Robotics Modules with Coding Agents for Zero-Shot Generalist Robots",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2511.00917",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Today's dominant route to generalist robots scales robotics data to train end-to-end policies. We instead use a vision-language model (VLM) as a coding agent that writes robot programs using a curated library of perception, planning, and control tools.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Medell%C3%ADn_-_Nada_de_hacer_el_gili_con_drones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Zarateman, CC0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 10.0,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Medell%C3%ADn_-_Nada_de_hacer_el_gili_con_drones.jpg"
- },
- {
-  "id": "3f53f68380",
-  "title": "Multicopy teleportation and quantum program retrieval on superconducting quantum hardware",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.00874",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Correction-free teleportation protocols offer a probabilistic route around the limits imposed by the quantum no-programming theorem, but have remained largely theoretical. Here, we experimentally implement and benchmark correction-free multicopy teleportation on noisy superconducting quantum hardware.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Helium_dilution_refrigerator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Unknown author, CC BY-SA 2.5, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Helium_dilution_refrigerator.jpg"
- },
- {
-  "id": "682c413367",
-  "title": "Qyantram: A Transparent and Verifiable Quantum Computing Platform",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-11-03T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.03262",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Most quantum circuit platforms focus on idealized circuit assembly and simulation, hiding hardware compilation, error identification, and variational model training behind black-box operations. QYANTRAM addresses this gap through an open platform comprising four subsystems, built around evidence-backed results and inde",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-03",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Laser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Tom Trower, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Laser.jpg"
- },
- {
-  "id": "66e926530e",
-  "title": "LLMs are not superhuman at reading and writing neural network weights",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-02T22:26:53+00:00",
-  "publisher": "seangoedecke.com",
-  "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by seangoedecke.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: seangoedecke.com",
-   "Published: 2026-11-02",
-   "Topic: Artificial Intelligence",
-   "Found via Hacker News (community score 65)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Confinamento_de_data_center-es.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: CWB Metal, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.65,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Confinamento_de_data_center-es.png"
- },
- {
-  "id": "f342a26725",
-  "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-02T21:35:59+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-02",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg?w=1536",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-11-02T21:54:55.367555+00:00",
-  "sample": false
- },
- {
-  "id": "4e865d9a13",
-  "title": "TB 26-09 Measured Hammer-Tap Inputs",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-02T20:47:41+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-02",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-11-02T21:54:55.367555+00:00",
-  "sample": false
  }
 ]
