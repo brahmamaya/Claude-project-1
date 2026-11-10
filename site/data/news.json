@@ -1,5 +1,95 @@
 [
  {
+  "id": "0c075ce899",
+  "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-10T19:22:45+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers).",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-10",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false
+ },
+ {
+  "id": "b0a4ee5508",
+  "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-10T18:06:33+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosm",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-10",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg?w=2048",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 7.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false
+ },
+ {
+  "id": "f1e81eb747",
+  "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-10T16:00:26+00:00",
+  "publisher": "NASA",
+  "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our sol",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-10",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&#038;h=1593&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 5.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false
+ },
+ {
   "id": "262906979a",
   "title": "CHAPEA Crew Leaves a Mark",
   "category": "space",
@@ -88,6 +178,200 @@
   "relevance": 3.0,
   "added": "2026-11-10T11:15:09.030599+00:00",
   "sample": false
+ },
+ {
+  "id": "586275823b",
+  "title": "Fade to... Red? Scheduling Coloured Noise Exploration Supports Efficient Robot Learning with Reduced Movement Jerk",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.11868",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Exploration in deep reinforcement learning (RL) for continuous control is commonly driven by temporally uncorrelated Gaussian (white) action noise, which leads to jerky motions with locally constrained exploration. In contrast, temporally correlated coloured noise, particularly pink noise, has been shown to support mor",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
+ },
+ {
+  "id": "bfa66c4693",
+  "title": "SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.12102",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Large-scale representation learning has produced public foundation models that provide strong general-purpose visual features. However, their pretraining objectives are not designed for robot representation learning, so the resulting embeddings tend to emphasize global semantics rather than the temporally sensitive rep",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/ADAM_robotic_arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Authors of the study: Alicia Mora, Adrian Prados, Alberto Mendez, Gonzalo Espino, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:ADAM_robotic_arm.jpg"
+ },
+ {
+  "id": "40453a70dd",
+  "title": "Embodied First Exam",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.12177",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Early successes on agentic robotics point to a potential paradigm shift toward using coding agents to control robots. Existing robotics benchmarks are built around visuomotor policy learning, leaving it open whether coding agents can reliably control diverse robots under physical-world constraints.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Flying_drone_in_Holland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Peter van der Sluijs, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Flying_drone_in_Holland.jpg"
+ },
+ {
+  "id": "f768f4dbd4",
+  "title": "PARIS: A multi-agent LLM framework for end-to-end, PRISMA-guided systematic literature reviews with pre-synthesis corpus quality assessment",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.12222",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Systematic literature reviews (SRs) remain slow and labor-intensive, and most automation tools address single stages of the workflow. We present PARIS (PRISMA Agentic Research Intelligence System), an open-source framework in which a conductor agent running in Claude Code orchestrates 15 specialized large language mode",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
+  "id": "1c8fcb2678",
+  "title": "KR A1: Design and Preliminary Evaluation of a Humanoid-Robot Interaction Prototype Integrating Personalized Voice Synthesis, Contextual Dialogue, and Emotion-Aware Response Generation",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.09900",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "This paper presents the design and preliminary evaluation of KR A1, a humanoid-robot interaction prototype that integrates personalized voice synthesis, contextual dialogue processing, and emotion-aware response generation for potential mental-healthcare applications. The system architecture combines a locally hosted l",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+ },
+ {
+  "id": "327588ca85",
+  "title": "Sigma-LeWM: Learning World Models via S-Information for Robot Control",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.12732",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "World models have increasingly been applied as a model-based control method for robotics tasks such as manipulation and locomotion. While early world model architectures relied on decoders to prevent mode collapse and learn a predictable latent space, recent works on world models, such as Joint Embedding Predictive Arc",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Yoram_Koren_and_robotic_arm.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Israeli Institute of Technology, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T19:59:13.681247+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Yoram_Koren_and_robotic_arm.png"
  },
  {
   "id": "513f6aefc4",
@@ -3525,295 +3809,5 @@
   "added": "2026-11-04T14:49:36.754853+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "88555d9253",
-  "title": "A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.03825",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "In robotics, shape control, or shape servoing, refers to the automatic manipulation of a deformable object toward a desired shape. This article is the second of a two-part tutorial on data-driven, Jacobian-based shape control, in which the deformation Jacobian, a local model of how robot motion changes the measured sha",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Low-cost_robotic_arm_employed_as_an_autosampler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: EasyLabAuto, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-04T14:49:36.754853+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Low-cost_robotic_arm_employed_as_an_autosampler.jpg"
- },
- {
-  "id": "d5a9879b54",
-  "title": "El Agente F'armaco: A Scalable AI Scientist for Drug Discovery",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.03832",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Computational drug discovery offers a growing range of tools for proposing and evaluating molecules, but combining them and deciding what to do next still requires substantial expert effort. Here, we introduce El Agente F\\'armaco, an AI scientist that uses modern large language model (LLM) technology to turn discovery ",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-04T14:49:36.754853+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
- },
- {
-  "id": "16698b7be6",
-  "title": "ActOR: Ambient AI-Based Agentic Orchestration for Humanoid Autonomy in Operating Rooms",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.04255",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Operating rooms (ORs) increasingly contain ambient sensing infrastructure to enable AI-based optimization of workflows and utilization. We pursue an alternative path: using ambient AI to guide robot action and optimize utilization.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/ADAM_robotic_arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Authors of the study: Alicia Mora, Adrian Prados, Alberto Mendez, Gonzalo Espino, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-04T14:49:36.754853+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:ADAM_robotic_arm.jpg"
- },
- {
-  "id": "e4df239081",
-  "title": "Learnings and Pitfalls from AI-Assisted A/B Experimentation at Scale",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.04515",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "A/B testing underpins product decisions by providing trustworthy, reproducible quantification of proposed changes' effects. Growing large language model (LLM) capabilities have motivated efforts to automate experimentation workflows.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-04T14:49:36.754853+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
- },
- {
-  "id": "800c23e879",
-  "title": "Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.04839",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Humanoid loco-manipulation requires coordinated body motion and hand interaction over time, and a plausible-looking command sequence can still drop a held object or leave an interaction incomplete. We present action-conditioned latent foresight, a latent world-action model (WAM) that evaluates proposed command sequence",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-04T14:49:36.754853+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
- },
- {
-  "id": "d7743c6a3d",
-  "title": "Runtime Compilation for Quantum Circuits with PQF-Enabled R_z Synthesis",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.04075",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "In Fault-Tolerant Quantum Computing (FTQC) using surface codes, reducing $T$-count is critical for efficient computation due to the high cost of $T$-state distillation. Probabilistic Quantum Circuit with Fallback (PQF) synthesis significantly lowers $T$-counts compared to standard protocols like Gridsynth, but introduc",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-04T10:57:46.799207+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
- },
- {
-  "id": "1b80d65116",
-  "title": "Online Hamilton-Jacobi Reachability Onboard the Robot Control Loop: A Real-Time GPU Solver for Safety-Critical Autonomy",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.04096",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Hamilton-Jacobi (HJ) reachability provides certified backward reachable tubes (BRTs) for safety-critical robotic systems, but the level-set computation scales exponentially in the state dimension and has historically been performed offline. As autonomy stacks (ADAS/AV, humanoid robotics, and vision-language-action mode",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-04T10:57:46.799207+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
- },
- {
-  "id": "bc55be5f23",
-  "title": "Reasoning about Shared-Qubit Concurrency in Quantum Computing",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.04274",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "In this paper, we develop a semantic model for the parallel execution of quantum circuits, providing a formal foundation for studying shared-qubit concurrency in quantum computing. As in classical shared-memory concurrency, parallel quantum circuits may interfere with one another through operations on shared qubits.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-04T10:57:46.799207+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
- },
- {
-  "id": "22d398cbad",
-  "title": "Reopening the one clean qubit case of a semi-grand challenge",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.05046",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "In his 2005 list of semi-grand challenges for quantum computing theory, Scott Aaronson asked whether a quantum computer that is always in a separable mixed state can be simulated by a classical computer in polynomial time. An affirmative answer was claimed for the one clean qubit model of quantum computation.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ogs-1_Optical_Ground_Station_1_in_Table_Mountain%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-04T10:57:46.799207+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Ogs-1_Optical_Ground_Station_1_in_Table_Mountain,_California.jpg"
  }
 ]
