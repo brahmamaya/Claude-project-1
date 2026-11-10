@@ -1,5 +1,35 @@
 [
  {
+  "id": "262906979a",
+  "title": "CHAPEA Crew Leaves a Mark",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-10T14:57:55+00:00",
+  "publisher": "NASA",
+  "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+  "source_id": "nasa",
+  "via": null,
+  "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026.",
+  "key_facts": [
+   "Publisher: NASA",
+   "Published: 2026-11-10",
+   "Topic: Space"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg?w=1536",
+  "image_credit": "Image: NASA",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.0,
+  "added": "2026-11-10T15:10:43.995821+00:00",
+  "sample": false
+ },
+ {
   "id": "da1bc8f6f8",
   "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
   "category": "space",
@@ -58,6 +88,199 @@
   "relevance": 3.0,
   "added": "2026-11-10T11:15:09.030599+00:00",
   "sample": false
+ },
+ {
+  "id": "513f6aefc4",
+  "title": "Enabling Chemically Accurate Quantum Phase Estimation in the Early Fault-Tolerant Regime via Unitary Weight Concentration",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2603.22778",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum simulation of molecular electronic structure is one of the most promising applications of quantum computing. However, achieving chemically accurate predictions for strongly correlated systems requires quantum phase estimation (QPE) on fault-tolerant quantum computing (FTQC) devices.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-11-10T15:10:43.995821+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
+ },
+ {
+  "id": "66ad5ee0e3",
+  "title": "RoboMoCap: A Large-Scale Whole-Body Motion Capture Dataset with Egocentric Vision for Robot Learning",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.10994",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Humanoid robots must coordinate locomotion and manipulation to navigate complex environments and perform everyday tasks. Learning such behaviours from human demonstrations requires accurate whole-body motion paired with egocentric vision, particularly for lower-body movements and foot placements that are frequently inv",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Medell%C3%ADn_-_Nada_de_hacer_el_gili_con_drones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Zarateman, CC0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T15:10:43.995821+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Medell%C3%ADn_-_Nada_de_hacer_el_gili_con_drones.jpg"
+ },
+ {
+  "id": "1841d46ffe",
+  "title": "Safeguarding Agentic AI in Radiology Workflows: A Multimodel Evaluation of Rule-based and Large Language Model-based Verification",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.11541",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Purpose: To estimate how often tool-using large language model (LLM) agents record clinically relevant false or unsupported information in simulated radiology documentation and how much safeguards applied before each action reduce these errors. Materials and Methods: In this simulation study (October 2026), 48 syntheti",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T15:10:43.995821+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
+ },
+ {
+  "id": "89c5ed0fe6",
+  "title": "Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.11554",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Humanoid loco-manipulation requires continuous coordination of high-dimensional whole-body motion to realize task objectives. While vision-language-action models and world action models transfer semantic and visual-dynamics priors to robot control, these priors do not necessarily capture the structure of robot motion.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Drone_Flying_Eye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Flying Eye, CC BY-SA 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T15:10:43.995821+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Drone_Flying_Eye.jpg"
+ },
+ {
+  "id": "acd5248e2b",
+  "title": "HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.11665",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Humanoid robots have achieved significant progress in locomotion and manipulation, enabling traversal over rough terrain and richer interaction with the environment, such as moving obstacles. However, most traditional navigation methods assume non-interactive environments and focus only on traversal.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Willy Jackson, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T15:10:43.995821+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
+ },
+ {
+  "id": "b45c9eaa5c",
+  "title": "Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-10T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.11854",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Vision-language-action (VLA) models pair a vision-language backbone with an action head, but in closed-loop control the backbone sits on the control-critical path: while it computes, the robot keeps moving, so each executed action is conditioned on an increasingly stale observation. A larger backbone therefore directly",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-10",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Virginia_Tech%27s_CHARLI_humanoid_robot_on_display_at_AAAI_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Jiuguang Wang, CC BY-SA 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 8.0,
+  "added": "2026-11-10T15:10:43.995821+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Virginia_Tech%27s_CHARLI_humanoid_robot_on_display_at_AAAI_2010.jpg"
  },
  {
   "id": "6d704b13a3",
@@ -3592,222 +3815,5 @@
   "added": "2026-11-04T10:57:46.799207+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Ogs-1_Optical_Ground_Station_1_in_Table_Mountain,_California.jpg"
- },
- {
-  "id": "f88a3ca464",
-  "title": "EvoMemState: Evolving Memory State for Personal Agents",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.03743",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process through fact extraction, organization, updating, and retrieval, but largely maintain memories as independent facts.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-04T10:57:46.799207+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
- },
- {
-  "id": "c1ff8a5351",
-  "title": "Sleep-Disordered Breathing Detection with Quantum Recurrent Neural Networks",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-11-04T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.04818",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "This work investigates the application of Quantum Recurrent Neural Networks to the binary classification of sleep-disordered breathing events in time-series data, aiming to distinguish between apneic and normal breathing episodes. A variational classical--quantum architecture is proposed and evaluated against classical",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-04",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 9.0,
-  "added": "2026-11-04T10:57:46.799207+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
- },
- {
-  "id": "95dce5da61",
-  "title": "Stringman, an $800 open-source room scale gripper robot",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-03T16:47:29+00:00",
-  "publisher": "neufangled.com",
-  "url": "https://neufangled.com/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by neufangled.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: neufangled.com",
-   "Published: 2026-11-03",
-   "Topic: Robotics",
-   "Found via Hacker News (community score 85)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Willy Jackson, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.85,
-  "added": "2026-11-03T19:46:43.311312+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Ameca_Generation_1.jpg"
- },
- {
-  "id": "bd41b4d05c",
-  "title": "Astronaut and Earth",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-03T16:37:42+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-03",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-11-03T19:46:43.311312+00:00",
-  "sample": false
- },
- {
-  "id": "f435ac555b",
-  "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-03T15:35:14+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-03",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png?w=770",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-11-03T19:46:43.311312+00:00",
-  "sample": false
- },
- {
-  "id": "84049460ae",
-  "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-03T15:15:50+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, ce",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-03",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-11-03T19:46:43.311312+00:00",
-  "sample": false
- },
- {
-  "id": "fc62d69d86",
-  "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-  "category": "semiconductors",
-  "category_label": "Semiconductors",
-  "published": "2026-11-03T00:08:53+00:00",
-  "publisher": "finance.yahoo.com",
-  "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by finance.yahoo.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: finance.yahoo.com",
-   "Published: 2026-11-03",
-   "Topic: Semiconductors",
-   "Found via Hacker News (community score 210)"
-  ],
-  "context": "Semiconductors are the chips inside almost every modern device.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/A_highly_realistic_close-up_image_of_a_human_hand_holding_a_microchip_labeled_33_now_set_against_a_mp4xhlsonc5wr60xu0g0_0.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Da djinn77, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 4.1,
-  "added": "2026-11-03T10:55:16.376181+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:A_highly_realistic_close-up_image_of_a_human_hand_holding_a_microchip_labeled_33_now_set_against_a_mp4xhlsonc5wr60xu0g0_0.png"
  }
 ]
