@@ -1,5 +1,37 @@
 [
  {
+  "id": "b99b3bf0ad",
+  "title": "Found: A protein that drives ageing without unleashing inflammation",
+  "category": "biotechnology",
+  "category_label": "Biotechnology",
+  "published": "2026-11-13T19:25:21+00:00",
+  "publisher": "nature.com",
+  "url": "https://www.nature.com/articles/d41586-026-03638-3",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by nature.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: nature.com",
+   "Published: 2026-11-13",
+   "Topic: Biotechnology",
+   "Found via Hacker News (community score 203)"
+  ],
+  "context": "Biotechnology uses biology, such as genes and proteins, to build medicines and materials.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "data-analysis"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Microscope_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Tejeshmavinamar, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Biotechnology'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 4.03,
+  "added": "2026-11-14T10:28:37.721371+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Microscope_3.jpg"
+ },
+ {
   "id": "853e3d7c54",
   "title": "Models can now transmit viruses in weight-space",
   "category": "space",
@@ -3755,39 +3787,6 @@
   "source_id": "arxiv",
   "via": null,
   "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-06",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-11-06T19:40:06.678738+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "286c5f3a03",
-  "title": "DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-06T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.08434",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Designing protein sequences that satisfy both secondary structure requirements and solubility targets remains challenging. We present DiffSequence-Q, a hybrid multinomial diffusion model conditioned on secondary structure at each residue and a continuous solubility target.",
   "key_facts": [
    "Publisher: arXiv",
    "Published: 2026-11-06",
