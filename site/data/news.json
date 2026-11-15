@@ -1,5 +1,37 @@
 [
  {
+  "id": "98c0161290",
+  "title": "Will we put data centers in space?",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-14T17:35:33+00:00",
+  "publisher": "forethought.org",
+  "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by forethought.org. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: forethought.org",
+   "Published: 2026-11-14",
+   "Topic: Space",
+   "Found via Hacker News (community score 65)"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Satellite_Orbital_Elements.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: No machine-readable author provided. Ulli Griesheimer~commonswiki assumed (based, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 2.65,
+  "added": "2026-11-15T10:56:25.502951+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Satellite_Orbital_Elements.png"
+ },
+ {
   "id": "a7ab4e0023",
   "title": "A visual explanation of reinforcement learning",
   "category": "artificial-intelligence",
@@ -3501,6 +3533,36 @@
   "image_page": "https://commons.wikimedia.org/wiki/File:Drone_Flying_Eye.jpg"
  },
  {
+  "id": "30fcd499b2",
+  "title": "Reverse engineering a vintage diode-transistor logic chip",
+  "category": "semiconductors",
+  "category_label": "Semiconductors",
+  "published": "2026-11-08T19:03:48+00:00",
+  "publisher": "righto.com",
+  "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by righto.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: righto.com",
+   "Published: 2026-11-08",
+   "Topic: Semiconductors",
+   "Found via Hacker News (community score 112)"
+  ],
+  "context": "Semiconductors are the chips inside almost every modern device.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/A_highly_realistic_close-up_image_of_a_human_hand_holding_a_microchip_labeled_33_now_set_against_a_mp4xhlsonc5wr60xu0g0_0.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Da djinn77, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 6.12,
+  "added": "2026-11-15T10:56:25.502951+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_highly_realistic_close-up_image_of_a_human_hand_holding_a_microchip_labeled_33_now_set_against_a_mp4xhlsonc5wr60xu0g0_0.png"
+ },
+ {
   "id": "616c0e5148",
   "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
   "category": "space",
@@ -3742,71 +3804,5 @@
   "added": "2026-11-06T19:40:06.678738+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Satellite_Orbital_Elements.png"
- },
- {
-  "id": "06ebb2a6a8",
-  "title": "MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-06T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.07689",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Large language model agents are increasingly deployed through the Model Context Protocol (MCP), which allows them to discover and invoke tools across multiple servers at runtime. Existing MCP benchmarks primarily measure task completion; where they diagnose failures, they do so after execution rather than building spec",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-06",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-11-06T19:40:06.678738+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
- },
- {
-  "id": "3163a235eb",
-  "title": "Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-06T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.07825",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Goal interpretation is to translate a natural language instruction into a formal symbolic goal that a planner can execute. It is critical for embodied agents because any error here propagates to every downstream planning and action step.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-06",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-11-06T19:40:06.678738+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
  }
 ]
