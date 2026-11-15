@@ -283,6 +283,39 @@
   "sample": false
  },
  {
+  "id": "1d016377ab",
+  "title": "What thousands of conversations look like inside a language model",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-13T10:26:01+00:00",
+  "publisher": "operator0x.com",
+  "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by operator0x.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: operator0x.com",
+   "Published: 2026-11-13",
+   "Topic: Artificial Intelligence",
+   "Found via Hacker News (community score 79)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.79,
+  "added": "2026-11-15T19:05:04.629915+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
+ },
+ {
   "id": "462047aa22",
   "title": "Decide Before You Move: Diffusion-Generated Search Reference for Zero-Shot Open-Vocabulary Object Navigation in Semi-Static Environments",
   "category": "artificial-intelligence",
@@ -3775,35 +3808,5 @@
   "added": "2026-11-07T10:13:24.183481+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:CNC-Biegemaschine_EHRT.jpg"
- },
- {
-  "id": "8e64409f36",
-  "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-  "category": "semiconductors",
-  "category_label": "Semiconductors",
-  "published": "2026-11-06T16:31:32+00:00",
-  "publisher": "github.com",
-  "url": "https://github.com/anomalyco/rune",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by github.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: github.com",
-   "Published: 2026-11-06",
-   "Topic: Semiconductors",
-   "Found via Hacker News (community score 88)"
-  ],
-  "context": "Semiconductors are the chips inside almost every modern device.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flexible_Printed_Circuit_Board_Glued_To_Support.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Richard Wheeler User:Zephyris, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Semiconductors'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 2.88,
-  "added": "2026-11-06T19:40:06.678738+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Flexible_Printed_Circuit_Board_Glued_To_Support.jpg"
  }
 ]
