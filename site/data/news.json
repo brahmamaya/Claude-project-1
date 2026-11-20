@@ -1,5 +1,198 @@
 [
  {
+  "id": "fd9a16d2ff",
+  "title": "A measurement-free quantum error correction protocol for superconducting cavities",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-20T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.25095",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "The realization of large-scale quantum computation will require quantum error correction (QEC). One way to reduce the demands placed on QEC is to correct dominant physical errors at a lower level before passing the remaining errors to an outer code.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-20",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Quantum_Full_Adder.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Omnissiahs hierophant, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-11-20T11:42:48.092211+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Quantum_Full_Adder.png"
+ },
+ {
+  "id": "ff504c66f0",
+  "title": "Parallel transversal entangling gates for fault-tolerant trapped-ion quantum computing",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-20T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.25740",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Fault-tolerant quantum computing requires high-fidelity entangling gates that can be implemented efficiently across multiple qubit pairs. We present a scheme for simultaneous pairwise entangling operations, i.e., a transversal controlled-$Z$ gate, across neighboring wells in a double-well trapped-ion architecture.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-20",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Quantum_Full_Adder.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Omnissiahs hierophant, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-11-20T11:42:48.092211+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Quantum_Full_Adder.png"
+ },
+ {
+  "id": "e25f9a5324",
+  "title": "Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-20T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.26420",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "A central goal of humanoid robotics is for robots to perform the everyday work people do in homes and workplaces. Existing egocentric video datasets cover many of these activities but provide little synchronized whole-body motion data for learning loco-manipulation at scale.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-20",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Combined_robotic_arm_of_Tiangong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: China Manned Space Engineering Office, CC BY 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-11-20T11:42:48.092211+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Combined_robotic_arm_of_Tiangong.jpg"
+ },
+ {
+  "id": "0feb874b9a",
+  "title": "Enhancing Kerr-Cat Qubit Coherence with Engineered Dissipation",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-20T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2511.01027",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum computing crucially relies on maintaining quantum coherence for the duration of a calculation. Bosonic quantum error correction protects this coherence by encoding qubits into superpositions of noise-resilient oscillator states.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-20",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Helium_dilution_refrigerator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Unknown author, CC BY-SA 2.5, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-11-20T11:42:48.092211+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Helium_dilution_refrigerator.jpg"
+ },
+ {
+  "id": "132c6f0c4e",
+  "title": "WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation",
+  "category": "robotics",
+  "category_label": "Robotics",
+  "published": "2026-11-20T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.25251",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Reinforcement learning (RL) can improve vision-language-action (VLA) policies beyond imitation, but humanoid exploration is unsafe and simulator RL can exploit residual sim-to-real gaps. We present WEVO, a teleoperation-free framework for post-training a whole-body humanoid VLA in an action-conditioned video world mode",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-20",
+   "Topic: Robotics",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robotic_Arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: NASA/JPL/UA/Lockheed Martin, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-11-20T11:42:48.092211+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Robotic_Arm.jpg"
+ },
+ {
+  "id": "929f905bb6",
+  "title": "Splice-Core: Low-Order-Bit-Splicing GEMM for Highly Energy-Efficient AI Inference Accelerators",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-20T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.25617",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Splice-Core is a temporal-unary/binary (tub) hybrid general matrix multiplication (GEMM) unit that minimizes low-order accumulation latency, while retaining value-dependent execution for high-order activation bits. We present two novel processing element (PE) variants: (i) Splice-BP utilizing bit planes, and (ii) Splic",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-20",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-11-20T11:42:48.092211+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
   "id": "472edcef85",
   "title": "Challenge: Public Input on Life and the World in 2075",
   "category": "space",
@@ -1655,6 +1848,38 @@
   "added": "2026-11-18T11:45:11.484772+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
+ },
+ {
+  "id": "e40d9b8750",
+  "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+  "category": "space",
+  "category_label": "Space",
+  "published": "2026-11-17T22:11:46+00:00",
+  "publisher": "notesbylex.com",
+  "url": "https://notesbylex.com/weight-space-programming-1990s",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by notesbylex.com. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: notesbylex.com",
+   "Published: 2026-11-17",
+   "Topic: Space",
+   "Found via Hacker News (community score 101)"
+  ],
+  "context": "Space technology covers rockets, satellites and science missions.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Satellite_Orbital_Elements.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: No machine-readable author provided. Ulli Griesheimer~commonswiki assumed (based, Public domain, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.01,
+  "added": "2026-11-20T11:42:48.092211+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Satellite_Orbital_Elements.png"
  },
  {
   "id": "32110fc5e0",
@@ -3588,226 +3813,5 @@
   "added": "2026-11-15T14:14:57.317800+00:00",
   "sample": false,
   "image_page": "https://commons.wikimedia.org/wiki/File:Ramsey_History_Network_meeting_in_the_New_Brighton_History_Center_(Bulwer_Junction_Depot).jpg"
- },
- {
-  "id": "98c0161290",
-  "title": "Will we put data centers in space?",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-14T17:35:33+00:00",
-  "publisher": "forethought.org",
-  "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by forethought.org. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: forethought.org",
-   "Published: 2026-11-14",
-   "Topic: Space",
-   "Found via Hacker News (community score 65)"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Satellite_Orbital_Elements.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: No machine-readable author provided. Ulli Griesheimer~commonswiki assumed (based, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 2.65,
-  "added": "2026-11-15T10:56:25.502951+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Satellite_Orbital_Elements.png"
- },
- {
-  "id": "a7ab4e0023",
-  "title": "A visual explanation of reinforcement learning",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-14T13:31:06+00:00",
-  "publisher": "aatishb.com",
-  "url": "https://aatishb.com/myriad/how-brains-learn/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by aatishb.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: aatishb.com",
-   "Published: 2026-11-14",
-   "Topic: Artificial Intelligence",
-   "Found via Hacker News (community score 50)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 2.5,
-  "added": "2026-11-14T18:28:05.457814+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "b99b3bf0ad",
-  "title": "Found: A protein that drives ageing without unleashing inflammation",
-  "category": "biotechnology",
-  "category_label": "Biotechnology",
-  "published": "2026-11-13T19:25:21+00:00",
-  "publisher": "nature.com",
-  "url": "https://www.nature.com/articles/d41586-026-03638-3",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by nature.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: nature.com",
-   "Published: 2026-11-13",
-   "Topic: Biotechnology",
-   "Found via Hacker News (community score 203)"
-  ],
-  "context": "Biotechnology uses biology, such as genes and proteins, to build medicines and materials.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "data-analysis"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Microscope_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Tejeshmavinamar, CC BY-SA 4.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Biotechnology'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 4.03,
-  "added": "2026-11-14T10:28:37.721371+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Microscope_3.jpg"
- },
- {
-  "id": "853e3d7c54",
-  "title": "Models can now transmit viruses in weight-space",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-13T18:33:35+00:00",
-  "publisher": "alphaxiv.org",
-  "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by alphaxiv.org. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: alphaxiv.org",
-   "Published: 2026-11-13",
-   "Topic: Space",
-   "Found via Hacker News (community score 62)"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Daytime_Dynamo_Rocket_Launch_%289218456144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 2.62,
-  "added": "2026-11-13T20:00:08.032927+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Daytime_Dynamo_Rocket_Launch_(9218456144).jpg"
- },
- {
-  "id": "d6f57ed8e4",
-  "title": "OpenAI disbands its robotics team as its general models start running robots",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-13T17:55:23+00:00",
-  "publisher": "fortune.com",
-  "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by fortune.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: fortune.com",
-   "Published: 2026-11-13",
-   "Topic: Robotics",
-   "Found via Hacker News (community score 64)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robotic_Arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA/JPL/UA/Lockheed Martin, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.64,
-  "added": "2026-11-13T20:00:08.032927+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Robotic_Arm.jpg"
- },
- {
-  "id": "1cbd2bca9b",
-  "title": "Outbursts from a Massive Star",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-13T16:39:33+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-13",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=2048",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-11-13T20:00:08.032927+00:00",
-  "sample": false
- },
- {
-  "id": "17ce9d8841",
-  "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-13T16:05:54+00:00",
-  "publisher": "NASA",
-  "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Astronauts James A. Lovell Jr.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-13",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.0,
-  "added": "2026-11-13T20:00:08.032927+00:00",
-  "sample": false
  }
 ]
