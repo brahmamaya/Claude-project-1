@@ -1,5 +1,266 @@
 [
  {
+  "id": "26adec5d46",
+  "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-25T03:01:36+00:00",
+  "publisher": "proofatlas.ai",
+  "url": "https://www.proofatlas.ai/open-problems/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by proofatlas.ai. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: proofatlas.ai",
+   "Published: 2026-11-25",
+   "Topic: Artificial Intelligence",
+   "Found via Hacker News (community score 68)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 3.68,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+ },
+ {
+  "id": "86f67f24e8",
+  "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-25T00:54:49+00:00",
+  "publisher": "greydanus.github.io",
+  "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+  "source_id": "hn",
+  "via": "Hacker News",
+  "summary": "This story was published by greydanus.github.io. Open the original source for the full details.",
+  "key_facts": [
+   "Publisher: greydanus.github.io",
+   "Published: 2026-11-25",
+   "Topic: Artificial Intelligence",
+   "Found via Hacker News (community score 290)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "news",
+  "relevance": 4.9,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
+  "id": "2326cfa056",
+  "title": "Real-time adaptive quantum error correction by multi-agent learning",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-25T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2509.03974",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Quantum error correction is essential for scalable quantum computing, yet existing approaches rely on static assumptions about noise that break down in realistic hardware where error channels drift over time. We introduce a unified framework that separates QEC into two learning timescales: offline code discovery and on",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-25",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
+ },
+ {
+  "id": "8cbbd26f99",
+  "title": "Detailed, interpretable characterization of mid-circuit measurement on a transmon qubit",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-25T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2602.03938",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Mid-circuit measurements (MCMs) are critical components of the quantum error correction protocols expected to enable utility-scale quantum computing. MCMs can be modeled by quantum instruments (a type of quantum operation or process), which can be characterized self-consistently using gate set tomography.",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-25",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika%2CPhD%2CFRAS%2CAES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Dr A B Rajib Hazarika ,PhD,FRAS,AES, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 11.0,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Drabrh_ABR_LAQUIT_Quantum_Gate_Microprocessor_by_Dr.A.B.Rajib_Hazarika,PhD,FRAS,AES.jpg"
+ },
+ {
+  "id": "f88b32686a",
+  "title": "From Rule-based to Agentic: LLM Agent based Real-time Control of Urban Drainage Systems for Flooding and Sewer Overflow Mitigation",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-25T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.32046",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Real-time control (RTC) for urban drainage systems (UDS) remains hampered by sparse in-network sensing. While heterogeneous multi-modal meteorological early warnings often contain decision-critical information for UDS RTC, none of the existing approaches can exploit such externally-sourced information within the contro",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-25",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 10.0,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
+ },
+ {
+  "id": "e89644cc89",
+  "title": "RECAP: Training Long-horizon LLM Agents with Context Compaction",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-25T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.31258",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "Context compaction enables large language model agents to tackle long-horizon tasks within limited context budgets by replacing interaction histories with compressed summaries. However, learning effective compaction jointly with the agent policy remains challenging, as summaries affect task success over many subsequent",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-25",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
+ },
+ {
+  "id": "89150f6103",
+  "title": "Exploring Multi-Player Social Games as Verifiable Training Grounds for Large Language Models",
+  "category": "artificial-intelligence",
+  "category_label": "Artificial Intelligence",
+  "published": "2026-11-25T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2611.31821",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "The training of socially intelligent language models often relies on large language model (LLM) judges, which are expensive, noisy, and vulnerable to reward hacking. Multi-player social games offer a natural alternative: they require open-ended communication to coordinate with teammates and infer hidden roles, while th",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-25",
+   "Topic: Artificial Intelligence",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics",
+   "machine-learning-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
+ },
+ {
+  "id": "87009fb041",
+  "title": "Quantum Computing Algebra (QCA), the theory and implementation",
+  "category": "quantum-computing",
+  "category_label": "Quantum Computing",
+  "published": "2026-11-25T00:00:00-05:00",
+  "publisher": "arXiv",
+  "url": "https://arxiv.org/abs/2606.17621",
+  "source_id": "arxiv",
+  "via": null,
+  "summary": "We present a real geometric algebra framework designed for the direct translation of the Dirac formalism into geometric algebra representations. Unlike previous approaches based on positive-definite signatures, QCA employs a split-signature construction that enables a natural realization of quantum states and operators",
+  "key_facts": [
+   "Publisher: arXiv",
+   "Published: 2026-11-25",
+   "Topic: Quantum Computing",
+   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
+  ],
+  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
+  "context_label": "Background (editorial, not from the source)",
+  "why_matters": null,
+  "skills": [
+   "python-basics"
+  ],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Quantum_Full_Adder.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Omnissiahs hierophant, CC BY-SA 4.0, via Wikimedia Commons",
+  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
+  "kind": "research",
+  "relevance": 9.0,
+  "added": "2026-11-25T12:58:20.588943+00:00",
+  "sample": false,
+  "image_page": "https://commons.wikimedia.org/wiki/File:Quantum_Full_Adder.png"
+ },
+ {
   "id": "f78eeb5c4d",
   "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
   "category": "space",
@@ -3271,14 +3532,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "research",
   "relevance": 9.0,
   "added": "2026-11-19T11:42:29.756013+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Particle_Interactions_Calculated_on_Titan_Support_the_Search_for_New_Physics_Discoveries_-_25373768837.png"
+  "image_page": "https://commons.wikimedia.org/wiki/File:A_Novel_Method_for_Comparing_Plant_Genes_-_40540163131.jpg"
  },
  {
   "id": "02f4eb666d",
@@ -3368,14 +3629,14 @@
    "python-basics",
    "machine-learning-basics"
   ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Supercomputer_Quinde_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: JeffCF03, CC BY-SA 4.0, via Wikimedia Commons",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TORNAI-SpectrumOfMedicalImaging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "image_credit": "Illustrative photo: Martin Tornai, CC BY 4.0, via Wikimedia Commons",
   "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
   "kind": "news",
   "relevance": 5.33,
   "added": "2026-11-19T11:42:29.756013+00:00",
   "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Supercomputer_Quinde_I.jpg"
+  "image_page": "https://commons.wikimedia.org/wiki/File:TORNAI-SpectrumOfMedicalImaging.jpg"
  },
  {
   "id": "2b43fabf03",
@@ -3557,260 +3818,5 @@
   "relevance": 3.0,
   "added": "2026-11-18T20:52:31.635119+00:00",
   "sample": false
- },
- {
-  "id": "49c56cb191",
-  "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-18T16:00:00+00:00",
-  "publisher": "NASA",
-  "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao.",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-18",
-   "Topic: Space"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg?w=1536&#038;h=1536&#038;fit=clip",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-11-18T20:52:31.635119+00:00",
-  "sample": false
- },
- {
-  "id": "4d702825df",
-  "title": "Mass launched to orbit each year by rocket builder",
-  "category": "space",
-  "category_label": "Space",
-  "published": "2026-11-18T13:43:08+00:00",
-  "publisher": "kadoa.com",
-  "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
-  "source_id": "hn",
-  "via": "Hacker News",
-  "summary": "This story was published by kadoa.com. Open the original source for the full details.",
-  "key_facts": [
-   "Publisher: kadoa.com",
-   "Published: 2026-11-18",
-   "Topic: Space",
-   "Found via Hacker News (community score 70)"
-  ],
-  "context": "Space technology covers rockets, satellites and science missions.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Daytime_Dynamo_Rocket_Launch_%289218456144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Space'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 5.7,
-  "added": "2026-11-19T15:59:37.226302+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Daytime_Dynamo_Rocket_Launch_(9218456144).jpg"
- },
- {
-  "id": "871c704533",
-  "title": "APOD: 2026 November 18 – An M-class Solar Flare",
-  "category": "energy",
-  "category_label": "Energy",
-  "published": "2026-11-18T05:05:00+00:00",
-  "publisher": "NASA",
-  "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-  "source_id": "nasa",
-  "via": null,
-  "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
-  "key_facts": [
-   "Publisher: NASA",
-   "Published: 2026-11-18",
-   "Topic: Energy"
-  ],
-  "context": "Energy technology is about producing, storing and using power more cleanly or cheaply.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "data-analysis"
-  ],
-  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=2048&#038;h=2048&#038;fit=clip",
-  "image_credit": "Image: NASA",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Energy'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "news",
-  "relevance": 3.0,
-  "added": "2026-11-18T11:45:11.484772+00:00",
-  "sample": false
- },
- {
-  "id": "ca6156d9c8",
-  "title": "Technical Report of Mobile Manipulator Robot for Industrial Environments",
-  "category": "robotics",
-  "category_label": "Robotics",
-  "published": "2026-11-18T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.22852",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "This paper presents the design and implementation of Auriga Robotics' mobile manipulator robot, developed at the Robotics and Intelligent Automation Laboratory, Department of Electrical Engineering, Shahid Beheshti University. Hereafter, this platform is referred to as the @Work Robot.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-18",
-   "Topic: Robotics",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Robotics combines machines, sensors and software so machines can do physical tasks.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Flying_drone_in_Holland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Peter van der Sluijs, CC BY-SA 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Robotics'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-18T20:52:31.635119+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Flying_drone_in_Holland.jpg"
- },
- {
-  "id": "c68b2ce61b",
-  "title": "Teleportation of Logical Qubits using Lattice Surgery with Superconducting Circuits",
-  "category": "quantum-computing",
-  "category_label": "Quantum Computing",
-  "published": "2026-11-18T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.23165",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Demonstrating a quantum advantage when solving large-scale computational problems on a quantum computer requires the correction of errors that occur due to limitations in control accuracy and coherence. Using the concept of quantum error correction, fault-tolerant logical qubits can be realized and manipulated with log",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-18",
-   "Topic: Quantum Computing",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "Quantum computers use quantum physics to solve certain problems differently from normal computers.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/IR_Optical_Parametric_Oscillator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Kkmurray, CC BY 3.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Quantum Computing'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-18T20:52:31.635119+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:IR_Optical_Parametric_Oscillator.JPG"
- },
- {
-  "id": "d027d54b3e",
-  "title": "Weight-Space Programming Doesn't Need Transformers",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-18T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.22055",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes target weights by hand without gradient-based training, so those reasons no longer apply.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-18",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 8.0,
-  "added": "2026-11-18T20:52:31.635119+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "164ad1122d",
-  "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-18T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.22030",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "An agent resource's value depends on its backbone and companion resources and is known only after execution. Token-based generators remain tied to their training catalog, while independent resource scoring misses complementarities and reused bundles target other tasks.",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-18",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: Bovee and Thill, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-11-18T20:52:31.635119+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:AI_Humans_and_Robots.jpg"
- },
- {
-  "id": "ad8a29a08d",
-  "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
-  "category": "artificial-intelligence",
-  "category_label": "Artificial Intelligence",
-  "published": "2026-11-18T00:00:00-05:00",
-  "publisher": "arXiv",
-  "url": "https://arxiv.org/abs/2611.22177",
-  "source_id": "arxiv",
-  "via": null,
-  "summary": "Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is known, such as earnings announcements, and after ",
-  "key_facts": [
-   "Publisher: arXiv",
-   "Published: 2026-11-18",
-   "Topic: Artificial Intelligence",
-   "Type: research preprint (not yet peer reviewed unless stated by the authors)"
-  ],
-  "context": "AI is software that learns patterns from data. Research here can change how many jobs and tools work.",
-  "context_label": "Background (editorial, not from the source)",
-  "why_matters": null,
-  "skills": [
-   "python-basics",
-   "machine-learning-basics"
-  ],
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "image_credit": "Illustrative photo: OLCF, CC BY 2.0, via Wikimedia Commons",
-  "diagram": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180' role='img' aria-label='Artificial Intelligence'><rect width='320' height='180' fill='#0b0b0b'/><circle cx='160' cy='90' r='50' fill='none' stroke='#fff' stroke-width='1.5'/><ellipse cx='160' cy='90' rx='78' ry='24' fill='none' stroke='#888' transform='rotate(-20 160 90)'/><circle cx='222' cy='72' r='5' fill='#fff'/></svg>",
-  "kind": "research",
-  "relevance": 7.0,
-  "added": "2026-11-18T20:52:31.635119+00:00",
-  "sample": false,
-  "image_page": "https://commons.wikimedia.org/wiki/File:Transforming_Gas_into_Fuels_with_Better_Alloys_-_42556530160.png"
  }
 ]
